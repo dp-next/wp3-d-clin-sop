@@ -1,0 +1,38 @@
+| Outcome / Phenotype Domain (assessment) | SDCO | SDCA | SDCN | Navn                 |
+|-----------|----------|----------|----------|----------------------|
+| Sociodemographics                       | X    | X    | X    |                      |
+| Medical history / morbidity             | X    | X    | X    | David                |
+| Anthropometry                           | X    | X    | X    | David (skinfold), MK |
+| Body composition                        | X    | X    |      | Kristina             |
+| Blood pressure and pulse                | X    | X    | X    | Kristina             |
+| Habitual sleep and physical activity    | X    | X    | X    | MK                   |
+| DXA whole-body scan                     | X    | X    | X    | David                |
+| Liver status; steatosis and fibrosis    | X    | X    |      | MK                   |
+| Functional capacity and motor function  | X    | X    | X    | MK                   |
+| Glycaemic dynamics                      | X    | X    | X    | MS                   |
+| Subjective sleep quality                | X    | X    | X    | Spg:                 |
+| Oral health–related quality of life     | X    | X    | X    | Spg:                 |
+| Autonomic symptoms                      | X    | X    | X    | Jonas                |
+| Chronotype                              | X    | X    | X    | Spg:                 |
+| Eating behaviour                        | X    | X    | X    | Spg:                 |
+| Continuous glucose monitoring           | X    | X    | X    | MS                   |
+| Voice characteristics                   | X    | X    | X    | Kristina             |
+| Autonomic function                      |      | X    | X    | Jonas                |
+| Vibration Perception Threshold          |      |      | X    | David                |
+| Nerve conduction                        |      |      | X    | David                |
+| Sensory function                        |      |      | X    | David                |
+| Diet                                    | X    | X    | X    | Spg                  |
+| Blood samples                           | X    | X    | X    | Kristina?            |
+| Fecal samples                           | X    | X    | X    | MS                   |
+| Saliva sample                           | X    | X    | X    | MS                   |
+| Biobank                                 |      |      |      | Fælles               |
+
+David: 6
+
+Kristina: 4
+
+MK: 3.5
+
+MS: 4
+
+Jonas: 2 + spg

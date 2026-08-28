@@ -1,0 +1,84 @@
+---
+format:
+  html:
+    theme: cosmo
+---
+
+::: cover-page
+![](images/dp-next-logo.png)
+
+|  |  |
+|----|----|
+| **Study name:** | Sustainable Type 2 Diabetes Prevention for the 21st Century |
+| **Short name:** | DP-Next |
+| **SOP title:** | SOP Template - Data Collection in DP-Next |
+| **SOP short title:** | Template |
+| **SOP Version:** | 1 |
+| Authored by | Mikkel Steentoft |
+| **Date:** | 14.08.2026 |
+:::
+
+# Purpose
+
+- Brief description of the purpose of the examination and relevant background if needed
+
+# Scope
+
+- Who performs the examination
+- Which participants are examined, and at what point in the study the examination is performed
+- Any requirements regarding e.g. fasting, timing, or rest
+- Required qualifications/training of personnel performing the examination
+
+# Equipment and Preparation
+
+- Equipment and materials used
+- Preparation of equipment, room, and participant prior to the examination
+
+# Safety
+
+- Relevant safety considerations
+- Contraindications
+- Conditions requiring the examination to be discontinued
+
+# Data
+
+- What data is generated
+- Where and how data is registered or stored
+
+# Instructions
+
+- Any standardized instructions to be given to the participant
+
+# Procedure
+
+- Describe the examination step by step - supplement with images if relevant
+- Divide into phases if necessary
+  - Preparation
+    - Step 1
+    - Step 2
+  - Execution
+    - Step 1
+    - Step 2
+  - Completion
+    - Step 1
+    - Step 2
+
+# Documentation and Quality Control
+
+- Any checks and documentation to be carried out during and after the examination
+
+# Deviations, Errors, and Equipment Malfunction
+
+- Expected results (what a normal/valid measurement looks like)
+- Actions to take in case of deviations or technical issues
+- Relevant contact persons
+
+# References
+
+- Related SOPs, protocols, or literature this SOP is based on
+
+# Version History
+
+| Version | Date       | Prepared by      | Approved by |
+|---------|------------|------------------|-------------|
+| 1       | 14.08.2026 | Mikkel Steentoft |             |
