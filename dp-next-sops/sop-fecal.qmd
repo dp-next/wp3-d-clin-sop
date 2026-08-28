@@ -1,0 +1,85 @@
+---
+format:
+  html:
+    theme: cosmo
+---
+
+::: cover-page
+![](dp-next-logo.png){width="250px"}
+
+|  |  |
+|------------------------------------|------------------------------------|
+| **Study name:** | Sustainable Type 2 Diabetes Prevention for the 21st Century |
+| **Short name:** | DP-Next |
+| **SOP title:** | Standard operating procedure for fecal samples in DP-Next |
+| **SOP short title:** | SOP on fecal samples |
+| **SOP Version:** | 1 |
+| Authored by | Mikkel Steentoft |
+| **Date:** | 14.08.2026 |
+:::
+
+# Purpose
+
+- This standard operating procedure (SOP) describes the process of preparing, receiving, storing and recording fecal samples in the DP-Next study.
+
+# Scope
+
+- All eligible participants are instructed to collect (x?) stool samples prior to CID1 (Deep phenotyping - visit 1). Patient are provided with a sample kit and detailed written instructions for collecting the stool samples. <!-- something about the specific kit that we are using, short description, including how it is frozen and kept at home -->
+- The patient will bring the sample to CID1, where it is received by the staff. The staff will ask the patient: “Have you used any antibiotics or probiotics within the last 3 months?” and the answer is record in REDCap.
+- It is the responsibility of the person collecting each fecal sample to ensure that samples are correctly stored and recorded.
+
+# Equipment and Preparation
+
+- <!-- Fecal sample kit -->
+- Preparation of equipment, room, and participant prior to the examination
+
+# Safety
+
+- Relevant safety considerations
+- Contraindications
+- Conditions requiring the examination to be discontinued
+
+# Data
+
+- 
+- 
+
+# Instructions
+
+- The participant will be provided with detailed written instructions for collecting the fecal sample when receiving the Easysampler kit at Information meeting and consent (visit 0).
+
+# Procedure
+
+- 
+- Divide into phases if necessary
+  - Preparation
+    - Step 1
+    - Step 2
+  - Execution
+    - Step 1
+    - Step 2
+  - Completion
+    - Step 1
+    - Step 2
+
+# Documentation and Quality Control
+
+- Any checks and documentation to be carried out during and after the examination
+
+# Deviations, Errors, and Equipment Malfunction
+
+- Deviations of returning process of the sample will be handled as follows:
+
+  - If liquid has been removed from the tube: Add 5 ml of 96% ethanol to the tube and record this in REDCap.
+
+  - If the sample is not returned in the tube: Discard immediately.
+
+# References
+
+- Related SOPs, protocols, or literature this SOP is based on
+
+# Version History
+
+| Version | Date       | Prepared by      | Approved by |
+|---------|------------|------------------|-------------|
+| 1       | 14.08.2026 | Mikkel Steentoft |             |

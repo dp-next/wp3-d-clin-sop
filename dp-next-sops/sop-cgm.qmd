@@ -1,0 +1,139 @@
+---
+format:
+  html:
+    theme: cosmo
+---
+
+::: cover-page
+![](images/dp-next-logo.png){width="689" height="519"}
+
+|  |  |
+|------------------------------------|------------------------------------|
+| **Study name:** | Sustainable Type 2 Diabetes Prevention for the 21st Century |
+| **Short name:** | DP-Next |
+| **SOP title:** | Standard Operating Procedure for Continuous Glucose Monitoring (CGM) |
+| **SOP short title:** | SOP on CGM |
+| **SOP Version:** | 1 |
+| **Authored by:** | Mikkel Steentoft |
+| **Date:** | 14.08.2026 |
+:::
+
+# Purpose
+
+- To continuously monitor participants' blood glucose levels throughout the study period
+
+# Background
+
+- A Continuous Glucose Monitor (CGM) is used to assess a person's blood glucose fluctuations over time
+- Typically attached to the back of the upper arm, measuring glucose levels every 5 minutes
+- Provides more detailed information on glucose levels than a single-point measurement (e.g. finger-prick)
+
+# Scope
+
+- The CGM sensor is applied at Visit 1 (deep phenotyping) after check-in by the DP-Next staff
+- Participants wear a subcutaneous CGM sensor on the back of the upper arm, applied a time points during the study: \[DP-NEXT visit-navne, fx V1, V9\]
+- Required qualifications/training of personnel performing the examination
+
+# Equipment and Preparation
+
+- 1 new Freestyle Libre Pro iQ sensor (single use only)
+- 1 Freestyle Libre Pro iQ reader (**IMPORTANT!** The SAME reader must be used at application and readout)
+- Check that the selected reader is charged prior to the visit
+- Alcohol wipe for skin disinfection
+- Barrier spray and/or kinesiology tape (optional, if adhesion has previously been a problem)
+
+# Safety
+
+- Relevant safety considerations
+- Contraindications
+- Conditions requiring the examination to be discontinued
+- During the first 14 days of \[fase/periode\], the CGM also serves as an additional safety measure
+
+# Deviations, Errors, and Equipment Malfunction
+
+- Expected results: valid readings appear as continuous glucose data at 5-minute intervals within the reader/LibreView system
+- **Measurement threshold:** if glucose values exceed 10.0 mmol/l, the participant is contacted by the study site to ensure adherence to the intervention. The participant is also invited to an additional HbA1c measurement. If two separate measurements show HbA1c \> 53, the participant and their general practitioner are informed, and resumption of medical treatment is recommended. **\[TILPAS til DP-NEXT protokol\]**
+- Actions to take in case of deviations or technical issues (e.g. sensor falls off, reader malfunction)
+- **\[TILPAS\]** Relevant contact persons
+
+# Data
+
+- Data is reported as:
+  - Time in Range (3.9–10.0 mmol/l, given in %)
+  - Time below Range (\<3.9 mmol/l, given in %)
+  - Time above Range (\>10.0 mmol/l, given in %)
+  - Coefficient of Variation (measure of glucose fluctuation)
+- **Blinding:** Participants do not have access to their own measurements
+- **Analysis:** All data from the 14-day wear period is included in analyses, including the first 24 hours. Missing data is not imputed
+- **\[TILPAS\]** Where and how data is registered or stored (REDCap-felt/database for DP-NEXT)
+
+# Instructions
+
+- Inform the participant that the sensor is removed after 14 days if it has not already fallen off
+- The participant should place the removed sensor in the provided zip-lock bag
+- The participant brings the sensor to the next visit
+
+# Procedure
+
+## Application
+
+- Take a new sensor
+- Disinfect the application area with an alcohol wipe
+- Typically applied to the back of the upper arm - consider asking which side the participant sleeps on
+- **Note:** shave the application site if the participant has significant body hair
+- If adhesion has previously been an issue, consider barrier spray (applied before sensor placement) and/or kinesiology tape
+- Wait until the area is completely dry before applying the sensor
+- Open the sensor package and remove the applicator cap. Place the applicator over the sensor, aligning the two markers
+- Press the applicator (containing the sensor) firmly against the disinfected area
+- Remove the applicator and confirm the tape is securely attached at the sensor's edge
+- Turn on the FreeStyle Libre 3 reader by pressing the green button
+- Record which reader is used in REDCap (marked 1, 2, or 3)
+- Record the sensor ID in REDCap
+- Press "Start new sensor" and hold the reader over the sensor
+- Wait 2-3 minutes as indicated on screen
+- Hold the reader over the sensor again to confirm sensor status; a successful start is confirmed by \[screen indication\]
+
+## Removal and Readout
+
+- Note the participant ID on the sensor
+- Turn on the reader and select "Get sensor data." Hold the reader over the sensor until it beeps, then press "Next"
+- Connect the reader to a Windows computer using the supplied cable
+- Ensure "LibreView Device Drivers" is installed on the computer
+- Go to LibreView portal and log in using \[login information\]
+- Select "Upload Device"
+- Select "Create report linked to patient"
+- If this is the participant's first CGM wear: create a new participant profile (see below); otherwise select "Next" and search for the participant by ID
+- Creating a participant profile (all data must be pseudonymized):
+  - First name: ID followed by underscore, e.g. "1\_"
+  - Last name: Visit 1
+  - Date of birth:
+  - Practice:
+  - Email address: leave blank
+- Select the participant and choose "Profile" from the left-hand menu
+- Select "Download glucose data" at the bottom of the page
+- Save the glucose data as a CSV file at: \[DP-NEXT filsti\]
+- File naming convention: **\[TILPAS\]** e.g. `dpnext_id_visit_cgm.csv`
+- Select "Glucose History" from the left-hand menu
+- Select "View report," then "Print/Save PDF"
+- **\[TILPAS\]** Save the AGP report as PDF at: \[DP-NEXT filsti\]
+- File naming convention: **\[TILPAS\]** e.g. `dpnext_id_visit_cgm.pdf`
+- Upload both files (CSV and AGP PDF) to **\[TILPAS - REDCap/system\]**, and archive the sensor
+- On the final page of the AGP report, calculate the average glucose from the most recent 4 complete days and enter it into **\[TILPAS - REDCap/system\]** (sum the 4 most recent "Average Glucose" values and divide by 4)
+- **\[TILPAS\]** Notify \[relevant contact person\] of participants with newly uploaded CGM data at \[DP-NEXT-specifikt tidspunkt\]
+
+# Documentation and Quality Control
+
+- Confirm sensor ID and reader ID are correctly logged
+- Confirm both CSV and AGP PDF files follow the correct naming convention before upload
+- Any additional checks and documentation to be carried out during and after the examination
+
+# References
+
+- Battelino et al. 2019 (CGM metrics: TIR, CV)
+- **\[TILPAS\]** Related SOPs, protocols, or literature this SOP is based on
+
+# Version History
+
+| Version | Date       | Prepared by      | Approved by |
+|---------|------------|------------------|-------------|
+| 1       | 14.08.2026 | Mikkel Steentoft |             |
