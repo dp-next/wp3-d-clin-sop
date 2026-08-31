@@ -5,7 +5,7 @@ format:
 ---
 
 ::: cover-page
-![](dp-next-logo.png){width="250px"}
+![](images/dp-next-logo.png)
 
 |  |  |
 |------------------------------------|------------------------------------|
@@ -15,7 +15,7 @@ format:
 | **SOP short title:** | SOP on fecal samples |
 | **SOP Version:** | 1 |
 | Authored by | Mikkel Steentoft |
-| **Date:** | 14.08.2026 |
+| **Date:** | 31.08.2026 |
 :::
 
 # Purpose
@@ -24,47 +24,77 @@ format:
 
 # Scope
 
-- All eligible participants are instructed to collect (x?) stool samples prior to CID1 (Deep phenotyping - visit 1). Patient are provided with a sample kit and detailed written instructions for collecting the stool samples. <!-- something about the specific kit that we are using, short description, including how it is frozen and kept at home -->
-- The patient will bring the sample to CID1, where it is received by the staff. The staff will ask the patient: “Have you used any antibiotics or probiotics within the last 3 months?” and the answer is record in REDCap.
+- All eligible participants are provided with a sample kit and detailed written instructions for collecting the stool samples at the information meeting (Visit 0).
+- Participants are instructed to bring the sample to Visit 1, where it is received by the staff.
 - It is the responsibility of the person collecting each fecal sample to ensure that samples are correctly stored and recorded.
 
 # Equipment and Preparation
 
-- <!-- Fecal sample kit -->
-- Preparation of equipment, room, and participant prior to the examination
+Prior to the information meeting (Visit 0), prepare and pack the following in a zip-lock bag and pack it in the cooler bag with the two cooling elements:
 
-# Safety
+- 1x collection bag
 
-- Relevant safety considerations
-- Contraindications
-- Conditions requiring the examination to be discontinued
+- 2x collection tubes with brown caps and integrated spoons
 
-# Data
+- 2x Transport containers
 
-- 
-- 
+- 1x Plastic bag
+
+- Disposable gloves
+
+- Disinfectant wipes
+
+- 1x Waterproof marker
+
+- 1x Printed usage guide (*'Brugervejledning – Afføringsprøve'* / EasySampler guide: <https://imagecache.nomeco.dk/mud/222527> <!-- should we consider including this guide in the participant information for the stool sample? Or do we prefer to make our own guide with pictures etc, as in Lightbar? -->
+
+- 1x Printed overview stating ('*Deltagerinformation - Afføringsprøve'*
+
+  - Participant ID
+
+  - Visit number
+
+  - Date and time of stool collection
+
+Provide the participant with the sampling kit
 
 # Instructions
 
 - The participant will be provided with detailed written instructions for collecting the fecal sample when receiving the Easysampler kit at Information meeting and consent (visit 0).
 
-# Procedure
+# Procedure for receiving stool samples
 
-- 
-- Divide into phases if necessary
-  - Preparation
-    - Step 1
-    - Step 2
-  - Execution
-    - Step 1
-    - Step 2
-  - Completion
-    - Step 1
-    - Step 2
+1.  Receive the cooler bag containing the samples and ask the question:
+
+    - “Have you used any antibiotics or probiotics within the last 3 months?” and record the answer in REDCap.
+
+2.  Put on gloves.
+
+3.  Open the zip-lock and remove the two transport containers.
+
+4.  Open the transport containers and remove the samples.
+
+5.  Record the ID number, visit number, and date and time of the sample on 2 x -80 °C labels, and attach them to the sample tubes.
+
+**Placing Samples in the Freezer:**
+
+1.   <!-- Register the stool samples in the... however we are orgnizing the biobank? -->
+
+2.  Write the ID number in the next available position in the box.
+
+3.  <!-- Place the stool samples in the -80 °C freezer in the designated position and box recorded in the biobank. The freezer is located in .... -->
+
+4.  Discard the bag in which the samples were delivered.
+
+5.  <!-- Place the transport containers in the utility room for washing.-->
+
+6.  Remove gloves and perform hand hygiene.
+
+7.  <!-- where to put the cooler bag and cooling elements afterwards? -->
 
 # Documentation and Quality Control
 
-- Any checks and documentation to be carried out during and after the examination
+- Record in REDCap under the respective visit day that the stool sample has been submitted. Also note if and why the participant did not submit a sample, and arrange a new time for submission.
 
 # Deviations, Errors, and Equipment Malfunction
 
@@ -76,10 +106,10 @@ format:
 
 # References
 
-- Related SOPs, protocols, or literature this SOP is based on
+- <!-- maybe a reference to the information meeting SOP, if we are making one -->
 
 # Version History
 
 | Version | Date       | Prepared by      | Approved by |
 |---------|------------|------------------|-------------|
-| 1       | 14.08.2026 | Mikkel Steentoft |             |
+| 1       | 31.08.2026 | Mikkel Steentoft |             |
