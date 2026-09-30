@@ -12,7 +12,7 @@ format:
 | **Projekttitel:** | Sustainable Type 2 Diabetes Prevention for the 21st Century |
 | **Kort projekttitel:** | DP-Next |
 | **SOP titel:** | Standard Operating Procedure for kontinuerlig glukosemåling (CGM) i DP-Next-projektet |
-| **Kort SOP-titel:** | SOP for CGM |
+| **Kort SOP titel:** | SOP for CGM |
 | **SOP version:** | 1 |
 | **Udarbejdet af:** | Mikkel Steentoft |
 | **Dato:** | 30.09.2026 |
