@@ -78,15 +78,15 @@ Provide the participant with the sampling kit
 
 **Placing Samples in the Freezer:**
 
-1.   <!-- Register the stool samples in the... however we are orgnizing the biobank? -->
+1.  <!-- Register the stool samples in the... however we are orgnizing the biobank? -->
 
 2.  Write the ID number in the next available position in the box.
 
-3.  <!-- Place the stool samples in the -80 °C freezer in the designated position and box recorded in the biobank. The freezer is located in .... -->
+3.  <!-- Place the stool samples in the -80 °C freezer in the designated position and box recorded in the biobank. The freezer is located in? -->
 
 4.  Discard the bag in which the samples were delivered.
 
-5.  <!-- Place the transport containers in the utility room for washing.-->
+5.  <!-- Where to place the transport containers for washing?-->
 
 6.  Remove gloves and perform hand hygiene.
 
