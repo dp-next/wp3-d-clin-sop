@@ -9,13 +9,13 @@ format:
 
 |  |  |
 |------------------------------------|------------------------------------|
-| **Study name:** | Sustainable Type 2 Diabetes Prevention for the 21st Century |
-| **Short name:** | DP-Next |
-| **SOP title:** | Standard operating procedure for fecal samples in DP-Next |
-| **SOP short title:** | SOP on fecal samples |
+| **Projekttitel:** | Sustainable Type 2 Diabetes Prevention for the 21st Century |
+| **Kort projekttitel:** | DP-Next |
+| **SOP titel:** | Standard operating procedure for afføringsprøve i DP-Next projektet. |
+| **Kort SOP-titel:** | SOP for afføringsprøve |
 | **SOP Version:** | 1 |
-| Authored by | Mikkel Steentoft |
-| **Date:** | 31.08.2026 |
+| **Udarbejdet af:** | Mikkel Steentoft |
+| **Dato:** | 30.09.2026 |
 :::
 
 ## Formål
