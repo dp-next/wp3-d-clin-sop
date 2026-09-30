@@ -8,10 +8,10 @@ format:
 ![](images/dp-next-logo.png)
 
 |  |  |
-|------------------------------------|------------------------------------|
+|----|----|
 | **Projekttitel:** | Sustainable Type 2 Diabetes Prevention for the 21st Century |
 | **Kort projekttitel:** | DP-Next |
-| **SOP titel:** | Standard operating procedure for afføringsprøve i DP-Next projektet. |
+| **SOP titel:** | Standard Operating Procedure for afføringsprøve i DP-Next-projektet. |
 | **Kort SOP titel:** | SOP for afføringsprøve |
 | **SOP Version:** | 1 |
 | **Udarbejdet af:** | Mikkel Steentoft |
@@ -55,7 +55,7 @@ Udlever prøvesættet til deltageren.
 
 ## Instruktioner
 
-Deltageren får en detaljeret skriftlig vejledning i indsamling af afføringsprøven sammen med EasySampler-sættet ved informations- og samtykkemødet. (Visit 0).
+Deltageren får en detaljeret skriftlig vejledning i indsamling af afføringsprøven sammen med EasySampler-sættet ved informations- og samtykkemødet (Visit 0).
 
 ## Procedure for modtagelse af afføringsprøver
 
