@@ -8,7 +8,7 @@ format:
 ![](images/dp-next-logo.png){width="689" height="519"}
 
 |  |  |
-|------------------------------------|------------------------------------|
+|----|----|
 | **Projekttitel:** | Sustainable Type 2 Diabetes Prevention for the 21st Century |
 | **Kort projekttitel:** | DP-Next |
 | **SOP titel:** | Standard Operating Procedure for kontinuerlig glukosemåling (CGM) i DP-Next-projektet |

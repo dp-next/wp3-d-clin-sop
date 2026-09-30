@@ -49,6 +49,10 @@ Inden informationsmødet (Visit 0) klargøres følgende og pakkes i en lynlåspo
 
 Udlever prøvesættet til deltageren.
 
+## Sikkerhed
+
+<!-- Mangler relevante sikkerhedsforanstaltninger, hvis der er nogle? -->
+
 ## Instruktioner
 
 Deltageren får en detaljeret skriftlig vejledning i indsamling af afføringsprøven sammen med EasySampler-sættet ved informations- og samtykkemødet. (Visit 0).
