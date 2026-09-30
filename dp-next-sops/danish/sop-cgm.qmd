@@ -20,7 +20,7 @@ format:
 
 ## Formål
 
-- Kontinuerlig monitorering af deltagerens blodglukoseniveauer under studieperioden.
+- Denne Standard Operating Procedure beskriver hvordan kontinuerlige glukosemålere bruges i DP-Next-projektet.
 
 ## Baggrund
 
@@ -69,50 +69,50 @@ format:
 
 ### Påsætning
 
-1.  Tag en ny sensor.
-2.  Afsprit området, hvor sensoren skal sidde, med en desinfektionsserviet.
-    - Sensoren sættes typisk bagpå overarmen. Spørg evt., hvilken side deltageren sover på.
-    - **OBS!** Barbér påsætningsstedet, hvis deltageren har meget hår.
-    - Brug evt. barrierespray (sprayes på før påsætning, for at undgå hudirritation) og kinesiotape for at undgå, at sensoren falder af.
-3.  Vent til området er helt tørt, før sensoren påsættes.
-4.  Åbn pakken med sensoren, og skru låget af applikatoren. Sæt applikatoren ned over sensoren, så de to streger står overfor hinanden. Se vejledningen i sensorens æske eller Abbotts video: https://www.freestyle.abbott/da-dk/learn/freestyle-libre-basics.html
-5.  Tryk applikatoren, der nu indeholder sensoren, mod det afsprittede område, og tryk den helt i bund.
-6.  Fjern applikatoren, og sørg for, at tapen sidder fast i kanten af sensoren.
-7.  Tænd en Freestyle Libre 3 læser ved at trykke på den grønne knap.
-    - Notér i REDCap, hvilken læser du bruger (markeret med 1, 2 eller 3).
-    - Notér sensorens ID i REDCap. <!-- BILLEDE: sensor-ID markeret med rødt -->
-8.  Tryk "Start new sensor", og hold læseren hen over sensoren. <!-- BILLEDE: læserens startskærm -->
-9.  Vent 2–3 minutter som angivet på skærmen. <!-- BILLEDE: læserens venteskærm -->
-10. Hold læseren hen over sensoren igen for at tjekke status. Når læseren viser følgende billede, er sensoren startet korrekt. <!-- BILLEDE: bekræftelse på korrekt start -->
+- Tag en ny sensor.
+- Afsprit området, hvor sensoren skal sidde, med en desinfektionsserviet.
+  - Sensoren sættes typisk bagpå overarmen. Spørg evt., hvilken side deltageren sover på.
+  - **OBS!** Barbér påsætningsstedet, hvis deltageren har meget hår.
+  - Brug evt. barrierespray (sprayes på før påsætning, for at undgå hudirritation) og kinesiotape for at undgå, at sensoren falder af.
+- Vent til området er helt tørt, før sensoren påsættes.
+- Åbn pakken med sensoren, og skru låget af applikatoren. Sæt applikatoren ned over sensoren, så de to streger står overfor hinanden. Se vejledningen i sensorens æske eller Abbotts video: https://www.freestyle.abbott/da-dk/learn/freestyle-libre-basics.html
+- Tryk applikatoren, der nu indeholder sensoren, mod det afsprittede område, og tryk den helt i bund.
+- Fjern applikatoren, og sørg for, at tapen sidder fast i kanten af sensoren.
+- Tænd en Freestyle Libre 3 læser ved at trykke på den grønne knap.
+  - Notér i REDCap, hvilken læser du bruger (markeret med 1, 2 eller 3).
+  - Notér sensorens ID i REDCap. <!-- BILLEDE: sensor-ID markeret med rødt -->
+- Tryk "Start new sensor", og hold læseren hen over sensoren. <!-- BILLEDE: læserens startskærm -->
+- Vent 2–3 minutter som angivet på skærmen. <!-- BILLEDE: læserens venteskærm -->
+- Hold læseren hen over sensoren igen for at tjekke status. Når læseren viser følgende billede, er sensoren startet korrekt. <!-- BILLEDE: bekræftelse på korrekt start -->
 
 ### Afmontering og aflæsning
 
-1.  Notér deltager-ID/REDCap-ID på sensoren.
-2.  Tænd læseren, og vælg "Get sensor data". Hold læseren hen over sensoren, til den bipper, og tryk "Next". (**OBS:** Samme læser skal bruges ved påsætning og aflæsning af sensoren).
-3.  Slut læseren til en Windows-computer med det medfølgende kabel.
-    - Programmet "LibreView Device Drivers" skal være installeret på computeren. <!-- hvordan får vi det installeret på personalets computere? -->
-4.  Gå til https://www.libreview.com, og log ind med DP-Nexts konto: <!-- Her skal oplysninger om brugernavn og kodeord til DP-Nexts konto angives -->
-    - **OBS!** Vælg Storbritannien og Dansk, hvis det er første gang, du besøger LibreView.
-5.  Tryk "Upload enhed". <!-- BILLEDE: LibreView, Upload enhed -->
-6.  Tryk "Opret rapport linket til patient".
-    - Tryk "Opret deltager".
-7.  Oprettelse af deltager. Følgende felter udfyldes:
-    - Fornavn: ID efterfulgt af understregning, fx "1\_".
-    - Efternavn: cgm
-    - Fødselsdato: <!-- ens dato for alle deltagere, f.eks. bare Januar, 01, 2001 -->
-    - Praksis: DP-Next <!-- efterfulgt af site, f.eks. SDCA/Aarhus -->
-    - E-mailadresse: lad feltet stå tomt.
-8.  Tryk på deltageren, og vælg "Profil" i menuen til venstre.
-    - Tryk "Download glukosedata" nederst midt på siden. <!-- BILLEDE: LibreView, Download glukosedata -->
-    - Gem glukosedata som csv-fil her: <!-- filsti til hvor vi gemmer rådata -->
-    - Filnavn: <!-- fx `dpnext_id_cgm.csv`-->
-9.  Tryk "Glukosehistorik" i menuen til venstre.
-    - Tryk "Vis rapport" og derefter "Udskriv/gem PDF". <!-- BILLEDE: LibreView, Vis rapport og Udskriv/gem PDF -->
-    - Gem AGP-rapporten som PDF her: <!-- filsti til hvor vi gemmer pdf'er -->
-    - Filnavn: <!-- fx dpnext_id_cgm.pdf -->
-10. Upload begge filer (csv og AGP-pdf) til REDCap, og gem sensoren <!-- hvor gemmer vi sensorerne? -->
-11. Gå til sidste side af AGP-rapporten, og udregn den gennemsnitlige glukose fra de seneste 4 fulde døgn. Skriv den ind i REDCap.
-    - Sådan gør du: Læg de seneste 4 tal under "Gennemsnitlig glukose" sammen, og divider med 4.
+- Notér deltager-ID/REDCap-ID på sensoren.
+- Tænd læseren, og vælg "Get sensor data". Hold læseren hen over sensoren, til den bipper, og tryk "Next". (**OBS:** Samme læser skal bruges ved påsætning og aflæsning af sensoren).
+- Slut læseren til en Windows-computer med det medfølgende kabel.
+  - Programmet "LibreView Device Drivers" skal være installeret på computeren. <!-- hvordan får vi det installeret på personalets computere? -->
+- Gå til https://www.libreview.com, og log ind med DP-Nexts konto: <!-- Her skal oplysninger om brugernavn og kodeord til DP-Nexts konto angives -->
+  - **OBS!** Vælg Storbritannien og Dansk, hvis det er første gang, du besøger LibreView.
+- Tryk "Upload enhed". <!-- BILLEDE: LibreView, Upload enhed -->
+- Tryk "Opret rapport linket til patient".
+  - Tryk "Opret deltager".
+- Oprettelse af deltager. Følgende felter udfyldes:
+  - Fornavn: ID efterfulgt af understregning, fx "1\_".
+  - Efternavn: cgm
+  - Fødselsdato: <!-- ens dato for alle deltagere, f.eks. bare Januar, 01, 2001 -->
+  - Praksis: DP-Next <!-- efterfulgt af site, f.eks. SDCA/Aarhus -->
+  - E-mailadresse: lad feltet stå tomt.
+- Tryk på deltageren, og vælg "Profil" i menuen til venstre.
+  - Tryk "Download glukosedata" nederst midt på siden. <!-- BILLEDE: LibreView, Download glukosedata -->
+  - Gem glukosedata som csv-fil her: <!-- filsti til hvor vi gemmer rådata -->
+  - Filnavn: <!-- fx `dpnext_id_cgm.csv`-->
+- Tryk "Glukosehistorik" i menuen til venstre.
+  - Tryk "Vis rapport" og derefter "Udskriv/gem PDF". <!-- BILLEDE: LibreView, Vis rapport og Udskriv/gem PDF -->
+  - Gem AGP-rapporten som PDF her: <!-- filsti til hvor vi gemmer pdf'er -->
+  - Filnavn: <!-- fx dpnext_id_cgm.pdf -->
+- Upload begge filer (csv og AGP-pdf) til REDCap, og gem sensoren <!-- hvor gemmer vi sensorerne? -->
+- Gå til sidste side af AGP-rapporten, og udregn den gennemsnitlige glukose fra de seneste 4 fulde døgn. Skriv den ind i REDCap.
+  - Sådan gør du: Læg de seneste 4 tal under "Gennemsnitlig glukose" sammen, og divider med 4.
 
 ## Dokumentation og kvalitetskontrol
 

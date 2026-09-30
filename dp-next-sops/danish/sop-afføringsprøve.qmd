@@ -8,7 +8,7 @@ format:
 ![](images/dp-next-logo.png)
 
 |  |  |
-|----|----|
+|------------------------------------|------------------------------------|
 | **Projekttitel:** | Sustainable Type 2 Diabetes Prevention for the 21st Century |
 | **Kort projekttitel:** | DP-Next |
 | **SOP titel:** | Standard Operating Procedure for afføringsprøve i DP-Next-projektet. |
@@ -20,7 +20,7 @@ format:
 
 ## Formål
 
-Denne standard operating procedure (SOP) beskriver, hvordan afføringsprøver forberedes, modtages, opbevares og registreres i DP-Next.
+Denne standard operating procedure (SOP) beskriver, hvordan afføringsprøver forberedes, modtages, opbevares og registreres i DP-Next-projektet.
 
 ## Anvendelsesområde
 
@@ -59,23 +59,26 @@ Deltageren får en detaljeret skriftlig vejledning i indsamling af afføringspr�
 
 ## Procedure for modtagelse af afføringsprøver
 
-1.  Modtag køletasken med prøverne og spørg deltageren: "Har du anvendt antibiotika eller probiotika inden for de seneste 3 måneder?" Registrér svaret i REDCap.
-2.  Tag handsker på.
-3.  Åbn lynlåsposen og tag de to transportbeholdere op.
-4.  Åbn transportbeholderne og tag prøverne ud.
-5.  Skriv deltager-ID, besøgsnummer samt dato og tidspunkt for prøven på 2 stk. -80 °C-etiketter, og sæt dem på prøverørene.
+- Modtag køletasken med prøverne og spørg deltageren: "Har du anvendt antibiotika eller probiotika inden for de seneste 3 måneder?" Registrér svaret i REDCap.
 
-### Placering af prøver i fryseren
+- Tag handsker på.
 
-<!-- Hvordan registrerer vi afføringsprøverne i biobanken? Afklares, når biobankens organisering er på plads. -->
+- Åbn lynlåsposen og tag de to transportbeholdere op.
 
-6.  Skriv deltager-ID på den næste ledige plads i boksen. <!-- Placér prøverne i -80 °C-fryseren på den anviste plads og i den anviste boks, som registreres i biobanken. Hvor står fryseren? -->
-7.  Bortskaf posen, som prøverne blev afleveret i. <!-- Hvor skal transportbeholderne stå til vask? -->
-8.  Tag handskerne af og udfør håndhygiejne. <!-- Hvor placeres køletasken og køleelementerne bagefter? -->
+- Åbn transportbeholderne og tag prøverne ud.
+
+- Skriv deltager-ID, besøgsnummer samt dato og tidspunkt for prøven på 2 stk. -80 °C-etiketter, og sæt dem på prøverørene.
+
+- Placering af prøver i fryser
+
+  <!-- Hvordan registrerer vi afføringsprøverne i biobanken? Afklares, når biobankens organisering er på plads. -->
+
+  - Skriv deltager-ID på den næste ledige plads i boksen. <!-- Placér prøverne i -80 °C-fryseren på den anviste plads og i den anviste boks, som registreres i biobanken. Hvor står fryseren? -->
+  - Bortskaf posen, som prøverne blev afleveret i. <!-- Hvor skal transportbeholderne stå til vask? -->
+  - Tag handskerne af og udfør håndhygiejne. <!-- Hvor placeres køletasken og køleelementerne bagefter? -->
+  - Registrér i REDCap under den pågældende besøgsdag, at afføringsprøven er afleveret. Notér også, hvis deltageren ikke har afleveret en prøve, og hvorfor, og aftal eventuelt en ny tid for aflevering.
 
 ## Dokumentation og kvalitetskontrol
-
-Registrér i REDCap under den pågældende besøgsdag, at afføringsprøven er afleveret. Notér også, hvis deltageren ikke har afleveret en prøve, og hvorfor, og aftal eventuelt en ny tid for aflevering.
 
 ## Afvigelser og fejl
 
