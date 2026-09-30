@@ -18,22 +18,22 @@ format:
 | **Dato:** | 30.09.2026 |
 :::
 
-# Formål
+## Formål
 
 - Kontinuerlig monitorering af deltagerens blodglukoseniveauer under studieperioden.
 
-# Baggrund
+## Baggrund
 
 - En kontinuerlig glukosemåler (CGM) bruges til at undersøge en persons blodglukoseniveauer over tid.
 - Sensoren bliver typisk sat på bagsiden af overarmen og måler glukoseniveauer hvert 5. minut.
 - CGM giver mere detaljerede glukosemålinger end målinger foretaget på ét tidspunkt (f.eks. fingerprik).
 
-# Anvendelsesområde
+## Anvendelsesområde
 
 - CGM-sensoren bliver påsat ved Visit 1 (deep phenotyping) af DP-Next-personalet efter check-in.
 - Deltageren bærer CGM-sensoren på bagsiden af overarmen i 14 dage.
 
-# Udstyr og forberedelse
+## Udstyr og forberedelse
 
 - 1 ny Freestyle Libre 3 sensor (engangsbrug).
 - 1 Freestyle Libre 3 læser (**OBS:** Samme læser skal bruges ved påsætning og aflæsning af sensoren).
@@ -42,16 +42,11 @@ format:
 - Barrierespray for at undgå hudirritation fra sensoren.
 - Kinesiotape (brug eventuelt for at undgå, at sensoren falder af)
 
-# Sikkerhed
+## Sikkerhed
 
 <!-- Mangler relevante sikkerhedsforanstaltninger, hvis der er nogle? -->
 
-# Afvigelser og fejl
-
-- Forventede resultater: Valide målinger vises som kontinuerlige glukosemålinger med 5 minutters interval.
-- <!-- hvad gør vi, hvis der er fejl i data eller udstyr? -->
-
-# Data
+## Data
 
 - Data rapporteres som:
   - Time in Range (3.9–10.0 mmol/l, angivet i %).
@@ -61,7 +56,7 @@ format:
 - **Blinding:** Deltagerne har ikke adgang til målingerne.
 - **Analyser:** Al data fra de 14 dage deltageren har båret sensoren inkluderes i analysen.
 
-# Instruktioner
+## Instruktioner
 
 - Informér deltageren om at sensoren skal tages af efter 14 dage, hvis den ikke selv er faldet af inden.
 - Deltageren skal lægge sensoren i den udleverede pose med zip-lås.
@@ -123,6 +118,11 @@ format:
 
 - Kontrollér, at sensor-ID og læser-nummer er registreret korrekt.
 - Kontrollér, at både csv- og pdf-filen har det rigtige filnavn, før de uploades.
+
+## Afvigelser og fejl
+
+- Forventede resultater: Valide målinger vises som kontinuerlige glukosemålinger med 5 minutters interval.
+- <!-- hvad gør vi, hvis der er fejl i data eller udstyr? -->
 
 ## Referencer
 
