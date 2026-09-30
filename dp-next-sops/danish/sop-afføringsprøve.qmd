@@ -1,0 +1,91 @@
+---
+format:
+  html:
+    theme: cosmo
+---
+
+::: cover-page
+![](images/dp-next-logo.png)
+
+|  |  |
+|------------------------------------|------------------------------------|
+| **Study name:** | Sustainable Type 2 Diabetes Prevention for the 21st Century |
+| **Short name:** | DP-Next |
+| **SOP title:** | Standard operating procedure for fecal samples in DP-Next |
+| **SOP short title:** | SOP on fecal samples |
+| **SOP Version:** | 1 |
+| Authored by | Mikkel Steentoft |
+| **Date:** | 31.08.2026 |
+:::
+
+## Formål
+
+Denne standard operating procedure (SOP) beskriver, hvordan afføringsprøver forberedes, modtages, opbevares og registreres i DP-Next.
+
+## Anvendelsesområde
+
+Alle egnede deltagere får udleveret et prøvesæt og en detaljeret skriftlig vejledning i indsamling af afføringsprøven ved informationsmødet (besøg 0).
+
+Deltagerne bliver bedt om at medbringe prøven til Visit 1, hvor DP-Next personale modtager den.
+
+Den person, der håndterer prøven, er ansvarlig for, at den opbevares og registreres korrekt.
+
+## Udstyr og forberedelse
+
+Inden informationsmødet (Visit 0) klargøres følgende og pakkes i en lynlåspose, som lægges i køletasken sammen med de to køleelementer:
+
+- 1 x opsamlingspose
+- 2 x prøverør med brunt låg og indbygget ske
+- 2 x transportbeholdere
+- 1 x plastikpose
+- Engangshandsker
+- Desinfektionsservietter
+- 1 x vandfast tusch
+- 1 x udskrevet brugervejledning ('Brugervejledning – Afføringsprøve' / EasySampler-vejledning: https://imagecache.nomeco.dk/mud/222527) <!-- Skal vi inkludere vejledningen i deltagerinformationen om afføringsprøven? Eller skal vi lave vores egen vejledning med billeder osv., som i Lightbar? -->
+- 1 x udskrevet oversigt ('Deltagerinformation – Afføringsprøve') med:
+  - Deltager-ID
+  - Besøgsnummer
+  - Dato og tidspunkt for indsamling af afføringsprøven
+
+Udlever prøvesættet til deltageren.
+
+## Instruktion
+
+Deltageren får en detaljeret skriftlig vejledning i indsamling af afføringsprøven sammen med EasySampler-sættet ved informations- og samtykkemødet. (Visit 0).
+
+## Procedure for modtagelse af afføringsprøver
+
+1.  Modtag køletasken med prøverne og spørg deltageren: "Har du anvendt antibiotika eller probiotika inden for de seneste 3 måneder?" Registrér svaret i REDCap.
+2.  Tag handsker på.
+3.  Åbn lynlåsposen og tag de to transportbeholdere op.
+4.  Åbn transportbeholderne og tag prøverne ud.
+5.  Skriv deltager-ID, besøgsnummer samt dato og tidspunkt for prøven på 2 stk. -80 °C-etiketter, og sæt dem på prøverørene.
+
+### Placering af prøver i fryseren
+
+<!-- Hvordan registrerer vi afføringsprøverne i biobanken? Afklares, når biobankens organisering er på plads. -->
+
+6.  Skriv deltager-ID på den næste ledige plads i boksen. <!-- Placér prøverne i -80 °C-fryseren på den anviste plads og i den anviste boks, som registreres i biobanken. Hvor står fryseren? -->
+7.  Bortskaf posen, som prøverne blev afleveret i. <!-- Hvor skal transportbeholderne stå til vask? -->
+8.  Tag handskerne af og udfør håndhygiejne. <!-- Hvor placeres køletasken og køleelementerne bagefter? -->
+
+## Dokumentation og kvalitetskontrol
+
+Registrér i REDCap under den pågældende besøgsdag, at afføringsprøven er afleveret. Notér også, hvis deltageren ikke har afleveret en prøve, og hvorfor, og aftal eventuelt en ny tid for aflevering.
+
+## Afvigelser og fejl
+
+Afvigelser i forbindelse med aflevering af prøven håndteres således:
+
+- **Hvis væsken er fjernet fra røret:** Tilsæt 5 ml 96 % ethanol til røret og registrér det i REDCap.
+- **Hvis prøven ikke er afleveret i røret:** Bortskaf den med det samme.
+
+## Referencer
+
+<!-- Evt. henvisning til SOP for informationsmødet, hvis vi laver en. -->
+
+## Versionshistorik
+
+| Version | Dato       | Udarbejdet af    | Godkendt af |
+|---------|------------|------------------|-------------|
+| 1       | 30.09.2026 | Mikkel Steentoft |             |
