@@ -20,7 +20,7 @@ format:
 
 ## Formål
 
-- Denne Standard Operating Procedure beskriver hvordan kontinuerlige glukosemålere bruges i DP-Next-projektet.
+- Denne Standard Operating Procedure (SOP) beskriver forberedelse, påsætning, aflæsning og datahåndtering af CGM-sensorer i DP-Next-projektet.
 
 ## Baggrund
 
