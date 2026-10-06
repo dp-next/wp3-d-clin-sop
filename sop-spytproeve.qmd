@@ -1,0 +1,146 @@
+---
+format:
+  html:
+    theme: cosmo
+---
+
+::: cover-page
+![](images/dp-next-logo.png)
+
+|  |  |
+|------------------------------------|------------------------------------|
+| **Projekttitel:** | Sustainable Type 2 Diabetes Prevention for the 21st Century |
+| **Kort projekttitel:** | DP-Next |
+| **SOP titel:** | Standard Operating Procedure for spytprøve i DP-Next-projektet. |
+| **Kort SOP titel:** | SOP for spytprøve |
+| **SOP Version:** | 1 |
+| **Udarbejdet af:** | Mikkel Steentoft |
+| **Dato:** | 30.09.2026 |
+:::
+
+## Formål
+
+- Denne Standard Operation Procedure (SOP) beskriver processen for indsamling, opbevaring og rapportering af spytprøver i DP-Next-projektet.
+
+## Baggrund
+
+- 16S rRNA-sekventering bruges til at identificere og sammenligne bakterier baseret på dette gen.
+
+## Anvendelsesområde
+
+- Alle egnede deltagere afleverer en spytprøve ved Visit 1.
+
+- Den person, der håndterer prøven, er ansvarlig for, at den opbevares og registreres korrekt.
+
+## Udstyr og forberedelse
+
+Forud for modtagelse af deltageren ved Visit 1, forberedes følgende udstyr til opsamling af spytprøve:
+
+- 1 gram of gum-base tyggegummi
+
+  - Køkkenvægt til afvejning inden opsamling
+
+- Medicinbæger
+
+- 1x 4,5 ml cryorør
+
+- 2x 1,8 ml cryorør
+
+- RNAlater reagent (AM7021), placeret i <!-- Hvor opbevares dette? -->
+
+- 2x -80 °C-label til cryo-rør markeret ’Spyt’
+
+- 1x -80 °C-label til cryo-rør markeret ’Spyt + RNAlater’
+
+- Flydende nitrogen (til snap-frysning)
+
+## Sikkerhed
+
+<!-- Mangler relevante sikkerhedsforanstaltninger, hvis der er nogle? -->
+
+## Data
+
+## Instruktioner
+
+- Deltageren må ikke børste tænder før opsamlingen (heller ikke om morgenen, hvis prøven opsamles samme morgen)
+  - Hvis deltageren har børstet tænder, tages prøven alligevel og kommentar om dette tilføjes.
+- Deltageren må ikke bruge receptpligtig tandpasta med 5000 ppm fluorid, men kun almindelig tandpasta med maksimalt 1500 ppm.
+- Deltageren må ikke spise, drikke eller børste tænder 2 timer inden opsamlingen.
+
+## Procedure
+
+- Klargøring
+
+  - Skriv ID nr. på 3 labels
+
+    - 1x label til RNAlater
+
+    - 2x labels til hurtig frys
+
+  - Sæt labels på cryorør
+
+    - 1x label RNAlater på 4,5 mL cryorør
+
+    - 2x labels hurtig frys på 1,8 mL cryorør
+
+- Opsamling af spytprøve
+
+  - 5-6 stykker gum-base lægges på en vægt og det tjekkes, at det vejer ca 1. gram.
+
+  - Forsøgsdeltageren tager gum-base i munden uden at berøre det med hænderne.
+
+  - Der tygges, indtil gum-base har samlet sig i et stykke tyggegummi.
+
+  - Der tygges ligeligt i begge sider af munden.
+
+  - Spytopsamlingen begynder efter ca. 1 minut, der spyttes kontinuerligt i medicinbægeret til 5 mL spyt er nået (Se indikator på medicinbæger).
+
+  - Gum-basen skal holdes i munden, hver gang der spyttes.
+
+- Behandling af spytprøve
+
+  - Spyt afpipetteres **med det samme efter opsamling**
+
+    - 1,0 mL spyt i 4,5 mL cryorør indeholdende 3,0 ml RNAlater. Røret vendes 10 gange og sættes ved +4 grader i min. 24 timer. Derefter stilles røret ved -80 grader.
+
+    - 2x 1,0 mL spyt i 2 x 1,8 mL cryorør og snap-fryses i flydende kvælstof/nitrogen. Prøver overføres til -80 grader sammen med øvrige blodprøve, når forsøgsdagen er omme.
+
+- Placering af prøver i fryser
+
+  - Spytprøverne registreres i excel-arket "DP-Next Biobank" under fanerne "Spyt" eller "Spyt RNAlater" <!-- sti til excel-arket skal specificeres -->
+
+  - Skriv ID + CPR-nummer + tidspunkter for prøveopsamling + frysning på den næste ledige plads i kassen.
+
+  - Spytprøverne sættes i -80 fryseren (OBS: Vent 24 timer med rørene med spyt+RNAlater) i den plads og kasse der er noteret i excel-arket for biobank. Fryseren er placeret .... <!-- lokation for fryser skrives her -->
+
+- **Registrering i RedCap:**
+
+  - Oral klorhexidinbehandling indenfor de sidste 6 uger
+
+  - Oral behandling med svampehæmmende stoffer
+
+  - Systemisk antibiotikabehandling indenfor de 2 måneder
+
+  - Regelmæssig brug af diverse mundskyllemidler
+
+  - Brug af tandpasta med mere end 1500 ppm fluorid
+
+  - Brug af tandpasta med triclosan (kun et enkelt Colgate mærke tilbage i Danmark)
+
+  - Brug af urtetandpasta (nogle indeholder antibakterielle stoffer) 
+
+  - Tandbehandling indenfor de sidste 6 uger (tandrensning, fyldninger, ect)
+
+  - Rygning (varighed, mængde)
+
+## Dokumentation og kvalitetskontrol
+
+## Afvigelser og fejl
+
+## Referencer
+
+## Versionshistorik
+
+| Version | Dato       | Udarbejdet af    | Godkendt af |
+|---------|------------|------------------|-------------|
+| 1       | 30.09.2026 | Mikkel Steentoft |             |
