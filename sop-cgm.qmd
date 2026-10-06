@@ -1,0 +1,137 @@
+---
+format:
+  html:
+    theme: cosmo
+---
+
+::: cover-page
+![](images/dp-next-logo.png){width="689" height="519"}
+
+|  |  |
+|------------------------------------|------------------------------------|
+| **Projekttitel:** | Sustainable Type 2 Diabetes Prevention for the 21st Century |
+| **Kort projekttitel:** | DP-Next |
+| **SOP titel:** | Standard Operating Procedure for kontinuerlig glukosemåling (CGM) i DP-Next-projektet |
+| **Kort SOP titel:** | SOP for CGM |
+| **SOP version:** | 1 |
+| **Udarbejdet af:** | Mikkel Steentoft |
+| **Dato:** | 30.09.2026 |
+:::
+
+## Formål
+
+- Denne Standard Operating Procedure (SOP) beskriver forberedelse, påsætning, aflæsning og datahåndtering af CGM-sensorer i DP-Next-projektet.
+
+## Baggrund
+
+- En kontinuerlig glukosemåler (CGM) bruges til at undersøge en persons blodglukoseniveauer over tid.
+- Sensoren bliver typisk sat på bagsiden af overarmen og måler glukoseniveauer hvert 5. minut.
+- CGM giver mere detaljerede glukosemålinger end målinger foretaget på ét tidspunkt (f.eks. fingerprik).
+
+## Anvendelsesområde
+
+- CGM-sensoren bliver påsat ved Visit 1 (deep phenotyping) af DP-Next-personalet efter check-in.
+- Deltageren bærer CGM-sensoren på bagsiden af overarmen i 14 dage.
+
+## Udstyr og forberedelse
+
+- 1 ny Freestyle Libre 3 sensor (engangsbrug).
+- 1 Freestyle Libre 3 læser (**OBS:** Samme læser skal bruges ved påsætning og aflæsning af sensoren).
+- Kontrollér, at læseren er fuldt opladet før besøget.
+- Desinfektionsservietter.
+- Barrierespray for at undgå hudirritation fra sensoren.
+- Kinesiotape (brug eventuelt for at undgå, at sensoren falder af).
+
+## Sikkerhed
+
+<!-- Mangler relevante sikkerhedsforanstaltninger, hvis der er nogle? -->
+
+## Data
+
+- Data rapporteres som:
+  - Time in Range (3.9–10.0 mmol/l, angivet i %).
+  - Time below Range (\<3.9 mmol/l, angivet i %).
+  - Time above Range (\>10.0 mmol/l, angivet i %).
+  - Coefficient of Variation (et mål for glukoseudsving).
+- **Blinding:** Deltagerne har ikke adgang til målingerne.
+- **Analyser:** Al data fra de 14 dage deltageren har båret sensoren inkluderes i analysen.
+
+## Instruktioner
+
+- Informér deltageren om, at sensoren skal tages af efter 14 dage, hvis den ikke er faldet af af sig selv inden da.
+- Deltageren skal lægge sensoren i den udleverede pose med zip-lås.
+- <!-- mangler afklaring: hvordan får vi indleveret sensoren igen? -->
+- Hvis sensoren falder af før der er gået 14 dage, <!-- skal deltageren gøre hvad? -->
+
+## Procedure
+
+<!-- proceduren herunder er i høj grad baseret på onlimit-soppen, som bruger libre pro. Her skal vi især tilpasse efter afprøvning -->
+
+### Påsætning
+
+- Tag en ny sensor.
+- Afsprit området, hvor sensoren skal sidde, med en desinfektionsserviet.
+  - Sensoren sættes typisk bagpå overarmen. Spørg evt., hvilken side deltageren sover på.
+  - **OBS!** Barbér påsætningsstedet, hvis deltageren har meget hår.
+  - Brug evt. barrierespray (sprayes på før påsætning, for at undgå hudirritation) og kinesiotape for at undgå, at sensoren falder af.
+- Vent til området er helt tørt, før sensoren påsættes.
+- Åbn pakken med sensoren, og skru låget af applikatoren. Sæt applikatoren ned over sensoren, så de to streger står overfor hinanden. Se vejledningen i sensorens æske.
+- Tryk applikatoren, der nu indeholder sensoren, mod det afsprittede område, og tryk den helt i bund.
+- Fjern applikatoren, og sørg for, at tapen sidder fast i kanten af sensoren.
+- Tænd en Freestyle Libre 3 læser ved at trykke på den grønne knap.
+  - Notér i REDCap, hvilken læser du bruger (markeret med 1, 2 eller 3).
+  - Notér sensorens ID i REDCap. <!-- Billede: sensor-ID markeret med rødt -->
+- Tryk "Start new sensor", og hold læseren hen over sensoren. <!-- Billede: læserens startskærm -->
+- Vent 2–3 minutter som angivet på skærmen. <!-- Billede: læserens venteskærm -->
+- Hold læseren hen over sensoren igen for at tjekke status. Når læseren viser følgende Billede, er sensoren startet korrekt. <!-- Billede: bekræftelse på korrekt start -->
+
+### Afmontering og aflæsning
+
+- Notér deltager-ID/REDCap-ID på sensoren.
+- Tænd læseren, og vælg "Get sensor data". Hold læseren hen over sensoren, til den bipper, og tryk "Next". (**OBS:** Samme læser skal bruges ved påsætning og aflæsning af sensoren).
+- Slut læseren til en Windows-computer med det medfølgende kabel.
+  - Programmet "LibreView Device Drivers" skal være installeret på computeren. <!-- hvordan får vi det installeret på personalets computere? -->
+- Gå til https://www.libreview.com, og log ind med DP-Nexts konto: <!-- Her skal oplysninger om brugernavn og kodeord til DP-Nexts konto angives -->
+  - **OBS!** Vælg Storbritannien og Dansk, hvis det er første gang, du besøger LibreView.
+- Tryk "Upload enhed". <!-- Billede: LibreView, Upload enhed -->
+- Tryk "Opret rapport linket til patient".
+  - Tryk "Opret deltager".
+- Oprettelse af deltager. Følgende felter udfyldes:
+  - Fornavn: ID efterfulgt af understregning, fx "1\_".
+  - Efternavn: cgm
+  - Fødselsdato: <!-- ens dato for alle deltagere, f.eks. bare Januar, 01, 2001 -->
+  - Praksis: DP-Next <!-- efterfulgt af site, f.eks. SDCA/Aarhus -->
+  - E-mailadresse: lad feltet stå tomt.
+- Tryk på deltageren, og vælg "Profil" i menuen til venstre.
+  - Tryk "Download glukosedata" nederst midt på siden. <!-- Billede: LibreView, Download glukosedata -->
+  - Gem glukosedata som csv-fil her: <!-- filsti til hvor vi gemmer rådata -->
+  - Filnavn: <!-- fx `dpnext_id_cgm.csv`-->
+- Tryk "Glukosehistorik" i menuen til venstre.
+  - Tryk "Vis rapport" og derefter "Udskriv/gem PDF". <!-- Billede: LibreView, Vis rapport og Udskriv/gem PDF -->
+  - Gem AGP-rapporten som PDF her: <!-- filsti til hvor vi gemmer pdf'er -->
+  - Filnavn: <!-- fx dpnext_id_cgm.pdf -->
+- Upload begge filer (csv og AGP-pdf) til REDCap, og gem sensoren <!-- hvor gemmer vi sensorerne? -->
+- Gå til sidste side af AGP-rapporten, og udregn den gennemsnitlige glukose fra de seneste 4 fulde døgn. Skriv den ind i REDCap.
+  - Sådan gør du: Læg de seneste 4 tal under "Gennemsnitlig glukose" sammen, og divider med 4.
+
+## Dokumentation og kvalitetskontrol
+
+- Kontrollér, at sensor-ID og læser-nummer er registreret korrekt.
+- Kontrollér, at både csv- og pdf-filen har det rigtige filnavn, før de uploades.
+
+## Afvigelser og fejl
+
+- Forventede resultater: Valide målinger vises som kontinuerlige glukosemålinger med 5 minutters interval.
+- <!-- hvad gør vi, hvis der er fejl i data eller udstyr? -->
+
+## Referencer
+
+<!-- Evt. henvisning til SOP for informationsmødet, hvis vi laver en. -->
+
+- Abbotts video: <https://www.youtube.com/watch?v=pVsXzLsOUdY>
+
+# Versionshistorik
+
+| Version | Dato       | Udarbejdet af    | Godkendt af |
+|---------|------------|------------------|-------------|
+| 1       | 30.09.2026 | Mikkel Steentoft |             |
