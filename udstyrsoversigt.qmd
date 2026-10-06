@@ -1,0 +1,204 @@
+---
+title: "Udstyrsoversigt"
+---
+
+## Sociodemografi
+
+- **Dataindsamlingsmetode:**
+- **Udstyr:** -
+- **Lokation (Aarhus):**
+
+## Sygehistorie / sygelighed
+
+- **Dataindsamlingsmetode:**
+- **Udstyr:** -
+- **Lokation (Aarhus):**
+
+## Antropometri
+
+- **Dataindsamlingsmetode:** Højde, vægt, talje- og hofteomkreds, hudfoldsmålinger
+- **Udstyr:**
+  - Højde: 1x vægmonteret stadiometer
+  - Vægt: 1x kalibreret vægt
+  - Talje- og hofteomkreds: 1x uelastisk målebånd/taljebånd.
+  - Hudfoldstykkelse: 1x kalibreret hudfoldsmåler
+- **Lokation (Aarhus):**
+
+## Kropssammensætning
+
+- **Dataindsamlingsmetode:** Bioimpedans (BIA)
+- **Udstyr:** 1x valideret BIA-apparat.
+- **Lokation (Aarhus):**
+
+## Blodtryk og puls
+
+- **Dataindsamlingsmetode:** Automatisk blodtryksmåling i siddende stilling + puls fra apparatet
+- **Udstyr:** 1x automatisk blodtrykapparat med passende manchet.
+- **Lokation (Aarhus):**
+
+## Sædvanlig søvn og fysisk aktivitet
+
+- **Dataindsamlingsmetode:** Håndledsbåret aktigrafi
+- **Udstyr:** <!-- ?x smartwatches -->
+- **Lokation (Aarhus):**
+
+## DXA-helkropsscanning
+
+- **Dataindsamlingsmetode:** DXA: fedtmasse, fedtfri masse, knoglestyrke
+- **Udstyr:** 1x DXA-scanner
+- **Lokation (Aarhus):**
+
+## Leverstatus; steatose og fibrose
+
+- **Dataindsamlingsmetode:** Transient elastografi (fx FibroScan)
+- **Udstyr:** 1x FibroScan-apparat
+- **Lokation (Aarhus):**
+
+## Funktionsevne og motorisk funktion
+
+- **Dataindsamlingsmetode:** 30-sekunders rejse-sætte-sig-test, håndgrebsstyrke, ét-bens balancetest, finger tapping-test
+- **Udstyr:**
+  - 30-sekunders rejse-sætte-sig-test:
+    - 1x stol uden armlæn
+    - 1x stopur
+  - Håndtrykskraft
+    - 1x håndholdt dynamometer
+    - 1x stol
+  - Ét-bens balancetest
+    - 1x stopur
+  - Finger tapping-test
+    - stopur
+    - stol
+    - bord
+- **Lokation (Aarhus):**
+
+## Dynamiske glukosemålinger
+
+- **Dataindsamlingsmetode:** 4-punkts oral glukosetolerancetest (OGTT) med blodprøver ved 0, 30, 60 og 120 minutter.
+- **Udstyr:**
+  - 1x 75 gram vandfri glukose opløst i vand
+  - 4x grå blodprøveglas (<!-- natriumfluorid og kaliumoxalat -->)
+- **Lokation (Aarhus):**
+
+## Subjektivt vurderet søvnkvalitet
+
+- **Dataindsamlingsmetode:** PSQI-spørgeskema
+- **Udstyr:** 1x udskrevet version af Pittsburgh Sleep Quality Index (PSQI)-spørgeskemaet
+- **Lokation (Aarhus):**
+
+## Mundhelbredsrelateret livskvalitet
+
+- **Dataindsamlingsmetode:** OHIP-14-spørgeskema
+- **Udstyr:** 1x udskrevet version af Oral Health Impact Profile–14 (OHIP-14)-spørgeskemaet
+- **Lokation (Aarhus):**
+
+## Autonome symptomer
+
+- **Dataindsamlingsmetode:** COMPASS-31-spørgeskema
+- **Udstyr:** 1x udskrevet version af COMPASS-31-spørgeskemaet
+- **Lokation (Aarhus):**
+
+## Kronotype
+
+- **Dataindsamlingsmetode:** MEQ-spørgeskema
+- **Udstyr:** 1x udskrevet version af Morningness–Eveningness Questionnaire (MEQ)-spørgeskemaet
+- **Lokation (Aarhus):**
+
+## Spiseadfærd
+
+- **Dataindsamlingsmetode:** AEBQ-spørgeskema
+- **Udstyr:** 1x udskrevet version af Adult Eating Behaviour Questionnaire (AEBQ)-spørgeskemaet
+- **Lokation (Aarhus):**
+
+## Kontinuerlig glukosemåling
+
+- **Dataindsamlingsmetode:** Blindet CGM-sensor (fx FreeStyle Libre)
+- **Udstyr:**
+  - 1x FreeStyle Libre 3-sensor
+  - 1x FreeStyle Libre 3-læser
+  - 1x barbermaskine til hårfjerning
+  - 1x barrierespray til forebyggelse af hudirritation
+  - 1x kinesiotape, så CGM'en ikke falder af
+- **Lokation (Aarhus):**
+
+## Stemmekarakteristika
+
+- **Dataindsamlingsmetode:** Standardiseret stemmeoptagelse
+- **Udstyr:** 1x mutebox inklusiv mikrofonudstyr
+- **Lokation (Aarhus):**
+
+## Autonom funktion
+
+- **Dataindsamlingsmetode:** Vagus™ enkeltafledning EKG-vurdering
+- **Udstyr:**
+  - 1x håndholdt Vagus™-apparat
+  - 1x undersøgelsesbriks
+  - 1x engangsmundstykke
+  - 1x automatisk blodtrykapparat med passende manchet.
+
+## Vibrationsperceptionstærskel
+
+- **Dataindsamlingsmetode:** Biotesiometri
+- **Udstyr:**
+  - 1x biothesiometer
+  - 1x undersøgelsesbriks
+- **Lokation (Aarhus):**
+
+## Nerveledning
+
+- **Dataindsamlingsmetode:** Nerveledningshastighed
+- **Udstyr:**
+  - 1x ethanolservietter
+  - 1x elektrodegel
+  - 1x engangselektroder
+  - 1x apparat til nerveledningsundersøgelse
+  - 1x undersøgelsesbriks
+- **Lokation (Aarhus):**
+
+## Sensorisk funktion
+
+- **Dataindsamlingsmetode:** Perception threshold tracking
+- **Udstyr:**
+  - 1x elektrodegel
+  - 1x pladeelektrode til stimulation af store fibre
+  - 1x pin-elektroder til stimulation af små fibre
+  - 1x undersøgelsesbriks
+- **Lokation (Aarhus):**
+
+## Kost
+
+- **Dataindsamlingsmetode:** Selvrapporteret 3-dages kostdagbog
+- **Udstyr:** <!-- 1x udskrevet version af selvrapporteret 3-dages kostdagbog -->
+- **Lokation (Aarhus):**
+
+## Blodprøver
+
+- **Dataindsamlingsmetode:** Fastende- og OGTT-blodprøver
+- **Udstyr:** <!-- vi skal beslutte, om vi har brug for ét glas til hver analyse (ASAT, ALAT, trombocyttal) --> <!-- OGTT-prøver er beskrevet under OGTT-udstyr -->
+- **Lokation (Aarhus):**
+
+## Afføringsprøver
+
+- **Dataindsamlingsmetode:** Standardiseret afføringsindsamling i hjemmet
+- **Udstyr:**
+  - 1x opsamlingspose
+  - 2x opsamlingsrør med brun hætte og integreret ske
+  - 2x transportbeholdere
+  - 1x plastikpose
+  - Engangshandsker
+  - Desinfektionsservietter
+  - 1x vandfast marker
+  - 1x udskrevet brugervejledning (*'Brugervejledning – Afføringsprøve'* / EasySampler-vejledning: <https://imagecache.nomeco.dk/mud/222527>) <!-- skal vi overveje at inkludere denne vejledning i deltagerinformationen til afføringsprøven? Eller foretrækker vi at lave vores egen vejledning med billeder osv., som i Lightbar? -->
+- **Lokation (Aarhus):**
+
+## Spytprøve
+
+- **Dataindsamlingsmetode:** Standardiseret spytindsamling
+- **Udstyr:**
+  - 1 gram tyggegummibase
+  - 1x medicinbæger
+  - 1x 4,5 ml cryorør
+  - 2x 1,8 ml cryorør
+  - RNAlater-reagens (AM7021) findes i <!-- hvor opbevarer vi det, og hvor meget pr. deltager? -->
+  - Flydende kvælstof (til snapfrysning) <!-- hvor meget pr. deltager? -->
+- **Lokation (Aarhus):**
