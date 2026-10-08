@@ -1,9 +1,5 @@
 # Spytprøve i DP-Next-projektet {#sec-spytproeve}
 
-## Formål
-
-- Denne Standard Operation Procedure (SOP) beskriver processen for indsamling, opbevaring og rapportering af spytprøver i DP-Next-projektet.
-
 ## Baggrund
 
 - 16S rRNA-sekventering bruges til at identificere og sammenligne bakterier baseret på dette gen.

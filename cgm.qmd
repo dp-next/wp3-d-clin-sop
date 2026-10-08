@@ -1,9 +1,5 @@
 # CGM i DP-Next-projektet {#sec-cgm}
 
-## Formål
-
-- Denne Standard Operating Procedure (SOP) beskriver forberedelse, påsætning, aflæsning og datahåndtering af CGM-sensorer i DP-Next-projektet.
-
 ## Baggrund
 
 - En kontinuerlig glukosemåler (CGM) bruges til at undersøge en persons blodglukoseniveauer over tid.

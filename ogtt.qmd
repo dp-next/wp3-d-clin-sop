@@ -1,9 +1,5 @@
 # OGTT i DP-Next-projektet {#sec-ogtt}
 
-## Formål
-
-- Denne Standard Operating Procedure (SOP) beskriver proceduren for udførelsen af oral glukosebelastningstest (OGTT) i DP-Next-projektet.
-
 ## Baggrund
 
 - OGTT anvendes til at undersøge deltagerens glukosemetabolisme og insulinsekretion ved oral glukosebelastning.

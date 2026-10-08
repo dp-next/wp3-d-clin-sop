@@ -1,8 +1,6 @@
 # Afføringsprøve i DP-Next-projektet {#sec-affoeringsproeve}
 
-## Formål
-
-- Denne standard operating procedure (SOP) beskriver, hvordan afføringsprøver forberedes, modtages, opbevares og registreres i DP-Next-projektet.
+## Baggrund
 
 ## Anvendelsesområde
 

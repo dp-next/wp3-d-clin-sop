@@ -1,9 +1,5 @@
 # Skabelon i DP-Next-projektet {#sec-skabelon}
 
-## Formål
-
-- Kort beskrivelse af formålet sop'en/undersøgelsen
-
 ## Baggrund
 
 - Relevant baggrundsinformation, hvis det er nødvendigt
