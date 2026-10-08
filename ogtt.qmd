@@ -2,8 +2,7 @@
 
 ## Baggrund
 
-- OGTT anvendes til at undersøge deltagerens glukosemetabolisme og insulinsekretion ved oral glukosebelastning.
-- I DP-Next-projektet tages der blodprøver ved 0, 30, 60 og 120 minutter.
+OGTT anvendes til at undersøge deltagerens glukosemetabolisme og insulinsekretion ved oral glukosebelastning. I DP-Next-projektet tages der blodprøver ved 0, 30, 60 og 120 minutter.
 
 ## Anvendelsesområde
 
@@ -21,14 +20,11 @@
 
 ## Sikkerhed
 
-- Observér deltageren under hele proceduren:
-  - Blodprøvetagning kan medføre blå mærker, ømhed, let blødning og svimmelhed.
-  - Indtagelse af glukoseopløsningen kan medføre kvalme, maveubehag, svimmelhed eller opkastning
-- Hvis deltageren føler sig svimmel eller utilpas, lægges deltageren ned og personale tilkaldes. <!-- hvem skal vi have som 'sikkerhedspersonale'? -->
+Observér deltageren under hele proceduren. Blodprøvetagning kan medføre blå mærker, ømhed, let blødning og svimmelhed. Indtagelse af glukoseopløsningen kan medføre kvalme, maveubehag, svimmelhed eller opkastning. Hvis deltageren føler sig svimmel eller utilpas, lægges deltageren ned og personale tilkaldes. <!-- hvem skal vi have som 'sikkerhedspersonale'? -->
 
 ## Data
 
-- Analyse af blodprøverne viser koncentrationer af blodglukose, insulin og C-peptid til de fire tidspunkter (0, 30, 60 og 120 minutter)
+Analyse af blodprøverne viser koncentrationer af blodglukose, insulin og C-peptid til de fire tidspunkter (0, 30, 60 og 120 minutter).
 
 ## Instruktioner
 
@@ -42,58 +38,60 @@
 
 ## Procedure
 
-- Forberedelse
+1.  Forberedelse
 
-  - Klargør opløsning med 75 gram vandfri glukose i 250 ml vand.
-  - Klargør udstyr til blodprøvetagning.
-  - Hav stopur klar.
-  - Hav opkastposer klar.
+    1.  Klargør opløsning med 75 g vandfri glukose i 250 mL vand.
+    2.  Klargør udstyr til blodprøvetagning.
+    3.  Hav stopur klar.
+    4.  Hav opkastposer klar.
 
-- Udførelse af OGTT <!-- her skal vi definere nogle tidsbuffere, så vi ved hvor lang tid hver parallelundersøgelse tager og blodprøverne bliver taget til de korrekte tidspunkter -->
+2.  Udførelse af OGTT
 
-  - Klinisk personale tager den fastende blodprøve ved 0 minutter.
+    <!-- her skal vi definere nogle tidsbuffere, så vi ved hvor lang tid hver parallelundersøgelse tager og blodprøverne bliver taget til de korrekte tidspunkter -->
 
-  - Deltageren drikker glukoseopløsningen. Deltageren skal indtage glukosemiksturen inden for fem minutter og tiden starter, når deltageren har drukket det hele.
+    1.  Klinisk personale tager den fastende blodprøve ved 0 minutter.
 
-    - Tilbyd deltageren vand umiddelbart efter.
+    2.  Deltageren drikker glukoseopløsningen. Deltageren skal indtage glukosemiksturen inden for fem minutter og tiden starter, når deltageren har drukket det hele.
 
-  - Deltageren får foretaget '*Brief standardised voice recording'* (se SOP for voice recording).
+        - Tilbyd deltageren vand umiddelbart efter.
 
-  - Deltageren måles, vejes, får målt hofte- og taljeomkreds og hudfoldstykkelse (se SOP for antropometri).
+    3.  Deltageren får foretaget '*Brief standardised voice recording'* (se SOP for voice recording).
 
-  - Klinisk personale tager blodprøve ved 30 minutter.
+    4.  Deltageren måles, vejes, får målt hofte- og taljeomkreds og hudfoldstykkelse (se SOP for antropometri).
 
-  - Deltageren udfylder et eller flere spørgeskemaer, hvis ikke de allerede har udfyldt dem før Visit 1:
+    5.  Klinisk personale tager blodprøve ved 30 minutter.
 
-    - Pittsburgh Sleep Quality Index (PSQI)
+    6.  Deltageren udfylder et eller flere spørgeskemaer, hvis ikke de allerede har udfyldt dem før Visit 1:
 
-    - Oral Health Impact Profile–14 (OHIP-14)
+        - Pittsburgh Sleep Quality Index (PSQI)
 
-    - COMPASS-31
+        - Oral Health Impact Profile–14 (OHIP-14)
 
-    - Morningness–Eveningness Questionnaire (MEQ)
+        - COMPASS-31
 
-    - Adult Eating Behaviour Questionnaire (AEBQ)
+        - Morningness–Eveningness Questionnaire (MEQ)
 
-  - Klinisk personale tager blodprøve ved 60 minutter.
+        - Adult Eating Behaviour Questionnaire (AEBQ)
 
-  - Deltageren får foretaget DEXA-helkropsscanning og VFA-scanning.
+    7.  Klinisk personale tager blodprøve ved 60 minutter.
 
-  - Klinisk personale tager blodprøve ved 120 minutter.
+    8.  Deltageren får foretaget DEXA-helkropsscanning og VFA-scanning.
 
-- Efter undersøgelsen tilbydes deltageren noget at spise. <!-- Hvad skal vi have tilgængeligt? rugbrød, bolle, andet? -->
+    9.  Klinisk personale tager blodprøve ved 120 minutter.
+
+3.  Efter undersøgelsen tilbydes deltageren noget at spise. <!-- Hvad skal vi have tilgængeligt? rugbrød, bolle, andet? -->
 
 ## Dokumentation og kvalitetskontrol
 
-- Registrér tidspunktet, hvor stopuret blev startet, og det faktiske tidspunkt for alle fire blodprøver i REDCap.
+1.  Registrér tidspunktet, hvor stopuret blev startet, og det faktiske tidspunkt for alle fire blodprøver i REDCap.
 
-- Mærk alle rør med deltager-ID og tidspunkt (0, 30, 60, 120 minutter).
+2.  Mærk alle rør med deltager-ID og tidspunkt (0, 30, 60, 120 minutter).
 
-- Opbevaring og håndtering af blodprøverne: se SOP for blodprøver.
+3.  Opbevaring og håndtering af blodprøverne: se SOP for blodprøver.
 
 ## Afvigelser og fejl
 
-- Hvis deltageren kaster op, afbrydes testen og der tilbydes en anden undersøgelsedag.
+- Hvis deltageren kaster op, afbrydes testen og der tilbydes en anden undersøgelsesdag.
 
 - Ved afbrudt test registreres årsag og tidspunkt i REDCap.
 
@@ -101,4 +99,4 @@
 
 ## Referencer
 
-- Relaterede SOP'er, protokoller eller litteratur
+Relaterede SOP'er, protokoller eller litteratur

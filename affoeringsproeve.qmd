@@ -39,25 +39,25 @@ Deltageren får en detaljeret skriftlig vejledning i indsamling af afføringspr�
 
 ## Procedure for modtagelse af afføringsprøver
 
-- Modtag køletasken med prøverne og spørg deltageren: "Har du anvendt antibiotika eller probiotika inden for de seneste 3 måneder?" Registrér svaret i REDCap.
+1.  Modtag køletasken med prøverne og spørg deltageren: "Har du anvendt antibiotika eller probiotika inden for de seneste 3 måneder?" Registrér svaret i REDCap.
 
-- Tag handsker på.
+2.  Tag handsker på.
 
-- Åbn lynlåsposen og tag de to transportbeholdere op.
+3.  Åbn lynlåsposen og tag de to transportbeholdere op.
 
-- Åbn transportbeholderne og tag prøverne ud.
+4.  Åbn transportbeholderne og tag prøverne ud.
 
-- Skriv deltager-ID, besøgsnummer samt dato og tidspunkt for prøven på 2 stk. -80 °C-etiketter, og sæt dem på prøverørene.
+5.  Skriv deltager-ID, besøgsnummer samt dato og tidspunkt for prøven på 2 stk. -80 °C-etiketter, og sæt dem på prøverørene.
 
-- Placering af prøver i fryser
+6.  Placering af prøver i fryser
 
-  <!-- Hvordan registrerer vi afføringsprøverne i biobanken? Afklares, når biobankens organisering er på plads. -->
+    <!-- Hvordan registrerer vi afføringsprøverne i biobanken? Afklares, når biobankens organisering er på plads. -->
 
-  - Skriv deltager-ID på den næste ledige plads i boksen. <!-- Placér prøverne i -80 °C-fryseren på den anviste plads og i den anviste boks, som registreres i biobanken. Hvor står fryseren? -->
-  - Bortskaf posen, som prøverne blev afleveret i.
-  - Læg transportbeholderne til vask i rum? <!-- Hvor skal transportbeholderne stå til vask? -->
-  - Tag handskerne af og udfør håndhygiejne. <!-- Hvor placeres køletasken og køleelementerne bagefter? -->
-  - Registrér i REDCap under den pågældende besøgsdag, at afføringsprøven er afleveret. Notér også, hvis deltageren ikke har afleveret en prøve, og hvorfor, og aftal eventuelt en ny tid for aflevering.
+    1.  Skriv deltager-ID på den næste ledige plads i boksen. <!-- Placér prøverne i -80 °C-fryseren på den anviste plads og i den anviste boks, som registreres i biobanken. Hvor står fryseren? -->
+    2.  Bortskaf posen, som prøverne blev afleveret i.
+    3.  Læg transportbeholderne til vask i rum? <!-- Hvor skal transportbeholderne stå til vask? -->
+    4.  Tag handskerne af og udfør håndhygiejne. <!-- Hvor placeres køletasken og køleelementerne bagefter? -->
+    5.  Registrér i REDCap under den pågældende besøgsdag, at afføringsprøven er afleveret. Notér også, hvis deltageren ikke har afleveret en prøve, og hvorfor, og aftal eventuelt en ny tid for aflevering.
 
 ## Dokumentation og kvalitetskontrol
 
