@@ -1,0 +1,132 @@
+---
+format:
+  html:
+    theme: cosmo
+---
+
+::: cover-page
+![](images/dp-next-logo.png)
+
+|  |  |
+|------------------------------------|------------------------------------|
+| **Projekttitel:** | Sustainable Type 2 Diabetes Prevention for the 21st Century |
+| **Kort projekttitel:** | DP-Next |
+| **SOP titel:** | Standard Operating Procedure for oral glukosebelastningstest (OGTT) i DP-Next-projektet |
+| **Kort SOP titel:** | SOP for OGTT |
+| **SOP Version:** | 1 |
+| **Udarbejdet af:** | Mikkel Steentoft |
+| **Dato:** | 08.10.2026 |
+:::
+
+## Formål
+
+- Denne Standard Operating Procedure (SOP) beskriver proceduren for udførelsen af oral glukosebelastningstest (OGTT) i DP-Next-projektet.
+
+## Baggrund
+
+- OGTT anvendes til at undersøge deltagerens glukosemetabolisme og insulinsekretion ved oral glukosebelastning.
+- I DP-Next-projektet tages der blodprøver ved 0, 30, 60 og 120 minutter.
+
+## Anvendelsesområde
+
+- Alle egnede deltagere får foretaget en OGTT ved Visit 1.
+- Testen udføres af DP-Next personalet efter oplæring.
+- Deltagere skal faste i minimum 12 timer forud for undersøgelsen.
+
+## Udstyr og forberedelse
+
+- 75 g vandfri glukose opløst i 250 ml vand.
+- Stopur.
+- Udstyr til blodprøvetagning. <!-- aftale med bioanalytikere/klinisk personale -->
+  - Blodprøverør til glukose, insulin og C-peptid. <!-- afklar rørtyper og antal per deltager -->
+- Opkastposer.
+
+## Sikkerhed
+
+- Observér deltageren under hele proceduren:
+  - Blodprøvetagning kan medføre blå mærker, ømhed, let blødning og svimmelhed.
+  - Indtagelse af glukoseopløsningen kan medføre kvalme, maveubehag, svimmelhed eller opkastning
+- Hvis deltageren føler sig svimmel eller utilpas, lægges deltageren ned og personale tilkaldes. <!-- hvem skal vi have som 'sikkerhedspersonale'? -->
+
+## Data
+
+- Analyse af blodprøverne viser koncentrationer af blodglukose, insulin og C-peptid til de fire tidspunkter (0, 30, 60 og 120 minutter)
+
+## Instruktioner
+
+- Deltageren skal faste i minimum 12 timer forud for undersøgelsen. Faste inkluderer også tyggegummi, pastiller eller lignende, men ikke vand og livsnødvendig medicin.
+- Deltagerne må ikke udføre fysisk aktivitet under testen og skal holde sig i ro mellem undersøgelserne.
+- Deltageren må ikke indtage mad under testen. Heller ikke tyggegummi, pastiller eller lignende.
+- Deltageren må ikke ryge eller bruge andre nikotinholdige produkter under testen.
+- Deltageren må gerne gå på toilettet og drikke vand under testen.
+- Kontrollér, at deltageren har fastet i minimum 12 timer forud for undersøgelsen.
+- Kontrollér, at deltageren ikke har feber, da det kan påvirke undersøgelsens resultater.
+
+## Procedure
+
+- Forberedelse
+
+  - Klargør opløsning med 75 gram vandfri glukose i 250 ml vand.
+  - Klargør udstyr til blodprøvetagning.
+  - Hav stopur klar.
+  - Hav opkastposer klar.
+
+- Udførelse af OGTT <!-- her skal vi definere nogle tidsbuffere, så vi ved hvor lang tid hver parallelundersøgelse tager og blodprøverne bliver taget til de korrekte tidspunkter -->
+
+  - Klinisk personale tager den fastende blodprøve ved 0 minutter.
+
+  - Deltageren drikker glukoseopløsningen. Deltageren skal indtage glukosemiksturen inden for fem minutter og tiden starter, når deltageren har drukket det hele.
+
+    - Tilbyd deltageren vand umiddelbart efter.
+
+  - Deltageren får foretaget '*Brief standardised voice recording'* (se SOP for voice recording).
+
+  - Deltageren måles, vejes, får målt hofte- og taljeomkreds og hudfoldstykkelse (se SOP for antropometri).
+
+  - Klinisk personale tager blodprøve ved 30 minutter.
+
+  - Deltageren udfylder et eller flere spørgeskemaer, hvis ikke de allerede har udfyldt dem før Visit 1:
+
+    - Pittsburgh Sleep Quality Index (PSQI)
+
+    - Oral Health Impact Profile–14 (OHIP-14)
+
+    - COMPASS-31
+
+    - Morningness–Eveningness Questionnaire (MEQ)
+
+    - Adult Eating Behaviour Questionnaire (AEBQ)
+
+  - Klinisk personale tager blodprøve ved 60 minutter.
+
+  - Deltageren får foretaget DEXA-helkropsscanning og VFA-scanning.
+
+  - Klinisk personale tager blodprøve ved 120 minutter.
+
+- Efter undersøgelsen tilbydes deltageren noget at spise. <!-- Hvad skal vi have tilgængeligt? rugbrød, bolle, andet? -->
+
+## Dokumentation og kvalitetskontrol
+
+- Registrér tidspunktet, hvor stopuret blev startet, og det faktiske tidspunkt for alle fire blodprøver i REDCap.
+
+- Mærk alle rør med deltager-ID og tidspunkt (0, 30, 60, 120 minutter).
+
+- Opbevaring og håndtering af blodprøverne: se SOP for blodprøver.
+
+## Afvigelser og fejl
+
+- Hvis deltageren kaster op, afbrydes testen og der tilbydes en anden undersøgelsedag.
+
+- Ved afbrudt test registreres årsag og tidspunkt i REDCap.
+
+- Hvis en blodprøve ikke kan tages til tiden, tages prøven hurtigst muligt og det faktiske tidspunkt noteres.
+
+## Referencer
+
+- Relaterede SOP'er, protokoller eller litteratur
+
+## Versionshistorik
+
+| Version | Dato       | Udarbejdet af    | Godkendt af |
+|---------|------------|------------------|-------------|
+| 1       | 08.10.2026 | Mikkel Steentoft |             |
