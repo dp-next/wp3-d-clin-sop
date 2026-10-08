@@ -71,9 +71,3 @@ Afvigelser i forbindelse med aflevering af prøven håndteres således:
 ## Referencer
 
 <!-- Evt. henvisning til SOP for informationsmødet, hvis vi laver en. -->
-
-## Versionshistorik
-
-| Version | Dato       | Udarbejdet af    | Godkendt af |
-|---------|------------|------------------|-------------|
-| 1       | 30.09.2026 | Mikkel Steentoft |             |

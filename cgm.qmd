@@ -107,9 +107,3 @@
 <!-- Evt. henvisning til SOP for informationsmødet, hvis vi laver en. -->
 
 - Abbotts video: <https://www.youtube.com/watch?v=pVsXzLsOUdY>
-
-# Versionshistorik
-
-| Version | Dato       | Udarbejdet af    | Godkendt af |
-|---------|------------|------------------|-------------|
-| 1       | 30.09.2026 | Mikkel Steentoft |             |

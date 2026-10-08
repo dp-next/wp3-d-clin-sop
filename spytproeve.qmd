@@ -116,9 +116,3 @@ Forud for modtagelse af deltageren ved Visit 1, forberedes følgende udstyr til 
 ## Afvigelser og fejl
 
 ## Referencer
-
-## Versionshistorik
-
-| Version | Dato       | Udarbejdet af    | Godkendt af |
-|---------|------------|------------------|-------------|
-| 1       | 30.09.2026 | Mikkel Steentoft |             |

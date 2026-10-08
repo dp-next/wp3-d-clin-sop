@@ -57,9 +57,3 @@
 ## Referencer
 
 - Relaterede SOP'er, protokoller eller litteratur
-
-## Versionshistorik
-
-| Version | Dato       | Udarbejdet af    | Godkendt af |
-|---------|------------|------------------|-------------|
-| 1       | 30.09.2026 | Mikkel Steentoft |             |
