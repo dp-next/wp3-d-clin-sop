@@ -1,22 +1,4 @@
----
-format:
-  html:
-    theme: cosmo
----
-
-::: cover-page
-![](images/dp-next-logo.png)
-
-|  |  |
-|------------------------------------|------------------------------------|
-| **Projekttitel:** | Sustainable Type 2 Diabetes Prevention for the 21st Century |
-| **Kort projekttitel:** | DP-Next |
-| **SOP titel:** | Standard Operating Procedure for afføringsprøve i DP-Next-projektet. |
-| **Kort SOP titel:** | SOP for afføringsprøve |
-| **SOP Version:** | 1 |
-| **Udarbejdet af:** | Mikkel Steentoft |
-| **Dato:** | 30.09.2026 |
-:::
+# Afføringsprøve i DP-Next-projektet {#sec-affoeringsproeve}
 
 ## Formål
 
