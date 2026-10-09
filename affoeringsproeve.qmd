@@ -1,0 +1,73 @@
+# Afføringsprøve i DP-Next-projektet {#sec-affoeringsproeve}
+
+## Baggrund
+
+## Anvendelsesområde
+
+- Alle egnede deltagere får udleveret et prøvesæt og en detaljeret skriftlig vejledning i indsamling af afføringsprøven ved informationsmødet (Visit 0).
+
+- Deltagerne bliver bedt om at medbringe prøven til Visit 1, hvor DP-Next personale modtager den.
+
+- Den person, der håndterer prøven, er ansvarlig for, at den opbevares og registreres korrekt.
+
+## Udstyr og forberedelse
+
+Inden informationsmødet (Visit 0) klargøres følgende og pakkes i en lynlåspose, som lægges i køletasken sammen med de to køleelementer:
+
+- 1x opsamlingspose
+- 2x prøverør med brunt låg og indbygget ske
+- 2x transportbeholdere
+- 1x plastikpose
+- Engangshandsker
+- Desinfektionsservietter
+- 1x vandfast tusch
+- 1x udskrevet brugervejledning ('Brugervejledning – Afføringsprøve' / EasySampler-vejledning: https://imagecache.nomeco.dk/mud/222527) <!-- Skal vi inkludere vejledningen i deltagerinformationen om afføringsprøven? Eller skal vi lave vores egen vejledning med billeder osv., som i Lightbar? -->
+- 1x udskrevet oversigt ('Deltagerinformation – Afføringsprøve') med:
+  - Deltager-ID
+  - Besøgsnummer
+  - Dato og tidspunkt for indsamling af afføringsprøven
+
+Udlever prøvesættet til deltageren.
+
+## Sikkerhed
+
+<!-- Mangler relevante sikkerhedsforanstaltninger, hvis der er nogle? -->
+
+## Instruktioner
+
+Deltageren får en detaljeret skriftlig vejledning i indsamling af afføringsprøven sammen med EasySampler-sættet ved informations- og samtykkemødet (Visit 0).
+
+## Procedure for modtagelse af afføringsprøver
+
+1.  Modtag køletasken med prøverne og spørg deltageren: "Har du anvendt antibiotika eller probiotika inden for de seneste 3 måneder?" Registrér svaret i REDCap.
+
+2.  Tag handsker på.
+
+3.  Åbn lynlåsposen og tag de to transportbeholdere op.
+
+4.  Åbn transportbeholderne og tag prøverne ud.
+
+5.  Skriv deltager-ID, besøgsnummer samt dato og tidspunkt for prøven på 2 stk. -80 °C-etiketter, og sæt dem på prøverørene.
+
+6.  Placering af prøver i fryser
+
+    <!-- Hvordan registrerer vi afføringsprøverne i biobanken? Afklares, når biobankens organisering er på plads. -->
+
+    1.  Skriv deltager-ID på den næste ledige plads i boksen. <!-- Placér prøverne i -80 °C-fryseren på den anviste plads og i den anviste boks, som registreres i biobanken. Hvor står fryseren? -->
+    2.  Bortskaf posen, som prøverne blev afleveret i.
+    3.  Læg transportbeholderne til vask i rum? <!-- Hvor skal transportbeholderne stå til vask? -->
+    4.  Tag handskerne af og udfør håndhygiejne. <!-- Hvor placeres køletasken og køleelementerne bagefter? -->
+    5.  Registrér i REDCap under den pågældende besøgsdag, at afføringsprøven er afleveret. Notér også, hvis deltageren ikke har afleveret en prøve, og hvorfor, og aftal eventuelt en ny tid for aflevering.
+
+## Dokumentation og kvalitetskontrol
+
+## Afvigelser og fejl
+
+Afvigelser i forbindelse med aflevering af prøven håndteres således:
+
+- **Hvis væsken er fjernet fra røret:** Tilsæt 5 ml 96 % ethanol til røret og registrér det i REDCap.
+- **Hvis prøven ikke er afleveret i røret:** Bortskaf den med det samme.
+
+## Referencer
+
+<!-- Evt. henvisning til SOP for informationsmødet, hvis vi laver en. -->

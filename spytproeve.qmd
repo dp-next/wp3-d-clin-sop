@@ -1,0 +1,118 @@
+# Spytprøve i DP-Next-projektet {#sec-spytproeve}
+
+## Baggrund
+
+16S rRNA-sekventering bruges til at identificere og sammenligne bakterier baseret på dette gen.
+
+## Anvendelsesområde
+
+- Alle egnede deltagere afleverer en spytprøve ved Visit 1.
+
+- Den person, der håndterer prøven, er ansvarlig for, at den opbevares og registreres korrekt.
+
+## Udstyr og forberedelse
+
+Forud for modtagelse af deltageren ved Visit 1, forberedes følgende udstyr til opsamling af spytprøve:
+
+- 1 gram gum-base tyggegummi
+
+  - Køkkenvægt til afvejning inden opsamling
+
+- Medicinbæger
+
+- 1x 4,5 mL cryorør
+
+- 2x 1,8 mL cryorør
+
+- RNAlater reagent (AM7021), placeret i <!-- Hvor opbevares dette? -->
+
+- 2x -80 °C-label til cryo-rør markeret ’Spyt’
+
+- 1x -80 °C-label til cryo-rør markeret ’Spyt + RNAlater’
+
+- Flydende nitrogen (til snap-frysning)
+
+## Sikkerhed
+
+<!-- Mangler relevante sikkerhedsforanstaltninger, hvis der er nogle? -->
+
+## Data
+
+## Instruktioner
+
+- Deltageren må ikke børste tænder før opsamlingen (heller ikke om morgenen, hvis prøven opsamles samme morgen)
+  - Hvis deltageren har børstet tænder, tages prøven alligevel og kommentar om dette tilføjes.
+- Deltageren må ikke bruge receptpligtig tandpasta med 5000 ppm fluorid, men kun almindelig tandpasta med maksimalt 1500 ppm.
+- Deltageren må ikke spise, drikke eller børste tænder 2 timer inden opsamlingen.
+
+## Procedure
+
+1.  Klargøring
+
+    1.  Skriv ID nr. på 3 labels
+
+        - 1x label til RNAlater
+
+        - 2x labels til hurtig frys
+
+    2.  Sæt labels på cryorør
+
+        - 1x label RNAlater på 4,5 mL cryorør
+
+        - 2x labels hurtig frys på 1,8 mL cryorør
+
+2.  Opsamling af spytprøve
+
+    1.  5-6 stykker gum-base lægges på en vægt og det tjekkes, at det vejer ca. 1 gram.
+
+    2.  Forsøgsdeltageren tager gum-base i munden uden at berøre det med hænderne.
+
+    3.  Der tygges, indtil gum-base har samlet sig i et stykke tyggegummi.
+
+    4.  Der tygges ligeligt i begge sider af munden.
+
+    5.  Spytopsamlingen begynder efter ca. 1 minut, der spyttes kontinuerligt i medicinbægeret til 5 mL spyt er nået (se indikator på medicinbæger).
+
+    6.  Gum-basen skal holdes i munden, hver gang der spyttes.
+
+3.  Behandling af spytprøve
+
+    1.  Spyt afpipetteres **med det samme efter opsamling**
+
+        - 1,0 mL spyt i 4,5 mL cryorør indeholdende 3,0 mL RNAlater. Røret vendes 10 gange og sættes ved +4 °C i min. 24 timer. Derefter stilles røret ved -80 °C.
+
+        - 2x 1,0 mL spyt i 2 x 1,8 mL cryorør og snap-fryses i flydende kvælstof/nitrogen. Prøver overføres til -80 °C sammen med øvrige blodprøve, når forsøgsdagen er omme.
+
+4.  Placering af prøver i fryser
+
+    1.  Spytprøverne registreres i excel-arket "DP-Next Biobank" under fanerne "Spyt" eller "Spyt RNAlater" <!-- sti til excel-arket skal specificeres -->
+
+    2.  Skriv ID + CPR-nummer + tidspunkter for prøveopsamling + frysning på den næste ledige plads i kassen.
+
+    3.  Spytprøverne sættes i -80 fryseren (OBS: Vent 24 timer med rørene med spyt+RNAlater) i den plads og kasse, der er noteret i excel-arket for biobank. Fryseren er placeret .... <!-- lokation for fryser skrives her -->
+
+5.  **Registrering i REDCap:**
+
+    - Oral klorhexidinbehandling indenfor de sidste 6 uger
+
+    - Oral behandling med svampehæmmende stoffer
+
+    - Systemisk antibiotikabehandling indenfor de 2 måneder
+
+    - Regelmæssig brug af diverse mundskyllemidler
+
+    - Brug af tandpasta med mere end 1500 ppm fluorid
+
+    - Brug af tandpasta med triclosan (kun et enkelt Colgate mærke tilbage i Danmark)
+
+    - Brug af urtetandpasta (nogle indeholder antibakterielle stoffer) 
+
+    - Tandbehandling indenfor de sidste 6 uger (tandrensning, fyldninger, osv.)
+
+    - Rygning (varighed, mængde)
+
+## Dokumentation og kvalitetskontrol
+
+## Afvigelser og fejl
+
+## Referencer

@@ -22,7 +22,12 @@ book:
     - index.qmd
   #  - part: "Sections"
   #    chapters:
-  #    - path/to/file.qmd
+       - skabelon.qmd
+       - udstyrsliste.qmd
+       - affoeringsproeve.qmd
+       - spytproeve.qmd
+       - cgm.qmd
+       - ogtt.qmd
   # appendices:
   #  - path/to/file.qmd
   tools:
