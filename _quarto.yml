@@ -28,6 +28,7 @@ book:
        - blodtryk-puls.qmd
        - spytproeve.qmd
        - cgm.qmd
+       - blodprøver.qmd
        - ogtt.qmd
   # appendices:
   #  - path/to/file.qmd
