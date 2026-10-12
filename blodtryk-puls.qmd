@@ -6,7 +6,9 @@ I DP-Next benyttes et automatisk oscillometrisk apparat til at måle deltagerens
 
 ## Anvendelsesområde
 
-Alle deltagere får målt deres blodtryk og puls ved Visit 1. Undersøgelsen udføres af DP-Next personale oplært i at bruge udstyret.
+- Alle deltagere får målt deres blodtryk og puls ved Visit 1. Undersøgelsen udføres af DP-Next personale oplært i at bruge udstyret.
+
+- Estimeret tidsforbrug: 10 minutter.
 
 ## Udstyr og forberedelse
 

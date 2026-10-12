@@ -8,6 +8,7 @@ I DP-Next tages der fasteblodprøver for B-Trombocytter, P-Alanintransaminase (A
 
 - Blodprøver foretages af bioanalytiker eller andet personale med tilsvarende kvalifikationer.
 - Alle egnede deltagere får foretaget fasteblodprøver forud for OGTT.
+- Estimeret tidsforbrug: 15 minutter.
 
 ## Udstyr og forberedelse
 

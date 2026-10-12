@@ -8,6 +8,7 @@ En kontinuerlig glukosemåler (CGM) bruges til at undersøge en persons blodgluk
 
 - CGM-sensoren bliver påsat ved Visit 1 (deep phenotyping) af DP-Next-personalet efter check-in.
 - Deltageren bærer CGM-sensoren på bagsiden af overarmen i 14 dage.
+- Estimeret tidsforbrug: 5 minutter
 
 ## Udstyr og forberedelse
 
