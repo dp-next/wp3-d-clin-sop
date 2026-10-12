@@ -25,6 +25,7 @@ book:
        - skabelon.qmd
        - udstyrsliste.qmd
        - affoeringsproeve.qmd
+       - blodtryk-puls.qmd
        - spytproeve.qmd
        - cgm.qmd
        - ogtt.qmd
