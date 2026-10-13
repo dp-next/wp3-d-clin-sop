@@ -30,6 +30,7 @@ book:
        - cgm.qmd
        - blodprøver.qmd
        - ogtt.qmd
+       - stemmekarakteristika.qmd
   # appendices:
   #  - path/to/file.qmd
   tools:
