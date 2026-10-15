@@ -29,6 +29,7 @@ book:
        - spytproeve.qmd
        - cgm.qmd
        - blodprøver.qmd
+       - kropskomposition.qmd
        - ogtt.qmd
        - stemmekarakteristika.qmd
   # appendices:
