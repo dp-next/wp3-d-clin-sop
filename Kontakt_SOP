@@ -15,7 +15,7 @@ I den nuværende VEK-protokol er proceduren beskrevet således:
 
 ## Screening og invitationsprocedure
 
-## 1. Invitation
+### 1. Invitation
 
 1. Identificér personer, som opfylder de prædefinerede inklusions- og eksklusionskriterier, og som har givet tilladelse til at blive kontaktet.
 2. Send invitationen via sikker digital post (e-Boks).
@@ -30,7 +30,7 @@ I den nuværende VEK-protokol er proceduren beskrevet således:
    - der er behov for at besvare spørgsmål om deltagelse.
 7. Hvis personen ønsker at deltage, blive de bedt om at oplyse deres telefonnummer.
 
-## 2. Præscreening
+### 2. Præscreening
 
 1. Kontakt interesserede deltagere telefonisk efter behov.
 2. Bekræft de centrale inklusions- og eksklusionskriterier.
@@ -38,7 +38,7 @@ I den nuværende VEK-protokol er proceduren beskrevet således:
 4. Hvis deltageren er egnet og ønsker at deltage, planlægges et informationsmøde (Visit 0).
 5. Sørg for, at invitation og skriftlig deltagerinformation er modtaget mindst 24 timer før Visit 0.
 
-## 3. Informationsmøde og informeret samtykke (Visit 0)
+### 3. Informationsmøde og informeret samtykke (Visit 0)
 
 1. Gennemfør informationsmødet i et privat og uforstyrret lokale.
 2. Informationsmødet kan gennemføres individuelt eller i en gruppe.
@@ -58,13 +58,13 @@ I den nuværende VEK-protokol er proceduren beskrevet således:
 10. Hvis deltageren ønsker yderligere betænkningstid, aftales efterfølgende kontakt med studiegruppen.
 11. Der må ikke gennemføres studiespecifikke procedurer, før skriftligt informeret samtykke er indhentet.
 
-## 4. HbA1c-screening efter samtykke
+### 4. HbA1c-screening efter samtykke
 
 1. Efter indhentet skriftligt informeret samtykke tages en venøs blodprøve til laboratoriemåling af HbA1c.
 2. Hvis POCT er tilgængeligt på studiestedet, kan der samtidig foretages en point-of-care HbA1c-måling (POCT) til understøttelse af den indledende screeningsbeslutning.
 3. POCT er afhængig af studiestedet og erstatter ikke den laboratoriebaserede HbA1c-måling.
 
-### Resultat af POCT
+#### Resultat af POCT
 
 POCT HbA1c <48 mmol/mol
 - Deltageren kan fortsætte til planlægning af næste besøg, mens laboratorieresultatet afventes.
@@ -72,7 +72,7 @@ POCT HbA1c <48 mmol/mol
 POCT HbA1c ≥48 mmol/mol
 - Yderligere studieprocedurer udsættes, indtil laboratorieresultatet foreligger.
 
-### Resultat af laboratoriemåling
+#### Resultat af laboratoriemåling
 
 Laboratorie-HbA1c <48 mmol/mol
 - Deltageren er fortsat eligible.
@@ -83,7 +83,7 @@ Laboratorie-HbA1c ≥48 mmol/mol
 - Deltageren informeres om resultatet.
 - Deltageren anbefales at kontakte egen læge med henblik på videre opfølgning.
 
-## 5. Planlægning af Visit 1
+### 5. Planlægning af Visit 1
 
 1. Planlæg Visit 1, når deltagerens eligibility er bekræftet på baggrund af laboratoriemålingen af HbA1c.
 2. Udlever skriftlige instruktioner forud for besøget, herunder:
@@ -94,7 +94,7 @@ Laboratorie-HbA1c ≥48 mmol/mol
 3. Send deltageren et sikkert elektronisk link til udfyldelse af studiespørgeskemaerne inden Visit 1.
 4. Hvis spørgeskemaerne ikke er udfyldt inden besøget, kan de udfyldes under eller umiddelbart efter Visit 1.
 
-## 6. Ankomst og opstart af Visit 1
+### 6. Ankomst og opstart af Visit 1
 
 1. Verificér deltagerens identitet.
 2. Kontrollér, at relevante instruktioner forud for besøget er fulgt.
