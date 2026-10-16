@@ -1,0 +1,58 @@
+# Stemmekarakteristika i DP-Next-projektet {#sec-stemmekarakteristika}
+
+## Baggrund
+
+I DP-Next indsamles korte, standardiserede stemmeoptagelser for at undersøge vokale biomarkører.
+
+## Anvendelsesområde
+
+- Undersøgelsen udføres af DP-Next personale oplært i at bruge udstyret.
+- Alle egnede deltagere får udført undersøgelse af stemmekarakteristika ved Visit 1 som parallelundersøgelse under oral glukosetolerancetest.
+- Estimeret tidsforbrug: 5 minutter.
+
+## Udstyr og forberedelse
+
+- Støjsvagt rum, f.eks. en mutebox. <!-- tilpasses de enkelte sites -->
+- Mikrofon med optageudstyr (computer eller optager og software). <!-- afklar udstyr på de enkelte sites. Steno Aarhus bruger RØDE NT1 med RØDE AI-1 i Mutebox -->
+- Udskrevet tekst til oplæsning
+- Stopur
+- Bord og stol.
+
+## Sikkerhed
+
+Der er ingen særlige sikkerhedsforanstaltninger forbundet med undersøgelsen.
+
+## Data
+
+Undersøgelsen genererer lydoptagelser af de tre stemmeopgaver.
+
+## Instruktioner
+
+- Deltageren skal sidde i et støjsvagt rum.
+- Deltageren skal sidde oprejst i en stol med mikrofonen placeret tæt på munden.
+- Fortæl deltageren om proceduren og de tre stemmeopgaver:
+  1.  I ét åndedrag sige lyden 'aaaaaa' så længe som muligt i et normalt lydniveau.
+  2.  Gentag 'Pa Ta Ka' så hurtigt som muligt i 10 sekunder.
+  3.  Læse følgende tekst højt i et normalt lydniveau:
+      - 'Jeg deltager i et forskningsprojekt, og denne lydoptagelse er en del af projektet'
+
+## Procedure
+
+1.  Kontrollér, at deltageren sidder oprejst og med mikrofonen tæt på munden.
+
+2.  For hver af de tre stemmeopgaver (se Instruktioner): Start optagelsen, bed deltageren om at udføre opgaven, og stop optagelsen. Tag tid på 'Pa Ta Ka' (10 sekunder). Lyt optagelsen igennem, og gentag opgaven, hvis lydkvaliteten vurderes utilstrækkelig. <!-- afklar kriterier for utilstrækkelig lydkvalitet -->
+
+3.  Gem de tre optagelser i \[sti/til/mappe\] med filnavn efter formatet 'voice-\[deltager-ID\]-\[opgave-nr\]-\[ÅÅÅÅMMDD\]', feks. voice-01234-1-20261014 for opgave 1. <!-- foreløbig beslutning: en fil pr. opgave.  -->
+
+## Dokumentation og kvalitetskontrol
+
+Registrér i REDCap, at de tre optagelser er gennemført under variablen \[variabelnavn\]. Notér eventuelle afvigelser.
+
+## Afvigelser og fejl
+
+- Kan deltageren ikke gennemføre en opgave, noteres det i REDCap, og undersøgelsen fortsættes.
+- Ved tekniske fejl gentages opgaven. Hvis fejlen vedvarer, afbrydes undersøgelsen, og deltageren kan fortsætte til den næste undersøgelse.
+
+## Referencer
+
+SOP fra Steno Voice-projektet: https://github.com/steno-aarhus/steno-voice/blob/main/SOP/index.qmd

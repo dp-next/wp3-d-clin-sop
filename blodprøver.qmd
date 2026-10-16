@@ -1,0 +1,88 @@
+# Blodprøver i DP-Next-projektet {#sec-blodprøver}
+
+## Baggrund
+
+I DP-Next tages der fasteblodprøver for B-Trombocytter, P-Alanintransaminase (ALAT) og P-Aspartattransaminase (ASAT). Blodprøver foretaget i forbindelse med oral glukosetolerancetest (OGTT) er beskrevet i den respektive SOP.
+
+## Anvendelsesområde
+
+- Blodprøver foretages af bioanalytiker eller andet personale med tilsvarende kvalifikationer.
+- Alle egnede deltagere får foretaget fasteblodprøver forud for OGTT.
+- Estimeret tidsforbrug: 15 minutter.
+
+## Udstyr og forberedelse
+
+- Udstyr til blodprøvetagning. <!-- aftale med bioanalytikere/klinisk personale -->
+
+- Blodprøverør til P-ASAT, P-ALAT og B-Trombocytter.
+
+- Etiketter med deltagerens ID-nummer og nødvendige prøveoplysninger.
+
+## Sikkerhed
+
+Blodprøvetagning udføres under overholdelse af gældende hygiejne- og biosikkerhedsprocedurer.
+
+- Håndhygiejne udføres før og efter proceduren samt efter behov.
+- Handsker anvendes ved blodprøvetagning.
+- Kanyler og andet skarpt udstyr håndteres forsvarligt og bortskaffes umiddelbart efter brug i en godkendt beholder til skarpt affald.
+- Deltageren observeres for ubehag, svimmelhed eller tegn på vasovagal reaktion under og umiddelbart efter prøvetagningen.
+
+## Data
+
+Undersøgelsen genererer laboratorieresultater fra tre blodprøver:
+
+- **P-ASAT:** Aspartattransaminase, rapporteret i U/L.
+- **P-ALAT:** Alanintransaminase, rapporteret i U/L.
+- **B-Trombocytter:** Antal trombocytter i blodet, rapporteret i × 10⁹/L.
+
+## Instruktioner
+
+- Deltageren skal fastes i mindst 8 timer før blodprøvetagningen.
+
+## Procedure
+
+1.  Forberedelse
+
+    1.  Bekræft, at deltageren har fastet i mindst 8 timer. Registrér eventuelle afvigelser.
+
+    2.  Klargør blodprøvetagningsudstyr, relevante prøverør og etiketter.
+
+        1.  Kontrollér, at prøverør svarer til de bestilte analyser:
+            - P-ASAT, NPU19654: lithium-heparin-plasma, grøn prop, rørtype 4.
+
+            - P-ALAT, NPU19651: lithium-heparin-plasma, grøn prop, rørtype 4.
+
+            - B-Trombocytter, NPU03568: K-EDTA-fuldblod, lilla prop, rørtype 3.
+
+2.  Udførelse
+
+    1.  Blodprøverne tages af klinisk bioanalytikerpersonale eller andet kvalificeret personale i henhold til afdelingens gældende procedurer.
+
+    2.  Der udtages prøver til følgende analyser:
+
+        - B-Trombocytter
+
+        - P-Alanintransaminase (ALAT)
+
+        - P-Aspartattransaminase (ASAT)
+
+    3.  Prøverne håndteres og transporteres i henhold til laboratoriets gældende procedurer.
+
+    4.  Hvis prøvemateriale skal opbevares til biobank, sker dette i overensstemmelse med projektets biobankprocedure og deltagerens samtykke.
+
+## Dokumentation og kvalitetskontrol
+
+Følgende dokumenteres efter projektets og laboratoriets gældende procedurer:
+
+- Deltager ID.
+- Bekræftelse af fastestatus og eventuelle afvigelser fra fastekravet.
+- Prøvetagningsdato og -tidspunkt.
+
+## Afvigelser og fejl
+
+## Referencer
+
+1.  AUH, Analysefortegnelsen: P-Aspartattransaminase (ASAT), NPU19654. https://analysefortegnelsen.rm.dk/AUH/analyse/NPU19654
+2.  AUH, Analysefortegnelsen: P-Alanintransaminase (ALAT), NPU19651. https://analysefortegnelsen.rm.dk/AUH/analyse/NPU19651
+3.  AUH, Analysefortegnelsen: B-Trombocytter, NPU03568. https://analysefortegnelsen.rm.dk/AUH/analyse/NPU03568
+4.  SOP for oral glukosetolerancetest (OGTT).

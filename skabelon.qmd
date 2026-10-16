@@ -1,0 +1,55 @@
+# Skabelon i DP-Next-projektet {#sec-skabelon}
+
+## Baggrund
+
+Relevant baggrundsinformation, hvis det er nødvendigt.
+
+## Anvendelsesområde
+
+- Hvem udfører undersøgelsen.
+- Hvilke deltagere der skal undersøges, og hvornår i projektet undersøgelsen udføres.
+- Eventuelle krav til faste, timing eller hvile.
+- Eventuelle krav til kvalifikationer/oplæring af personalet, der skal udføre undersøgelsen.
+
+## Udstyr og forberedelse
+
+- Udstyr og materialer der skal bruges til undersøgelsen.
+- Forberedelse af udstyr, lokale og deltagere forud for undersøgelsen.
+
+## Sikkerhed
+
+Relevante sikkerhedsforanstaltninger, kontraindikationer, indikationer på, at undersøgelsen bør afbrydes.
+
+## Data
+
+Beskriv kort, hvilken type data undersøgelsen genererer, hvis det er relevant.
+
+## Instruktioner
+
+Eventuelle standardiserede instruktioner til deltageren.
+
+## Procedure
+
+Beskriv undersøgelsen trin for trin, og supplér med billeder hvis det er relevant Opdel undersøgelsen i forskellige faser, hvis det er nødvendigt:
+
+1.  Forberedelse
+    1.  Trin 1
+    2.  Trin 2
+2.  Udførelse
+    1.  Trin 1
+    2.  Trin 2
+3.  Afslutning
+    1.  Trin 1
+    2.  Trin 2
+
+## Dokumentation og kvalitetskontrol
+
+Angiv relevante kontroller og dokumentation under og efter undersøgelsen.
+
+## Afvigelser og fejl
+
+Forventede resultater (hvordan ser et gyldigt resultat/gyldige målinger ud), handlinger, hvis der opstår fejl eller afvigelser, relevante kontaktpersoner.
+
+## Referencer
+
+Relaterede SOP'er, protokoller eller litteratur.

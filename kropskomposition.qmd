@@ -1,0 +1,78 @@
+## Baggrund
+
+Kropssammensætning måles ved bioelektrisk impedansanalyse (BIA).
+
+## Anvendelsesområde
+
+- Alle egnede deltagere får udført BIA ved Visit 1.
+- Undersøgelsen udføres af DP-Next personale oplært i at bruge udstyret.
+
+## Udstyr og forberedelse
+
+- Kalibreret BIA-enhed på fast, plant underlag. Kontrollér, at luftboblen i vaterpasset står midt i den sorte ring. <!-- SOP'en er skrevet til Tanita MC-780MA-N (Steno Aarhus). SOP for andre sites skal tilpasses -->
+- Kontrollér, at SD-kort er isat (SD-ikonet vises på displayet).
+- Tørt håndklæde og desinfektionsmiddel til platformen.
+- Enhedens indstillinger (Setting-tasten): sæt ur til korrekt dato og klokkeslæt og sæt ID til manuel indtastning.
+
+## Sikkerhed
+
+- Må ikke udføres på deltagere med pacemaker eller andre mekaniske implantater.
+- Undgå at bruge ved kendt metalallergi og afbryd ved hudreaktion.
+- Mobiltelefoner og lignende skal holdes væk fra enheden.
+
+## Data
+
+Fedtmasse, fedtfri masse og fasevinkel.
+
+## Instruktioner
+
+- Deltageren skal faste i minimum 12 timer inden undersøgelsen. <!-- hvornår på testdagen udføres BIA? bør laves før indtag af sukkervand? -->
+- Deltageren skal være let påklædt og stå på enheden med bare fødder.
+- Deltageren må ikke dyrke anstrengende motion 12 timer inden undersøgelsen.
+
+## Procedure
+
+**Forberedelse**
+
+1.  Kontrollér, at deltageren er fastende og ikke har dyrket anstrengende motion forud for undersøgelsen.
+
+2.  Spørg ind til pacemaker, implantater og metalallergi.
+
+3.  Kontrollér, at deltageren er let påklædt og har bare fødder.
+
+4.  Tænd enheden, og kontrollér, at den står i "Body Composition". Skift med tilstandsknappen.
+
+5.  Kontrollér, at "PT" blinker. Indtast 0,5 kg for tøjvægt og tryk Enter.
+
+**Udførelse**
+
+1.  Deltageren stiger op, når displayet viser "Step on". Kropsvægten måles.
+2.  Indtast deltager-ID (kun tal) og bekræft med Enter. Vælg køn, indtast alder og højde (cm), og bekræft hver med Enter. Højden aflæses fra stadiometermålingen.
+3.  Når "grip on" vises, tager deltageren fat i håndtagene. Kontrollér, at arme og lår ikke rører hinanden eller kroppen.
+4.  Deltageren står stille, til resultatet vises. Blinker "O", er resultatet kun vejledende, og målingen gentages (se Afvigelser og fejl).
+5.  Deltageren stiger af.
+
+**Afslutning**
+
+1.  Kontrollér, at resultatet er gemt (SD-ikonet). Sluk ikke enheden eller fjern SD-kortet, mens data gemmes.
+2.  Rengør platformen med desinfektionsmiddel efter hver deltager.
+
+## Dokumentation og kvalitetskontrol
+
+- Registrér dato, deltager-ID, fastestatus, afvigelser og gentagne målinger under variablen for kropskomposition i REDCap.
+- Data hentes fra SD-kortets datafil (én fil pr. dag, navngivet ÅÅÅÅMMDD). <!-- mere specific procedure for indlæsning af data til REDCap, når vi afprøver SOP'er -->
+- Kontrollér dagligt, at enheden står plant, og at dato og tid er korrekte. Kontrollér regelmæssigt, at SD-kortet ikke er fuldt. <!-- angiv ansvarlig for hvert site. -->
+
+## Afvigelser og fejl
+
+- En gyldig måling er en måling, hvor "O" ikke blinker.
+- "O" blinker: Måleposituren er forkert (arme eller lår rører hinanden eller kroppen, bøjede knæ, fødder forkert placeret), og resultatet er kun vejledende. Ret positionen, og gentag målingen.
+- "------": Kontrollér, at deltageren står barfodet og holder fast om håndtagene med fingre og håndflader, og at de indtastede oplysninger er rigtige. Er fodsålerne tørre, fugtes de med en fugtig klud (OBS: platformen må ikke blive våd). Hjælper det ikke, så sluk enheden, fjern alt fra platformen, tænd igen, og gentag målingen.
+- Vægten stabiliseres ikke: Kontrollér, at underlaget ikke vibrerer og at platformen ikke er skæv.
+- "Error 12": SD-kortet er fuldt.
+- Deltageren har ikke fastet eller har dyrket anstrengende motion før undersøgelsen: Noteres som afvigelse.
+- Ved vedvarende fejl kontaktes <!-- ansvarlig på de enkelte sites -->
+
+## Referencer
+
+- Tanita MC-780MA-N Instruction Manual (2018).

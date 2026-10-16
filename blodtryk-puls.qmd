@@ -1,0 +1,76 @@
+# Puls- og blodtryksmåling i DP-Next-projektet {#sec-blood-pressure-pulse}
+
+## Baggrund
+
+I DP-Next benyttes et automatisk oscillometrisk apparat til at måle deltagerens blodtryk og puls.
+
+## Anvendelsesområde
+
+- Alle deltagere får målt deres blodtryk og puls ved Visit 1. Undersøgelsen udføres af DP-Next personale oplært i at bruge udstyret.
+
+- Estimeret tidsforbrug: 10 minutter.
+
+## Udstyr og forberedelse
+
+- Fuldautomatisk oscillometrisk apparat med manchet i passende størrelse. <!-- afklar model og manchetter -->
+- En stol med ryglæn, så deltageren har støtte i ryggen.
+- Et bord eller armstøtte, der kan justeres til brysthøjde, hvorpå deltagerens arm kan hvile.
+
+## Sikkerhed
+
+- Ved forhøjet gennemsnitligt blodtryk ved første måling (systolisk over 140 eller diastolisk over 90) foretages en kontrolmåling i hvile senere på undersøgelsesdagen. <!-- afklar hvornår -->
+- Er kontrolmålingen fortsat forhøjet, bør deltageren oplyses herom og anbefales at få kontrolleret sit blodtryk ved egen læge i de efterfølgende dage.
+- Er blodtrykket ved en enkelt måling systolisk over 180 eller diastolisk over 120, bør deltageren blive tilset af en læge på undersøgelsesstedet.
+
+## Data
+
+Det fuldautomatiske oscillometriske apparat måler det systoliske og det diastoliske blodtryk, som vises f.eks. som 140/90. Apparatet viser desuden pulsen, som registreres for hver måling. Der foretages to målinger, og gennemsnittet af de to bruges.
+
+## Instruktioner
+
+- Deltageren skal have hvilet siddende og i ro i mindst 5 minutter inden blodtrykket måles.
+- Deltageren skal have en tom blære under undersøgelsen.
+- Forklar kort proceduren, og at der kan være let ubehag forbundet med, at manchetten pumpes op. Målingen foretages to gange med mindst 1 minuts mellemrum.
+- Der må ikke snakkes under målingen.
+
+```{=html}
+<!-- skal vi foretage procedure til at vurdere, hvilken arm der skal tages blodtryk på? Inspiration fra OnLimit:
+
+- Undersøgelse for armforskel:
+  - Første gang deltageren skal have målt blodtryk, skal det undersøges, om blodtrykket er ens på begge arme.
+  - Der måles ét blodtryk på den ene arm, to på den anden arm og herefter igen ét blodtryk på første arm.
+  - Hvis forskellen er mere end 10 mmHg systolisk, anvendes armen med den højeste værdi til blodtryksmåling fremadrettet. Hvis forskellen er højst 10 mmHg systolisk, anvendes den ikke-dominante arm. OnLimit dækker ikke præcis 10 mmHg, så afklar grænsen.
+-->
+```
+
+## Procedure
+
+1.  Bed deltageren om at tage tøjet af den arm, som blodtrykket skal måles på.
+
+2.  Placér manchetten på armen, således at det gule område på manchetten er udad, og manchetten er 2-3 cm over albuebøjningen. Fastgør manchetten med velcrolukningen. <!-- skal tilpasses til det præcise apparat -->
+
+3.  Bed deltageren om at sidde med ryggen støttet, fødderne fladt på gulvet og benene parallelle.
+
+4.  Placér armen horisontalt på midtlinjen af sternum og hjertet. Sørg for, at armen har støtte, og at deltageren kan holde til at have armen i den stilling, mens målingerne foretages.
+
+5.  Bed deltageren om at holde sig i ro og undlade at tale, mens målingerne foretages.
+
+6.  Tænd apparatet og start første måling.
+
+7.  Vent mindst 1 minut, og foretag en måling mere på samme arm.
+
+8.  Registrér de to puls- og blodtryksmålinger og hvilken arm der er brugt i REDCap. <!-- beregner REDCap automatisk gennemsnit, eller vi selv beregner og indtaster gennemsnittet? -->
+
+## Dokumentation og kvalitetskontrol
+
+- Registrér puls, systolisk og diastolisk blodtryk for begge målinger i REDCap. Gennemsnittet af de to blodtryksmålinger bruges.
+- Registrér, hvilken arm der er brugt. Hvis der er brugt en anden arm end den valgte, registreres årsagen. <!-- sidste del kun aktuelt hvis vi har procedure for at vælge hvilken arm der skal bruges -->
+- Hvis der foretages en kontrolmåling, registreres begge målinger (og deres gennemsnit) også i REDCap, adskilt fra første måling. <!-- afklar hvilket sæt der bruges som studiets blodtryksværdi, og hvor kontrolmålingen registreres -->
+
+## Afvigelser og fejl
+
+- Hvis deltageren ikke har hvilet, har talt eller har bevæget sig under målingen, gentages målingen efter hvile.
+- Hvis apparatet viser en fejlmeddelelse, gentages målingen.
+- Ved forhøjet blodtryk, se afsnittet Sikkerhed.
+
+## Referencer

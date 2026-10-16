@@ -1,6 +1,4 @@
----
-title: "Udstyrsoversigt"
----
+# Udstyrsoversigt i DP-Next-projektet {#sec-udstyrsoversigt}
 
 ## Sociodemografi
 
