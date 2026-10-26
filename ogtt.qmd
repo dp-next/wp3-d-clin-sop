@@ -11,7 +11,7 @@ OGTT anvendes til at undersøge deltagerens glukosemetabolisme og insulinsekreti
 - Deltagere skal faste i minimum 12 timer forud for undersøgelsen.
 - Estimeret tidsforbrug: 125 minutter.
 
-## Udstyr og forberedelse![Close document tab](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAbElEQVR4Xs2RQQrAMAgEfZgf7W9LAguybljJpR3wEse5JOL3ZObDb4x1loDhHbBOFU6i2Ddnw2KNiXcdAXygJlwE8OFVBHDgKrLgSInN4WMe9iXiqIVsTMjH7z/GhNTEibOxQswcYIWYOR/zAjBJfiXh3jZ6AAAAAElFTkSuQmCC){alt="Close document tab"}
+## Udstyr og forberedelse
 
 - 75 g vandfri glukose opløst i 250 ml vand.
 - Stopur.
