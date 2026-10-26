@@ -20,8 +20,8 @@ book:
     type: textbox
   chapters:
     - index.qmd
-  #  - part: "Sections"
-  #    chapters:
+  - part: "Sektioner"
+    chapters:
        - skabelon.qmd
        - udstyrsliste.qmd
        - affoeringsproeve.qmd
