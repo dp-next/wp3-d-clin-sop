@@ -1,11 +1,6 @@
-# wp3-d-clin-sop: TODO add more to title
+# wp3-d-clin-sop: Standard Operating Procedures (SOPs) in the DP-Next
 
-<!-- TODO: Add description of project -->
-
-> [!TIP]
-> This website repository was generated from the
-> [`template-website`](https://github.com/seedcase-project/template-website)
-> Seedcase template :tada:
+This repository contains the general standard operating procedures (SOPs) for the clinical examinations in DP-NEXT. If necessary, the SOPs can be adjusted to the specific site of examination.
 
 ## Project files and folders
 
