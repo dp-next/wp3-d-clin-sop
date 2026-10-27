@@ -1,6 +1,6 @@
 # wp3-d-clin-sop: Standard Operating Procedures (SOPs) in the DP-Next
 
-This repository contains the general standard operating procedures (SOPs) for the clinical examinations in DP-NEXT. If necessary, the SOPs can be adjusted to the specific site of examination.
+This repository contains the general standard operating procedures (SOPs) for the clinical examinations in DP-Next. If necessary, the SOPs can be adjusted to the specific site of examination.
 
 ## Project files and folders
 
