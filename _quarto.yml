@@ -23,7 +23,7 @@ book:
   - part: "Sektioner"
     chapters:
        - skabelon.qmd
-       - udstyrsliste.qmd
+       - udstyrsoversigt.qmd
        - affoeringsproeve.qmd
        - blodtryk-puls.qmd
        - spytproeve.qmd
