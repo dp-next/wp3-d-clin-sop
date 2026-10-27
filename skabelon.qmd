@@ -7,7 +7,7 @@ Relevant baggrundsinformation, hvis det er nødvendigt.
 ## Anvendelsesområde
 
 - Hvem udfører undersøgelsen.
-- Hvilke deltagere der skal undersøges, og hvornår i projektet undersøgelsen udføres.
+- Hvilke deltagere der skal undersøges, og hvornår i projektet udføres undersøgelsen.
 - Eventuelle krav til faste, timing eller hvile.
 - Eventuelle krav til kvalifikationer/oplæring af personalet, der skal udføre undersøgelsen.
 
