@@ -1,17 +1,15 @@
----
-title: "Udstyrsoversigt"
----
+# Udstyrsoversigt i DP-Next-projektet {#sec-udstyrsoversigt}
 
 ## Sociodemografi
 
 - **Dataindsamlingsmetode:**
-- **Udstyr:** -
+- **Udstyr:**
 - **Lokation (Aarhus):**
 
 ## Sygehistorie / sygelighed
 
 - **Dataindsamlingsmetode:**
-- **Udstyr:** -
+- **Udstyr:**
 - **Lokation (Aarhus):**
 
 ## Antropometri
@@ -124,7 +122,9 @@ title: "Udstyrsoversigt"
 ## Stemmekarakteristika
 
 - **Dataindsamlingsmetode:** Standardiseret stemmeoptagelse
-- **Udstyr:** 1x mutebox inklusiv mikrofonudstyr
+- **Udstyr:** 1x mutebox (eller tilsvarende støjsvagt rum)
+- Mikrofonudstyr
+- Bord og Stol
 - **Lokation (Aarhus):**
 
 ## Autonom funktion
@@ -138,7 +138,7 @@ title: "Udstyrsoversigt"
 
 ## Vibrationsperceptionstærskel
 
-- **Dataindsamlingsmetode:** Biotesiometri
+- **Dataindsamlingsmetode:** Biothesiometri
 - **Udstyr:**
   - 1x biothesiometer
   - 1x undersøgelsesbriks

@@ -4,7 +4,7 @@ project:
 
 book:
   # TODO: Set the title of the website
-  title: ""
+  title: "Standard Operating Procedures for DP-Next"
   site-url: "https://dp-next.github.io/wp3-d-clin-sop/"
   repo-url: "https://github.com/dp-next/wp3-d-clin-sop"
   author:
@@ -20,9 +20,18 @@ book:
     type: textbox
   chapters:
     - index.qmd
-  #  - part: "Sections"
-  #    chapters:
-  #    - path/to/file.qmd
+  - part: "Sektioner"
+    chapters:
+       - skabelon.qmd
+       - udstyrsoversigt.qmd
+       - affoeringsproeve.qmd
+       - blodtryk-puls.qmd
+       - spytproeve.qmd
+       - cgm.qmd
+       - blodproever.qmd
+       - kropskomposition.qmd
+       - ogtt.qmd
+       - stemmekarakteristika.qmd
   # appendices:
   #  - path/to/file.qmd
   tools:
