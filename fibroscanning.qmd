@@ -1,0 +1,129 @@
+# Fibroscanning i DP-Next-projektet {#sec-fibroscanning}
+
+## Baggrund
+
+Transient elastografi/fibroscanning anvendes til at vurdere leverens generelle tilstand, herunder fibrose/arvæv (leverstivhed) og steatosegrad (fedtlever).
+
+## Anvendelsesområde
+
+- Undersøgelsen udføres af DP-Next personale der har gennemgået et relevant uddannelsesforløb i fibroscanning.
+- Alle deltagere får foretaget fibroscanning ved Visit 1.
+- Deltageren skal faste minimum 8 timer forud for undersøgelsen.
+
+## Udstyr og forberedelse
+
+- 1x fibroscanner <!-- mærke/model angives senere -->
+  - M og XL prober
+  - Ultralydsgel
+  - Hudmarkør til lokalisering af scanningspunkt
+- 1x undersøgelsesbriks
+- Vådservietter til rengøring af briks og probe
+- Papir til aftørring af gel
+- USB-stik til overføring af data
+
+## Sikkerhed
+
+Metoden er non-invasiv og er har derfor ingen sikkerhedsforanstaltninger.
+
+## Data
+
+Undersøgelsen genererer to parametre relateret til leverens sundhed:
+
+- Elasticitetskoefficient (udtrykt i Kilopascal), der er et udtryk for leverens stivhed. Apparatet kan måle 2-75 kPa. <!-- angiv korrekt måleområde ud fra den specifikke scanner -->
+
+- Controlled attenuation parameter (CAP, udtrykt i decibel/meter), der er et udtryk for leverens steatosegrad (fedtlever). Ligger i området 100-400 decibel/meter. Højere steatosegrad indikerer højere ophobning af fedt i leveren. <!-- angiv korrekt måleområde ud fra den specifikke scanner -->
+
+## Instruktioner
+
+Forsøgsdeltageren skal faste i minimum 8 timer forud for undersøgelsen.
+
+## Procedure
+
+1.  Forberedelse
+    1.  Deltageren placeres behageligt på ryggen på undersøgelsesbriksen.
+        - Sørg for, at der nemt kan trækkes op i trøjen, så der er adgang til højre side samt maveregion.
+        - Hvis deltageren har BH på, foldes noget papir om denne, for at undgå, at der kommer gel på.
+        - **Deltageren skal herefter hvile mindst 5 minutter inden scanningen foretages.**
+2.  Udførelse <!-- OBS: denne procedure er fra onlimit-SOP'en og FibroScan 530 compact. Proceduren skal tilpasses udstyret på det enkelte site -->
+    1.  **Opstart**
+        1.  Tænd fibroscanneren på tænd/sluk-knappen.
+        2.  Tryk på "*New examination"*
+        3.  First name udfyldes [**ikke**]{.underline}
+        4.  Surname: DP-Next-ID-fibro, f.eks. *DP-Next-0001-fibro*
+        5.  Tryk på pilen
+        6.  Ved "*Operator"* skrives initialer; f.eks. JH for Jens Hansen
+        7.  Ved "*Exam type"* vælges "*M/XL"*
+        8.  Lad felterne "*Indication", "Weight", "Height"* stå tomme
+        9.  Ved "*Fasting" vælges "Unknown"*
+        10. Tryk på pilen
+    2.  **Lokalisering af målepunkt**
+        1.  Lokalisér nederste spids af brystbenet og følg kroppens horisontale plan til den krydser den midtaxillære linje (den lige linje fra armhulen ned til hoften).
+        2.  Lokalisér interkostalrummet mellem 8. og 9. ribben
+        3.  Markér målepunktet med hudmarkøren
+    3.  **Lejring af deltageren**
+        1.  Bed deltageren lægge højre arm op bag hovedet
+        2.  Bed deltageren krydse højre ben over det venstre
+        3.  Bed deltageren presse højre side af kroppen ud mod dig, for at opnå størst mulig åbning mellem ribben.
+    4.  **Placering af ultralydsproben**
+        1.  Placér proben på det lokaliserede målepunkt (se fig-probe)
+
+            <!-- pladsholder til fig-probe der viser målepunkt -->
+
+        2.  Leverområde identificeres ved hjælp af kvalitetsindikatorerne på scanneren (se fig-kvalitet).
+
+            <!-- pladsholder til fig-kvalitet der viser kvalitetsindikator på scanneren -->
+
+            1.  Venstre billede: Skal vise homogent væv i en vandret struktur uden blodkar eller knogler.
+            2.  Højre billede: En grøn firkant rundt om denne figur indikerer god vævskvalitet til undersøgelsen.
+            3.  Øverste symbol viser hvor højt der trykkes med proben. Skal gerne være grøn i alle lag.
+
+        3.  OBS: Skift probe hvis scanneren beder dig om det. Der er to prober til rådighed; M og XL. Der startes som udgangspunkt med M og skiftes kun til XL, hvis scanneren beder dig om det.
+
+        4.  Når proben er placeret, laves en prøvemåling ved at trykke på knappen på proben. Hvis prøvemålingen er gyldig med realistiske værdier, holdes proben stille på målepunktet resten af undersøgelsen.
+
+            1.  Hvis prøvemålingen ikke er gyldig, rykkes lidt på proben og prøvemåling gentages, indtil den er gyldig.
+
+        5.  Når proben er placeret korrekt med en valid prøvemåling, trykkes på pilen for at fortsætte til selve undersøgelsen.
+    5.  **Undersøgelsen**
+        1.  Udfør mindst 10 gyldige målinger ved samme målepunkt
+        2.  Undersøgelsen er færdig, når følgende er opfyldt:
+            1.  Der er mindst 10 gyldige målinger.
+            2.  IQR/med er under 30%.
+                1.  Hvis IQR er over 30%, kan man forsøge at slette nogle af de første målinger:
+                    1.  Tryk på de billeder du vil slette. Trykkes der på billede 2, sletter den til og med billede 2 (1+2) osv.
+                    2.  Tag nye målinger, så der er mindst 10 igen, indtil IQR/med er under 30%.
+            3.  CAP har nået 100%
+    6.  **Afslutning**
+        1.  Tryk på firkanten nederst i højre hjørne for at afslutte og gemme scanningen.
+        2.  Lad deltageren selv fjerne gel med en papirserviet og bed dem rejse sig fra lejet.
+        3.  Hold probehovedet nedad og rengør det med en vådserviet.
+        4.  Rengør briksen med en vådserviet.
+    7.  **Overførsel af data**
+        1.  Indsæt USB i porten på bagsiden af scanneren.
+        2.  Gå til forsiden og tryk på *"Archive"*
+        3.  Tryk på søgefeltet nederst i højre hjørne.
+        4.  Indtast navnet på forsøgsdeltageren, som blev indtastet under opstart; DP-Next-ID-fibro, f.eks. *DP-Next-0001-fibro*
+        5.  Vælg deltageren og tryk på "*Export"* nederst til venstre.
+        6.  Vælg XLSX som format og tryk på "*Export"*
+        7.  Vælg at alle deltagerens scanninger skal overføres.
+        8.  Læg filen på <!-- sti til drevet vi gemmer filerne på -->
+        9.  Upload filen i REDCap.
+        10. Slet filen på USB-stikket, når overførslen er fuldført.
+
+## Dokumentation og kvalitetskontrol
+
+Operatørens initialer, probetype (M/XL), antal gyldige målinger og eventuelle afvigelser dokumenteres i REDCap.
+
+## Afvigelser og fejl
+
+- Scanneren beder om probeskift: skift til XL-proben.
+
+- <!-- Hvis der opnås ikke 10 gyldige målinger, eller IQR/med forbliver over 30% efter x forsøg, afsluttes proceduren og ny testdag aftales med deltageren? -->
+
+- <!-- Deltageren er ikke fastende: skal scanningen udføres og afvigelsen noteres, eller flyttes til et andet tidspunkt? -->
+
+- Teknisk fejl på scanneren: kontakt <!-- skal vi have en kontaktperson? -->
+
+- <!-- skal vi have retningslinjer for, hvornår/om deltageren skal anbefales at søge egen læge? -->
+
+## Referencer
