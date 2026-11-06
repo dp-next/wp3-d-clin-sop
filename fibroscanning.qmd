@@ -23,7 +23,7 @@ Transient elastografi/fibroscanning anvendes til at vurdere leverens generelle t
 
 ## Sikkerhed
 
-Metoden er non-invasiv og er har derfor ingen sikkerhedsforanstaltninger.
+Metoden er non-invasiv og har derfor ingen sikkerhedsforanstaltninger.
 
 ## Data
 
