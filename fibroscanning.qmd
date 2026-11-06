@@ -75,7 +75,7 @@ Forsøgsdeltageren skal faste i minimum 8 timer forud for undersøgelsen.
 
             1.  Venstre billede: Skal vise homogent væv i en vandret struktur uden blodkar eller knogler.
             2.  Højre billede: En grøn firkant rundt om denne figur indikerer god vævskvalitet til undersøgelsen.
-            3.  Øverste symbol viser hvor højt der trykkes med proben. Skal gerne være grøn i alle lag.
+            3.  Øverste symbol viser hvor hårdt der trykkes med proben. Skal gerne være grøn i alle lag.
 
         3.  OBS: Skift probe hvis scanneren beder dig om det. Der er to prober til rådighed; M og XL. Der startes som udgangspunkt med M og skiftes kun til XL, hvis scanneren beder dig om det.
 
