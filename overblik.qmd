@@ -11,7 +11,7 @@
 | Functional capacity and motor function  | X    | X    | X    | MK                   |%
 | Glycaemic dynamics                      | X    | X    | X    | MS                   |
 | Subjective sleep quality                | X    | X    | X    | Spg:                 |
-| Oral health–related quality of life     | X    | X    | X    | Spg:                 |% vi mangler SOP til denen 
+| Oral health–related quality of life     | X    | X    | X    | Spg:                 | 
 | Autonomic symptoms                      | X    | X    | X    | SPG:                 |
 | Chronotype                              | X    | X    | X    | Spg:                 |
 | Eating behaviour                        | X    | X    | X    | Spg:                 |
@@ -26,6 +26,9 @@
 | Fecal samples                           | X    | X    | X    | MS                   |
 | Saliva sample                           | X    | X    | X    | MS                   |
 | Biobank                                 |      |      |      | Fælles               |
+| point-of-care                           |      |      |      |                      |
+| Tandundersøgelse                        |      |      |      |                      |%
+| Besøgsguide                             |      |      |      |                      |% Rækkefølge og guide over paitentkommunikation og informationer
 
 David: 6
 
