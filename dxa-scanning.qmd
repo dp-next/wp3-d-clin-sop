@@ -1,0 +1,83 @@
+# DXA-scanning i DP-Next-projektet {#sec-dxa-scanning}
+
+## Baggrund
+
+DXA (dual-energy X-ray absorptiometry) er en røntgenbaseret metode til måling af kropssammensætning; fedtmasse, fedtfri masse og knoglemineraltæthed.
+
+## Anvendelsesområde
+
+- Undersøgelsen udføres af projektpersonale, der er uddannet og autoriseret til at betjene DXA-scanneren.
+- Alle deltagere får foretaget DXA-scanning ved Visit 1.
+
+## Udstyr og forberedelse
+
+- DXA-scanner. <!-- afklar model og softwareversion på det enkelte site -->
+- Vægt og højdemåler. <!-- genbruges værdier fra BIA/antropometri? -->
+- Desinfektionsservietter til aftørring af leje.
+- Test scannerens nødstop, og kontrollér at røntgen- og shutter-lamper er slukket, og at skærmen viser, at nødstoppet er aktiveret.
+- Kontrollér, at advarselsskiltet uden for scannerrummet fungerer og lyser, når scanning pågår.
+- Udfør kalibrering/kvalitetskontrol før den første deltager scannes.
+
+## Sikkerhed
+
+- DXA anvender ioniserende stråling i lav dosis. Personalet må ikke opholde sig i scannerrummet under scanningen.
+- **Metal:** Smykker, piercinger og tøj med metal kan påvirke scanningen og skal fjernes.
+- <!-- vægt- eller størrelsesgrænse for scannerbordet skal afklares på de enkelte sites -->
+- **Afbrydelse:** Scanningen afbrydes, hvis deltageren er utilpas eller ikke kan ligge stille, eller ved fejl på udstyret. Brug nødstop ved akut behov. Efter scanningen hjælpes deltageren forsigtigt op.
+
+## Data
+
+Undersøgelsen genererer scanfiler og kropssammensætningsmål: total og regional fedtmasse, fedtfri masse samt knoglemineraltæthed (BMD) og -indhold (BMC). Scannermodel, softwareversion og QC-status logges for hver scanning.
+
+## Instruktioner
+
+Deltageren instrueres i at:
+
+- Tømme blæren inden scanningen.
+- Fjerne smykker, tøj med metal og sko.
+- Ligge stille på ryggen med armene ned langs siden under hele scanningen.
+- Sige til, hvis vedkommende bliver utilpas.
+
+## Procedure
+
+1.  Forberedelse
+    1.  Gennemfør tjek af udstyr som beskrevet under *Udstyr og forberedelse*.
+    2.  Kontrollér deltagerens fødselsdato og deltager-ID.
+    3.  Bed deltageren tømme blæren og fjerne smykker, metaltøj og sko. Udlevér om nødvendigt en kittel.
+    4.  Mål og registrér højde og vægt i REDCap. <!-- genbruges værdier fra BIA/antropometri? -->
+    5.  Bed deltageren lægge sig på scannerbordet i rygleje efter producentens positioneringsanvisning og lejets markeringer: midt på bordet med hovedet inden for scanområdet, kroppen ret, arme langs siden uden at røre kroppen og ben samlet.
+2.  Udførelse
+    1.  Vælg måletypen "Total Body", og kontrollér deltagerens position på bordet. Juster om nødvendigt.
+    2.  Start scanningen efter producentens anvisninger. Gå ikke ind i scannerrummet, før scanningen er afsluttet.
+    3.  En helkropsscanning varer ca. 15 minutter, men tiden kan variere mellem scannere.
+3.  Afslutning
+    1.  Hjælp deltageren forsigtigt ned fra scannerbordet.
+    2.  Kontrollér, at scanningen er gennemført og kan analyseres.
+    3.  Indtast scanresultaterne i REDCap.
+        1.  totale og regionale målinger af
+            1.  Fedtmasse
+            2.  Fedtfri masse
+            3.  Knoglemineraltæthed
+            4.  Knoglemineralindhold
+    4.  Indtast scaninformation i REDCap
+        1.  Scannermodel
+        2.  Softwareversion
+        3.  Status for kvalitetskontrol
+        4.  <!-- Upload scannerfil til REDCap? -->
+    5.  Rengør scannerbordet.
+
+## Dokumentation og kvalitetskontrol
+
+- Kalibrering/kvalitetskontrol af scanneren dokumenteres efter lokal procedure.
+- Scannermodel og softwareversion dokumenteres.
+- Scanresultater og eventuelle bemærkninger registreres i REDCap.
+- Scanningen kontrolleres for korrekt positionering og artefakter (fx metal) før afslutning.
+
+## Afvigelser og fejl
+
+- **Forventet resultat:** Gennemført helkropsscanning med korrekt positionering og uden artefakter.
+- **Afvigelser:** Metal ikke fjernet, deltageren flyttede sig, scanningen blev afbrudt eller udstyret fejlede. Dokumentér afvigelsen i REDCap, og gentag kun scanningen, hvis det er foreneligt med strålebeskyttelse og protokol. <!-- skal vi have fælles procedure for afvigelser? afklar eventuel kontaktperson på det enkelte site -->
+
+## Referencer
+
+- LightCOM: Standard Operating Procedure for Patient Care – DEXA Scanner, v1, 09.04.2024 (udgangspunkt for denne SOP).
