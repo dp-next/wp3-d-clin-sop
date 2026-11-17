@@ -22,7 +22,7 @@
 | Nerve conduction                        |      |      | X    | David                |(%)
 | Sensory function                        |      |      | X    | David                |(%)
 | Diet                                    | X    | X    | X    | Spg                  |
-| Blood samples                           | X    | X    | X    | Kristina?            |(%) lavet, men skal gennemgås med bioanalytikker 
+| Blood samples                           | X    | X    | X    | Kristina?            | Skema over redskaber tilsendt fra andet projekt - skal gennemgås med tildelt bioanalytikker 
 | Fecal samples                           | X    | X    | X    | MS                   |
 | Saliva sample                           | X    | X    | X    | MS                   |
 | Biobank                                 |      |      |      | Fælles               |
