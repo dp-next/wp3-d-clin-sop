@@ -16,7 +16,7 @@
 | Chronotype                              | X    | X    | X    | Spg:                 |
 | Eating behaviour                        | X    | X    | X    | Spg:                 |
 | Continuous glucose monitoring           | X    | X    | X    | MS                   |
-| Voice characteristics                   | X    | X    | X    | Kristina             |(/) undersøg om vi kan bestille mikrofoner, Kristina tjek mail
+| Voice characteristics                   | X    | X    | X    | Kristina             |(/) undersøg om vi kan bestille mikrofoner, Kristina tjek mail - skrevet til Manuel 
 | Autonomic function                      |      | X    | X    | Jonas                |(%)
 | Vibration Perception Threshold          |      |      | X    | David                |(%)
 | Nerve conduction                        |      |      | X    | David                |(%)
