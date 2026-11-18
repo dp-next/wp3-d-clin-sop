@@ -35,8 +35,7 @@ Undersøgelsen genererer to parametre relateret til leverens sundhed:
 
 ## Instruktioner
 
-Forsøgsdeltageren skal faste i 12 timer forud for undersøgelsen.
-Minimumskravet for faste for at kunne gennemføre undersøgelsen er 3-4 timer. Overholdes dette ikke, skal undersøgelsen foretages på en ny forsøgsdag efter aftale med deltageren. 
+Forsøgsdeltageren skal faste i 12 timer forud for undersøgelsen. Minimumskravet for faste for at kunne gennemføre undersøgelsen er 3-4 timer. Overholdes dette ikke, skal undersøgelsen foretages på en ny forsøgsdag efter aftale med deltageren.
 
 ## Procedure
 
@@ -55,7 +54,7 @@ Minimumskravet for faste for at kunne gennemføre undersøgelsen er 3-4 timer. O
         6.  Ved "*Operator"* skrives initialer; f.eks. JH for Jens Hansen
         7.  Ved "*Exam type"* vælges "*M/XL"*
         8.  Lad felterne "*Indication", "Weight", "Height"* stå tomme
-        9.  Ved "*Fasting" vælges "Unknown"*
+        9.  Ved "*Fasting" vælges "Yes"*
         10. Tryk på pilen
     2.  **Lokalisering af målepunkt**
         1.  Lokalisér nederste spids af brystbenet og følg kroppens horisontale plan til den krydser den midtaxillære linje (den lige linje fra armhulen ned til hoften).
@@ -110,6 +109,7 @@ Minimumskravet for faste for at kunne gennemføre undersøgelsen er 3-4 timer. O
         8.  Læg filen på <!-- sti til drevet vi gemmer filerne på -->
         9.  Upload filen i REDCap.
         10. Slet filen på USB-stikket, når overførslen er fuldført.
+        11. Slet deltagerens målinger fra scanneren, når overførslen er fuldført.
 
 ## Dokumentation og kvalitetskontrol
 
