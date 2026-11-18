@@ -32,6 +32,7 @@ book:
        - kropskomposition.qmd
        - ogtt.qmd
        - stemmekarakteristika.qmd
+       - dxa-scanning.qmd
   # appendices:
   #  - path/to/file.qmd
   tools:
