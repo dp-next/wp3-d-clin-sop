@@ -6,7 +6,7 @@ Ved biothesiometri bestemmes detektionsgrænsen for vibration (Vibration Percept
 
 ## Anvendelsesområde
 
-- Alle egnede deltagere får foretaget en VPT ved Visit 1.
+- Alle egnede deltagere i Aalborg får foretaget en VPT ved Visit 1.
 - Testen udføres af DP-Next personalet efter oplæring.
 - Estimeret tidsforbrug: 15 minutter.
 
