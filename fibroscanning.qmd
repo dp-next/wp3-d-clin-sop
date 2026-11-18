@@ -35,7 +35,8 @@ Undersøgelsen genererer to parametre relateret til leverens sundhed:
 
 ## Instruktioner
 
-Forsøgsdeltageren skal faste i minimum 8 timer forud for undersøgelsen.
+Forsøgsdeltageren skal faste i 12 timer forud for undersøgelsen.
+Minimumskravet for faste for at kunne gennemføre undersøgelsen er 3-4 timer. Overholdes dette ikke, skal undersøgelsen foretages på en ny forsøgsdag efter aftale med deltageren. 
 
 ## Procedure
 
