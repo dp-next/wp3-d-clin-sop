@@ -1,0 +1,124 @@
+# Antropometri i DP-Next-projektet {#sec-antropometri}
+
+## Baggrund
+
+Antropometriske målinger udføres for at beskrive deltagernes kropsstørrelse, herunder højde, vægt, talje- og hofteomkreds samt hudfoldsmålinger.
+
+## Anvendelsesområde
+
+- Undersøgelserne udføres af DP-Next personale efter oplæring.
+- Alle deltagere får målt antropometri ved Visit 1.
+
+## Udstyr og forberedelse
+
+- Højde: 1x vægmonteret stadiometer
+- Vægt: 1x kalibreret vægt
+- Talje- og hofteomkreds: 1x uelastisk målebånd/taljebånd.
+- Hudfoldstykkelse: 1x kalibreret hudfoldsmåler
+- **Forberedelse**
+  - Udstyret kontrolleres og stilles klar, inden deltageren ankommer. Vægten placeres på en hård, plan overflade.
+  - Deltageren undersøges i let tøj, uden sko og med tømte lommer. Bælte og tunge klæder fjernes.
+  - OBS: Højden skal være målt, før BIA udføres, da den indtastes i BIA-apparatet (se SOP for BIA).
+
+## Sikkerhed
+
+Der er ingen særlige sikkerhedsforhold ved målingerne. Deltagere med nedsat balance eller mobilitet tilbydes støtte under målingerne på stadiometer og vægt.
+
+## Data
+
+Undersøgelsen genererer følgende data om deltageren:
+
+- Højde (cm, nærmeste 0,1 cm)
+- Vægt (kg, nærmeste 0,1 kg)
+- Taljeomkreds og hofteomkreds (cm, nærmeste 0,1 cm)
+- Hudfoldstykkelse (mm) for hver lokalisation
+
+## Instruktioner
+
+Deltageren informeres kort om, hvad der skal ske, inden hver måling:
+
+- Højde: "Du skal stå helt oprejst med hæle, balder og ryg mod stadiometeret og kigge lige frem."
+- Vægt: "Du skal stå roligt på vægten med vægten fordelt på begge ben."
+- Talje og hofte: "Du skal stå afslappet og trække vejret normalt".
+- Hudfold: "Jeg tager fat i en hudfold og måler tykkelsen med et instrument. Det skal føles som et let klem, men ikke gøre ondt".
+
+## Procedure
+
+1.  **Forberedelse**
+    1.  Kontroller, at udstyret er klart (se *Udstyr og forberedelse*).
+    2.  Bed deltageren fjerne sko, bælte og tunge klæder og tømme lommerne.
+    3.  Forklar målingerne kort (se *Instruktioner*).
+2.  **Udførelse**
+    1.  **Højde**
+
+        1.  Deltageren står uden sko på stadiometerets fodplade med hælene samlet, benene strakte og vægten jævnt fordelt.
+        2.  Skuldrene er afslappede, og armene hænger frit langs siden. Hæle, balder og ryg er i kontakt med den lodrette flade, men deltageren må ikke læne sig op ad den. Hælene må ikke løftes fra fodpladen.
+        3.  Placér med begge hænder deltagerens hoved i Frankfurt-planet (se nedenfor), og sænk hovedpladen fast ned mod hovedet.
+            - *Frankfurt-planet er en tænkt vandret linje gennem den ydre øregang og øverst på den nedre øjenhulekant, lige under øjet. Hvis deltageren er høj, kan det være svært at placere hovedet korrekt. Når planet ser vandret ud, så træd et skridt tilbage og kontrollér på afstand.*
+        4.  Aflæs og registrér højden i cm (nærmeste 0,1 cm) i REDCap, før deltageren træder væk fra stadiometeret.
+        5.  Registrér mærke og model på stadiometeret, der er brugt, i REDCap.
+
+    2.  **Vægt**
+
+        1.  Deltageren står uden sko midt på vægten i en naturlig stilling med arme hængende frit og blikket fremad.
+        2.  Aflæs vægten og registrér den i kg (nærmeste 0,1 kg) i REDCap, før deltageren stiger af vægten.
+        3.  Registrér mærke og model på vægten, der er brugt, i REDCap.
+        4.  <!-- Til afklaring: Registrering af tøjvægt ved vægtmåling (fast værdi, beregnet felt i REDCap eller manuel fratrækning?) Afstem med SOP for BIA. -->
+
+    3.  **Taljeomkreds**
+
+        1.  Deltageren står oprejst og afslappet med vægten jævnt fordelt på begge fødder og armene hængende frit.
+        2.  Stå ved siden af deltageren, og find nederste ribben og øverste del af hoftekammen.
+        3.  Mål afstanden mellem de to punkter, og markér midtpunktet.
+        4.  Deltageren lægger målebåndet rundt om sig selv i højde med midtpunktet. Kontrollér, at båndet er vandret foran og bagpå og så parallelt med gulvet som muligt.
+        5.  Bed deltageren trække vejret roligt ind og ud og kigge lige frem.
+        6.  Aflæs målingen efter udånding, nærmeste 0,1 cm. Målebåndet skal sidde tæt, men ikke så stramt, at det trykker huden ind.
+        7.  Gentag trin 4-6. Afviger første og anden måling med mere end 1 cm, tages en tredje måling.
+        8.  Registrér alle målinger i REDCap.
+
+    4.  **Hofteomkreds**
+
+        1.  Deltageren står oprejst med fødderne samlet, armene hængende frit og vægten jævnt fordelt. Tøjet skal være let og ikke gøre målingen upræcis.
+        2.  Stå ved siden af deltageren, og find det punkt, hvor balderne har maksimalt fremspring.
+        3.  Placér målebåndet vandret rundt om hofterne i den højde. Kontrollér, at båndet er vandret foran og bagpå og så parallelt med gulvet som muligt.
+        4.  Aflæs målingen i nærmeste 0,1 cm. Målebåndet skal sidde tæt, men ikke så stramt, at det trykker huden ind.
+        5.  Gentag trin 3-4. Afviger første og anden måling med mere end 1 cm, tages en tredje måling.
+        6.  Registrér alle målinger i REDCap.
+
+    5.  **Hudfoldstykkelse** <!-- Til afklaring: Hudfold er beskrevet efter Durnin & Womersley-metoden (biceps, triceps, subscapulær, suprailiakal). Skal vi udvide med flere målinger (fx lår og læg)? -->
+
+        **Lokalisationer**
+
+        - Målingerne udføres på deltagerens højre side. Deltageren står afslappet med armene hængende, medmindre andet er angivet.
+        - **Biceps:** lodret hudfold på forsiden af overarmen, midt mellem acromion og olecranon.
+        - **Triceps:** lodret hudfold på bagsiden af overarmen, midt mellem acromion og olecranon.
+        - **Subscapulær:** skrå hudfold ca. 2 cm under nederste spids af skulderbladet (angulus inferior).
+        - **Suprailiakal:** skrå hudfold ca. 2 cm over hoftekammen i midtaksillærlinjen.
+
+        **Procedure**
+
+        1.  Find og markér hver lokalisation med pen.
+        2.  Tag fat i hudfolden med tommel- og pegefinger ca. 1 cm fra målestedet, så hud og underhudsfedt løftes fri af underliggende muskel.
+        3.  Sæt hudfoldsmåleren vinkelret på hudfolden ca. 1 cm fra fingrene, og hold folden i hele målingen.
+        4.  Aflæs efter ca. 2 sekunder, og registrér resultatet i mm.
+        5.  Mål alle lokalisationer to gange (først alle én gang, derefter anden runde), så huden ikke komprimeres af gentagne målinger samme sted.
+        6.  Der tages to målinger pr. lokalisation. Afviger de mere end 1 mm, tages en tredje måling.
+        7.  Registrér alle målinger i REDCap samt mærke og model på hudfoldsmåleren, der er brugt.
+3.  **Afslutning**
+    1.  Kontroller, at alle målinger er registreret og plausible (fx højde og vægt i forventet interval).
+    2.  Fjern evt. pen-markeringer, hvis deltageren ønsker det.
+
+## Dokumentation og kvalitetskontrol
+
+- Målinger registreres direkte i REDCap af den, der udfører målingen.
+- Udstyr kalibreres og kontrolleres jævnligt (vægt, nulpunkt og lodret stilling af stadiometer, målebånd uden slid, caliper). Dato for seneste kontrol dokumenteres, og apparattype registreres, hvor relevant.
+
+## Afvigelser og fejl
+
+- **Deltager kan ikke stå oprejst eller uden støtte:** Måling af højde eller vægt udelades eller udføres med støtte, og forholdet noteres i REDCap.
+- **Måling af taljeomkreds, hofteomkreds eller hudfold er ikke mulig** (fx hudlidelse eller manglende palpation af referencepunkter): Noter årsagen, og registrér som manglende.
+- **Deltager overskrider vægtens maksimale kapacitet:** Vægtmålingen udelades og registreres som manglende med angivelse af årsag.
+
+## Referencer
+
+- LightCOM (2024). *SOP on Anthropometry,* v1, 09.04.2024.

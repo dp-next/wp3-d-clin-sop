@@ -33,6 +33,7 @@ book:
        - ogtt.qmd
        - stemmekarakteristika.qmd
        - fibroscanning.qmd
+       - dxa-scanning.qmd
   # appendices:
   #  - path/to/file.qmd
   tools:
