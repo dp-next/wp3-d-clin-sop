@@ -86,3 +86,9 @@ Følgende dokumenteres efter projektets og laboratoriets gældende procedurer:
 2.  AUH, Analysefortegnelsen: P-Alanintransaminase (ALAT), NPU19651. https://analysefortegnelsen.rm.dk/AUH/analyse/NPU19651
 3.  AUH, Analysefortegnelsen: B-Trombocytter, NPU03568. https://analysefortegnelsen.rm.dk/AUH/analyse/NPU03568
 4.  SOP for oral glukosetolerancetest (OGTT).
+
+## Skema til bioanalytikker (vedhæftet i word-format også)
+
+![](images/Skærmbillede 2026-11-18 kl. 09.42.07.png)
+
+Skema er som inspiration fra et andet projekt, og udarbejdes med det hold bioanalytikkere, som kommer til at arbejde på DP-Next projektet.

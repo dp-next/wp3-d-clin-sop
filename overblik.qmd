@@ -16,13 +16,13 @@
 | Chronotype                              | X    | X    | X    | Spg:                 |
 | Eating behaviour                        | X    | X    | X    | Spg:                 |
 | Continuous glucose monitoring           | X    | X    | X    | MS                   |
-| Voice characteristics                   | X    | X    | X    | Kristina             |(/) undersøg om vi kan bestille mikrofoner, Kristina tjek mail
+| Voice characteristics                   | X    | X    | X    | Kristina             |(/) undersøg om vi kan bestille mikrofoner, Kristina tjek mail - skrevet til Manuel 
 | Autonomic function                      |      | X    | X    | Jonas                |(%)
 | Vibration Perception Threshold          |      |      | X    | David                |(%)
 | Nerve conduction                        |      |      | X    | David                |(%)
 | Sensory function                        |      |      | X    | David                |(%)
 | Diet                                    | X    | X    | X    | Spg                  |
-| Blood samples                           | X    | X    | X    | Kristina?            |(%) lavet, men skal gennemgås med bioanalytikker 
+| Blood samples                           | X    | X    | X    | Kristina?            | Skema over redskaber tilsendt fra andet projekt - skal gennemgås med tildelt bioanalytikker 
 | Fecal samples                           | X    | X    | X    | MS                   |
 | Saliva sample                           | X    | X    | X    | MS                   |
 | Biobank                                 |      |      |      | Fælles               |
