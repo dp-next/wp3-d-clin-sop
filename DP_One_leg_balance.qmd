@@ -50,7 +50,7 @@ stillingen med åbne øjne.
 2. Afklar støtteben og bendominans. Dominant ben defineres som det ben, deltageren foretrækker at sparke til en bold med.
 3. Demonstrér testen, og kontrollér deltagerens stilling.
 4. Gennemfør første forsøg med åbne øjne. Start tiden, når den frie fod forlader gulvet.
-5. Stop tiden ved første stopkriterium eller efter 45 sekunder. Registrér tid og stopårsag.
+5. Stop tiden ved første stopkriterium eller efter 45 sekunder. Registrér tid.
 6. Hold cirka 15 sekunders pause, og gentag forsøget med åbne øjne.
 7. Gennemfør derefter to forsøg med lukkede øjne på samme støtteben. Start tiden, når øjnene lukkes i den korrekte stilling. Hold cirka 15 sekunders pause mellem forsøgene.
 8. Gennemfør et tredje forsøg i den pågældende betingelse ved tvivl om udførelsen eller stor variation mellem de to tider.
@@ -75,8 +75,6 @@ Almindeligt kropssvej er tilladt.
 ## Dokumentation og kvalitetskontrol
 
 - Registrér støtteben, bendominans og alle forsøgstider i REDCap.
-- Registrér stopårsag individuelt for hvert forsøg. Flere årsager kan markeres, hvis de indtræffer samtidigt.
-- Registrér, om et tredje forsøg blev udført, og årsagen hertil.
 - Dokumentér eventuelle afvigelser fra udførelsen.
 
 ## Afvigelser og fejl
