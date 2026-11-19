@@ -56,8 +56,7 @@ stillingen med åbne øjne.
 7. Gennemfør derefter to forsøg med lukkede øjne på samme støtteben. Start tiden, når øjnene lukkes i den korrekte stilling. Hold cirka 15 sekunders pause mellem forsøgene.
 8. Gennemfør et tredje forsøg i den pågældende betingelse ved tvivl om udførelsen eller stor variation mellem de to tider.
 
-Stor variation defineres som mindst 10 sekunders forskel eller en
-korteste tid under halvdelen af den længste tid.
+Stor variation defineres som mindst 10 sekunders mellem korteste og længste tid.
 
 ### Stopkriterier
 
