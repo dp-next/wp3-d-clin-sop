@@ -1,0 +1,85 @@
+# 30-sekunders sit-to-stand-test i DP-Next-projektet {#sec-30-sts}
+
+## Baggrund
+
+30-sekunders sit-to-stand-testen (30 STS) undersøger muskelfunktion
+i underekstremiteterne som antallet af gentagelser fra siddende til
+stående inden for 30 sekunder.
+
+## Anvendelsesområde
+
+- Undersøgelsen udføres af DP-Next-personale oplært i testen.
+- Der udføres to forsøg med to minutters siddende pause imellem.
+- Estimeret tidsforbrug: 5 minutter.
+
+## Udstyr og forberedelse
+
+- Standardiseret, stabil stol med ryglæn og uden armlæn.
+- Stopur.
+- Målebånd til registrering af sædehøjde (hvis ny stol anvendes)
+
+Stolen placeres mod en væg på et plant underlag, så den ikke kan
+glide under testen. Samme stol anvendes til begge forsøg.
+
+Sædehøjden måles lodret fra gulvet til sædets overside ved forkanten
+og registreres i centimeter. Der anvendes så vidt muligt samme
+stolemodel og sædehøjde på alle sites.
+
+Deltageren anvender fladt, stabilt fodtøj.
+
+## Sikkerhed
+
+- Undersøgeren står ved siden af deltageren og er klar til at støtte ved balancetab.
+- Testen afbrydes ved svimmelhed, brystsmerter, udtalt åndenød, tiltagende smerter eller på deltagerens anmodning.
+- Testen gennemføres kun, hvis deltageren kan udføre bevægelsen forsvarligt.
+
+## Data
+
+Antallet af gyldige gentagelser inden for 30 sekunder registreres
+for hvert af de to forsøg.
+
+## Instruktioner
+
+Forklar og demonstrér testen, og lad deltageren udføre to
+prøvegentagelser for at kontrollere forståelse og teknik.
+
+- Sid midt til lidt yderligt på sædet med ret ryg og uden at læne mod ryglænet. gentagelsen skal kunne udføres uden at læg støder mo stole-sædet
+- Placér fødderne fladt på gulvet i cirka hofte- til skulderbredde, lidt bag knæene.
+- Hold armene krydsede over brystet med hænderne på modsatte skuldre.
+- Rejs dig helt op med strakte hofter og knæ, og sæt dig helt ned, så bagdelen berører sædet.
+- Gentag så mange gange som muligt på 30 sekunder uden at bruge armene som hjælp.
+- Deltageren må gerne bruge fjedereffekten (ingen pause i bunden af gentagelsen), men bagdelen skal berøre sædet hver gang.
+- Start på »nu«, og fortsæt, indtil der bliver sagt »stop«.
+- Undlad at tale under testen.
+
+## Procedure
+
+1. Kontrollér deltagerens projekt-ID.
+2. Kontrollér stolens stabilitet, og registrér sædehøjden.
+3. Forklar og demonstrér testen, og gennemfør to prøvegentagelser. (gentag hvis deltageren ser ud til at misforstå)
+4. Kontrollér deltagerens udgangsstilling.
+5. Sig »3, 2, 1, nu«, og start stopuret på »nu«.
+6. Tæl gyldige gentagelser lydløst. En gentagelse kræver fuld ekstension i hofter og knæ samt kontakt med sædet mellem gentagelserne.
+7. Giv kun korrektionen »helt op«, hvis deltageren ikke når fuld ekstension, eller »helt ned«, hvis bagdelen ikke berører sædet. Der gives ingen opmuntring eller løbende tidsangivelse.
+8. Sig »stop« efter præcis 30 sekunder. Den sidste gentagelse tælles med, hvis deltageren har nået slutpositionen med fuld ekstension i hofter og knæ inden stopsignalet, også hvis deltageren endnu ikke har sat sig.
+9. Registrér resultatet, og lad deltageren hvile siddende i to minutter.
+10. Gentag testen med samme instruktion og opsætning.
+11. Registrér resultatet af andet forsøg.
+
+## Dokumentation og kvalitetskontrol
+
+- Registrér antal gyldige gentagelser for begge forsøg i REDCap.
+- Registrér sædehøjde og eventuelle afvigelser fra udførelsen.
+- Gentagelser uden fuld ekstension i hofter og knæ eller uden forudgående kontakt med sædet tælles ikke med.
+- Kontrollér, at der holdes to minutters pause mellem forsøgene.
+
+## Afvigelser og fejl
+
+- Hvis deltageren holder en kort pause under forsøget, fortsætter tiden.
+- Hvis deltageren ikke kan gennemføre uden brug af armene, registreres dette samt antal gyldige gentagelser opnået inden afbrydelsen.
+- Ved afbrydelse af sikkerhedsmæssige årsager registreres forsøget som afbrudt med angivelse af årsag og opnået antal gentagelser.
+- Ved teknisk fejl eller ydre forstyrrelse markeres forsøget som ugyldigt og gentages efter to minutters siddende pause.
+- Ved manglende gennemførelse registreres årsagen.
+
+## Referencer
+
