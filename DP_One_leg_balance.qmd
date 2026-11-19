@@ -1,0 +1,97 @@
+# Etbens-balancetest i DP-Next-projektet {#sec-one-leg-balance}
+
+## Baggrund
+
+Etbens-balancetesten undersøger statisk balance som den tid,
+deltageren kan stå på ét ben med henholdsvis åbne og lukkede øjne.
+
+## Anvendelsesområde
+
+- Undersøgelsen udføres af DP-Next-personale oplært i testen.
+- Der udføres to forsøg med åbne øjne efterfulgt af to forsøg med lukkede øjne.
+- Hvert forsøg varer højst 45 sekunder med cirka 15 sekunders pause mellem forsøgene.
+- Estimeret tidsforbrug: 5 minutter.
+
+## Udstyr og forberedelse
+
+- Stopur.
+- Fast, plant og skridsikkert gulv.
+- Et synligt fikspunkt i øjenhøjde foran deltageren.
+
+Deltageren udfører testen barfodet og vælger det foretrukne støtteben.
+Samme ben anvendes gennem hele testen og ved eventuelle senere
+gentagelser af undersøgelsen.
+
+## Sikkerhed
+
+- Undersøgeren står tæt ved deltageren og er klar til at støtte ved balancetab.
+- Testen afbrydes ved smerter, svimmelhed, ubehag eller på deltagerens anmodning.
+- Forsøg med lukkede øjne undlades, hvis gennemførelsen vurderes uforsvarlig.
+
+## Data
+
+Balancetid i sekunder og stopårsag registreres for hvert forsøg.
+Bedste gyldige tid anvendes særskilt for åbne og lukkede øjne.
+
+## Instruktioner
+
+Forklar og demonstrér testen, og lad deltageren kort afprøve
+stillingen med åbne øjne.
+
+- Stå på det valgte støtteben med hænderne på hofterne.
+- Hold den frie fod tæt ved støttebenets ankel uden at berøre benet eller gulvet.
+- Hold støttefoden på samme sted og hænderne på hofterne.
+- Ved åbne øjne: Se på fikspunktet foran dig.
+- Ved lukkede øjne: Find først balancen med åbne øjne, og luk øjnene på undersøgerens besked.
+- Hold stillingen så længe som muligt, indtil undersøgeren siger stop.
+
+## Procedure
+
+1. Kontrollér deltagerens projekt-ID.
+2. Afklar støtteben og bendominans. Dominant ben defineres som det ben, deltageren foretrækker at sparke til en bold med.
+3. Demonstrér testen, og kontrollér deltagerens stilling.
+4. Gennemfør første forsøg med åbne øjne. Start tiden, når den frie fod forlader gulvet.
+5. Stop tiden ved første stopkriterium eller efter 45 sekunder. Registrér tid og stopårsag.
+6. Hold cirka 15 sekunders pause, og gentag forsøget med åbne øjne.
+7. Gennemfør derefter to forsøg med lukkede øjne på samme støtteben. Start tiden, når øjnene lukkes i den korrekte stilling. Hold cirka 15 sekunders pause mellem forsøgene.
+8. Gennemfør et tredje forsøg i den pågældende betingelse ved tvivl om udførelsen eller stor variation mellem de to tider.
+
+Stor variation defineres som mindst 10 sekunders forskel eller en
+korteste tid under halvdelen af den længste tid.
+
+### Stopkriterier
+
+Tiden stoppes ved første forekomst af:
+
+- Maksimal tid på 45 sekunder nået.
+- Fri fod berører gulvet.
+- Fri fod eller frit ben berører støttebenet.
+- Støttefoden flyttes, drejes eller løftes fra gulvet.
+- Én eller begge hænder forlader hofterne.
+- Øjnene åbnes under forsøget med lukkede øjne.
+- Deltageren tager støtte eller modtager hjælp.
+- Smerter, svimmelhed, ubehag eller deltagerens ønske om at stoppe.
+
+Almindeligt kropssvej er tilladt.
+
+## Dokumentation og kvalitetskontrol
+
+- Registrér støtteben, bendominans og alle forsøgstider i REDCap.
+- Registrér stopårsag individuelt for hvert forsøg. Flere årsager kan markeres, hvis de indtræffer samtidigt.
+- Registrér, om et tredje forsøg blev udført, og årsagen hertil.
+- Dokumentér eventuelle afvigelser fra udførelsen.
+
+## Afvigelser og fejl
+
+- Balancetab afslutter forsøget, og den opnåede tid registreres som resultat.
+- Ved teknisk fejl eller ydre forstyrrelse markeres forsøget som ugyldigt og gentages efter en pause.
+- Hvis deltageren ikke kan indtage teststillingen, registreres dette.
+- Ved manglende gennemførelse eller sikkerhedsmæssig afbrydelse registreres årsagen.
+
+## Referencer
+
+- Springer BA, Marin R, Cyhan T, Roberts H, Gill NW.
+  Normative values for the unipedal stance test with eyes open
+  and closed. PMID: 19839175.
+- University of Pittsburgh. Single Leg Stance Criteria.
+  <https://sites.pitt.edu/~whitney/sls.htm>
