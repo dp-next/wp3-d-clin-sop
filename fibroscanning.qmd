@@ -23,7 +23,9 @@ Transient elastografi/fibroscanning anvendes til at vurdere leverens generelle t
 
 ## Sikkerhed
 
-Metoden er non-invasiv og har derfor ingen sikkerhedsforanstaltninger.
+- Undersøgelsen udføres ikke ved graviditet.
+- Ved ascites kan undersøgelsen være teknisk umulig at gennemføre.
+- Mekanisk kolestase, aktiv leverinflammation, herunder ALAT/ASAT >3 gange øvre normalgrænse, og hepatisk kongestion kan medføre falsk forhøjet leverstivhed. Kendte forhold dokumenteres som forbehold ved fortolkning af resultatet.
 
 ## Data
 
@@ -35,7 +37,15 @@ Undersøgelsen genererer to parametre relateret til leverens sundhed:
 
 ## Instruktioner
 
-Forsøgsdeltageren skal faste i 12 timer forud for undersøgelsen. Minimumskravet for faste for at kunne gennemføre undersøgelsen er 3-4 timer. Overholdes dette ikke, skal undersøgelsen foretages på en ny forsøgsdag efter aftale med deltageren.
+Forsøgsdeltageren skal faste i 12 timer forud for undersøgelsen.
+Fibroscanning anbefales udført efter mindst 3 timers faste.
+Ved kortere faste gennemføres undersøgelsen, og fastetiden registreres
+som en afvigelse. Der kan eventuelt aftales en ny scanning efter
+tilstrækkelig faste.
+
+Scanningen udføres så vidt muligt før indtagelse af mad og
+glukoseopløsning ved OGTT. Deltageren instrueres i at undgå dyb
+inspiration. Målingerne foretages midt i inspiration.
 
 ## Procedure
 
@@ -84,15 +94,12 @@ Forsøgsdeltageren skal faste i 12 timer forud for undersøgelsen. Minimumskrave
             1.  Hvis prøvemålingen ikke er gyldig, rykkes lidt på proben og prøvemåling gentages, indtil den er gyldig.
 
         5.  Når proben er placeret korrekt med en valid prøvemåling, trykkes på pilen for at fortsætte til selve undersøgelsen.
-    5.  **Undersøgelsen**
-        1.  Udfør mindst 10 gyldige målinger ved samme målepunkt
-        2.  Undersøgelsen er færdig, når følgende er opfyldt:
-            1.  Der er mindst 10 gyldige målinger.
-            2.  IQR/med er under 30%.
-                1.  Hvis IQR er over 30%, kan man forsøge at slette nogle af de første målinger:
-                    1.  Tryk på de billeder du vil slette. Trykkes der på billede 2, sletter den til og med billede 2 (1+2) osv.
-                    2.  Tag nye målinger, så der er mindst 10 igen, indtil IQR/med er under 30%.
-            3.  CAP har nået 100%
+       5.  **Undersøgelsen**
+        1.  Udfør mindst 10 gyldige målinger ved samme målepunkt.
+        2.  Kontrollér, at IQR/median er <30 %, og at CAP har nået 100 %.
+        3.  Hvis kvalitetskravet ikke opfyldes, kontrolleres probevalg, placering og måleteknik, og en ny måleserie forsøges.
+        4.  Hvis kvalitetskravet fortsat ikke opfyldes, gemmes resultaterne med angivelse af antal gyldige målinger og IQR/median (%). Undersøgelsen markeres som havende utilstrækkelig målekvalitet.
+        5.  Alle måleserier bevares, også når kvalitetskravet ikke er opfyldt, så de kan identificeres og håndteres ved analysen.
     6.  **Afslutning**
         1.  Tryk på firkanten nederst i højre hjørne for at afslutte og gemme scanningen.
         2.  Lad deltageren selv fjerne gel med en papirserviet og bed dem rejse sig fra lejet.
@@ -113,18 +120,37 @@ Forsøgsdeltageren skal faste i 12 timer forud for undersøgelsen. Minimumskrave
 
 ## Dokumentation og kvalitetskontrol
 
-Operatørens initialer, probetype (M/XL), antal gyldige målinger og eventuelle afvigelser dokumenteres i REDCap.
+Følgende dokumenteres i REDCap:
+
+- Median leverstivhed, liver stiffness measurement (LSM, kPa).
+- IQR for leverstivhed (kPa) og IQR/median (%).
+- CAP (dB/m) og CAP SD (dB/m), hvis tilgængelig på apparatet.
+- Operatørens initialer, probetype (M/XL) og antal gyldige målinger.
+- Afvigelser fra fastekravet og øvrige forhold med betydning for målingen.
+- Om kvalitetskravet er opfyldt.
+
+Resultater bevares også ved utilstrækkelig målekvalitet.
+Ved henvisning dokumenteres årsagen, modtagende afdeling og
+informationen til deltageren.
 
 ## Afvigelser og fejl
 
-- Scanneren beder om probeskift: skift til XL-proben.
+- Ved anbefaling om probeskift følges apparatets anvisning.
+- Ved færre end 10 gyldige målinger eller IQR/median ≥30 % gemmes resultaterne, og undersøgelsen markeres som havende utilstrækkelig målekvalitet.
+- Ved mindre end 3 timers faste gennemføres undersøgelsen, og fastetiden registreres som en afvigelse. En ny scanning kan eventuelt aftales.
+- Teknisk fejl på scanneren: kontakt <!-- angiv kontaktperson -->
 
-- <!-- Hvis der opnås ikke 10 gyldige målinger, eller IQR/med forbliver over 30% efter x forsøg, afsluttes proceduren og ny testdag aftales med deltageren? -->
+### Klinisk relevante fund
 
-- <!-- Deltageren er ikke fastende: skal scanningen udføres og afvigelsen noteres, eller flyttes til et andet tidspunkt? -->
-
-- Teknisk fejl på scanneren: kontakt <!-- skal vi have en kontaktperson? -->
-
-- <!-- skal vi have retningslinjer for, hvornår/om deltageren skal anbefales at søge egen læge? -->
+- Ved valid median leverstivhed >12 kPa henvises deltageren til yderligere udredning ved relevant hepatologisk afdeling med henblik på mindst biokemisk leverudredning for andre mulige årsager til leverfibrose.
+- Ved valid median leverstivhed ≥10 kPa henvises deltageren til relevant hepatologisk afdeling med henblik på gentaget fibroscanning inden for 6 måneder. Ved værdier >12 kPa indgår kontrolscanningen i den videre udredning.
+- Deltageren informeres om resultatet og henvisningen.
 
 ## Referencer
+
+- Leverstivhedsmåling/FibroScan. Esbjerg og Grindsted Sygehus.
+  Dokument-ID 638814, version 1.2, udgivet 11.02.2025.
+  <https://infonet.regionsyddanmark.dk/D4Doc/book/RSDVdokument.asp?DokID=638814>
+- Hepatologisk rådgivning vedrørende LightBAR fra Charlotte
+  Wilhelmina Wernberg efter drøftelse med Mette Enok Munk Lauridsen,
+  jf. mailkorrespondance.
