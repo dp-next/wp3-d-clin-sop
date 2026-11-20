@@ -81,6 +81,7 @@ Deltageren informeres kort om, hvad der skal ske, inden hver måling:
         1.  Deltageren står oprejst med fødderne samlet, armene hængende frit og vægten jævnt fordelt. Tøjet skal være let og ikke gøre målingen upræcis.
         2.  Stå ved siden af deltageren, og find det punkt, hvor balderne har maksimalt fremspring.
         3.  Placér målebåndet vandret rundt om hofterne i den højde. Kontrollér, at båndet er vandret foran og bagpå og så parallelt med gulvet som muligt.
+<!-- Evt. præcisér, at hofteomkredsen måles som den maksimale omkreds omkring balderne med målebåndet placeret vandret og parallelt med gulvet. -->
         4.  Aflæs målingen i nærmeste 0,1 cm. Målebåndet skal sidde tæt, men ikke så stramt, at det trykker huden ind.
         5.  Gentag trin 3-4. Afviger første og anden måling med mere end 1 cm, tages en tredje måling.
         6.  Registrér alle målinger i REDCap.
