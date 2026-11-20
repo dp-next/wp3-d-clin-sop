@@ -21,11 +21,18 @@ Inden informationsmødet (Visit 0) klargøres følgende og pakkes i en lynlåspo
 - Engangshandsker
 - Desinfektionsservietter
 - 1x vandfast tusch
-- 1x udskrevet brugervejledning ('Brugervejledning – Afføringsprøve' / EasySampler-vejledning: https://imagecache.nomeco.dk/mud/222527) <!-- Skal vi inkludere vejledningen i deltagerinformationen om afføringsprøven? Eller skal vi lave vores egen vejledning med billeder osv., som i Lightbar? -->
+- 1x udskrevet brugervejledning ('Brugervejledning – Afføringsprøve' / EasySampler-vejledning: https://imagecache.nomeco.dk/mud/222527) 
+<!-- Henvis til en separat brugervejledning for opsamling af afføringsprøver i DP-Next. Vejledningen skal tilpasses den endelige procedure, herunder prøvemængde, antal rør, eventuel konserveringsvæske og transport. -->
 - 1x udskrevet oversigt ('Deltagerinformation – Afføringsprøve') med:
   - Deltager-ID
   - Besøgsnummer
   - Dato og tidspunkt for indsamling af afføringsprøven
+
+<!-- Antal prøverør og nødvendig prøvemængde skal tilpasses de planlagte
+analyser i DP-Next. To prøver og anvendelse af ethanol er videreført fra
+LightBAR og skal revurderes. Afklar prøvetype, konservering og opbevaring
+i forhold til analyserne, og tilpas pakkelisten tilsvarende.
+Afklar også formålet med den vandfaste tusch. -->
 
 Udlever prøvesættet til deltageren.
 
@@ -67,6 +74,10 @@ Afvigelser i forbindelse med aflevering af prøven håndteres således:
 
 - **Hvis væsken er fjernet fra røret:** Tilsæt 5 ml 96 % ethanol til røret og registrér det i REDCap.
 - **Hvis prøven ikke er afleveret i røret:** Bortskaf den med det samme.
+
+<!-- Disse anvisninger stammer fra LightBAR og skal tilpasses DP-Next.
+Afklar håndtering af manglende konserveringsvæske og aflevering i forkert
+beholder ud fra kravene til de planlagte analyser, før proceduren fastlægges. -->
 
 ## Referencer
 
