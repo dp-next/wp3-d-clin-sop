@@ -1,0 +1,77 @@
+# Udlevering af Garmin-ur i DP-Next-projektet {#sec-garmin}
+
+## Baggrund
+
+Garmin vívosmart 5 anvendes til registrering af fysisk aktivitet,
+søvn og puls. Data håndteres via Fitrockr-platformen.
+
+## Anvendelsesområde
+
+- Uret udleveres ved CD1 af DP-Next-personale oplært i proceduren.
+- Uret bæres på det ikke-dominante håndled i 14 dage inklusive udleveringsdagen.
+- Uret er blindet, så deltageren kun kan se klokkeslættet og ikke har adgang til måleresultater.
+
+## Udstyr og forberedelse
+
+- Garmin vívosmart 5 med rem, opladet og klargjort efter den separate manual.
+- Tilhørende oplader.
+- Deltagervejledning og aftale om returnering.
+
+## Sikkerhed
+
+- Deltageren instrueres i at tage uret af og kontakte projektpersonalet ved hudirritation eller ubehag.
+- Ur og rem rengøres mellem deltagere. Silikoneremmen vaskes og skylles, og ur og rem aftørres med 70 % isopropylalkohol efter producentens anvisninger og lokale hygiejneregler. Udstyret skal være tørt inden udlevering.
+
+## Data
+
+Uret registrerer aktivitet, søvn og puls efter projektets fælles
+opsætning. De konkrete indstillinger og tilgængelige måleparametre
+beskrives i den separate manual.
+
+Opsætning, synkronisering, upload til Fitrockr samt download og
+analyse af data beskrives ligeledes i den separate manual.
+
+## Instruktioner
+
+- Bær uret hele døgnet i 14 dage inklusive udleveringsdagen.
+- Behold uret på under aktivitet, hvile og bad, og især under søvn.
+- Bær uret på det ikke-dominante håndled med god kontakt til huden, uden at remmen strammer.
+- Tag kun uret af ved opladning, rengøring eller hudirritation.
+- Oplad uret hver tredje dag, gerne mens du sidder stille, eksempelvis når du ser nyheder om aftenen.
+- Sæt uret på igen, så snart opladningen er færdig. Undgå opladning under søvn.
+- Skyl ur og hud fri for sæberester efter bad, og tør huden og uret. Ur og ladekontakter skal være tørre inden opladning.
+- Bevar urets indstillinger gennem måleperioden.
+- Hvis du bruger dit eget ur, kan du beholde det på samme arm eller flytte det til det modsatte håndled.
+- Kontakt projektpersonalet ved problemer, og returnér ur og oplader som aftalt.
+
+## Procedure
+
+1. Kontrollér deltagerens projekt-ID og urets tilknytning til deltageren i Fitrockr.
+2. Kontrollér, at uret er rengjort, opladet og klargjort efter den separate manual.
+3. Kontrollér, at registreringen er startet, og at blindingen er aktiv, så deltageren kun har adgang til klokkeslættet.
+4. Afklar og registrér hånddominans, og placér uret på det ikke-dominante håndled.
+5. Tilpas remmen, så uret sidder behageligt med kontakt til huden.
+6. Gennemgå instruktionerne, og demonstrér tilslutning af opladeren.
+7. Udlever oplader og deltagervejledning.
+8. Aftal måleperiodens slutdato og fremgangsmåde for returnering.
+9. Registrér udleveringen i REDCap.
+
+## Dokumentation og kvalitetskontrol
+
+- Registrér urets ID (ved ikke lige hvordan vi gør det?), udleveringsdato, hånddominans, anvendt håndled og dato for aftalt returnering i REDCap.
+- Hvis deltageren ønsker at bære uret på det dominante håndled, registreres dette som en afvigelse med angivelse af årsag.
+- Dokumentér øvrige afvigelser fra placering, opsætning eller blinding.
+- Ved returnering registreres modtagelsesdato og oplyste perioder uden ur samt eventuelle problemer. Kontrollér, at både ur og oplader er returneret.
+- Dataoverførsel og kontrol af registreringens fuldstændighed udføres efter den separate manual.
+
+## Afvigelser og fejl
+
+- Ved hudirritation tager deltageren uret af og kontakter projektpersonalet. Afbrydelsen dokumenteres.
+- Ved tekniske problemer eller afladet ur dokumenteres problemet og den omtrentlige periode uden registrering. 
+- Ved manglende returnering kontaktes deltageren.
+
+## Referencer
+
+- Manual for indstilling af Garmin-ure i DP-Next-projektet
+  (arbejdstitel, under udarbejdelse). Omfatter opsætning, blinding, synkronisering,
+  dataoverførsel til og fra Fitrockr samt analyse.
