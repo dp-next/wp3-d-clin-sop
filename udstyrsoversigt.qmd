@@ -159,10 +159,13 @@
 
 - **Dataindsamlingsmetode:** Perception threshold tracking
 - **Udstyr:**
-  - 1x elektrodegel
-  - 1x pladeelektrode til stimulation af store fibre
-  - 1x pin-elektroder til stimulation af små fibre
-  - 1x undersøgelsesbriks
+- Spritswabs til rengøring af huden.
+- 1x Digitimer DS5 (eller tilsvarende) til måling af tærskelværdier.
+- 1x PC
+- 1x elektrodegel.
+- 1x pladeelektrode/patch elektrode.
+- 1x pin-elektrode.
+- 1x undersøgelsesbriks
 - **Lokation (Aalborg):**
 
 ## Kost

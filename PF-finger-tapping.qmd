@@ -1,0 +1,65 @@
+# Finger tapping-test i DP-Next-projektet {#sec-finger-tapping}
+
+## Baggrund
+
+Finger tapping-testen undersøger neuromotorisk funktion angivet som det maksimale antal gentagne tryk med pegefingeren inden for 10 sekunder.
+
+## Anvendelsesområde
+
+- Undersøgelsen udføres af DP-Next-personale oplært i testen.
+- Der anvendes pegefingeren på den dominante hånd.
+- Estimeret tidsforbrug: 5 minutter.
+
+## Udstyr og forberedelse
+
+- Laptop med testapplikation og fysisk tastatur.
+- Bord og stol, så deltageren sidder behageligt med hånden understøttet.
+
+<!-- Angiv applikation, tastaturmodel og den anvendte tast. -->
+
+## Sikkerhed
+
+- Afbryd testen ved smerter eller på deltagerens anmodning.
+- Dokumentér skader eller bevægebegrænsninger, der påvirker udførelsen.
+
+## Data
+
+Applikationen registrerer antal tastetryk og intervallerne mellem
+trykkene i millisekunder for hver målerunde. Data anvendes til at
+beregne tappinghastighed, variation og ændring i hastighed under runden.
+
+## Instruktioner
+
+- Læg den dominante hånd med håndfladen nedad og fingrene strakte.
+- Hold håndfladen, langfingeren, ringfingeren og lillefingeren i kontakt med bordet under hele runden.
+- Hold hånd og arm i ro, og bevæg kun pegefingeren.
+- Tryk så mange gange som muligt på tasten, indtil applikationen giver stopsignal efter 10 sekunder.
+- Hvis de øvrige fingre løfter sig fra bordet, stoppes runden med det samme og tages om.
+
+## Procedure
+
+1. Kontrollér deltagerens projekt-ID, og indtast det i applikationen.
+2. Afklar og registrér den dominante hånd.
+3. Forklar testen, og kontrollér håndstillingen.
+4. Gennemfør én øverunde på 10 sekunder.
+5. Lad deltageren hvile i 30 sekunder.
+6. Gennemfør fem gyldige målerunder på hver 10 sekunder med 30 sekunders pause mellem runderne. Tiden starter ved første tastetryk.
+7. Observer håndstillingen under hver runde. Hvis de øvrige fingre løftes fra bordet, stoppes runden straks og registreres som en fejlmåling. Gentag efter 30 sekunders pause.
+8. Kontrollér, at resultaterne er gemt og overført til REDCap.
+
+## Dokumentation og kvalitetskontrol
+
+- Registrér dominant hånd og resultaterne fra alle fem gyldige målerunder.
+- Øverunden og fejlmålinger indgår ikke i de fem gyldige målerunder.
+- Dokumentér afvigelser fra håndstillingen, afbrudte runder og tekniske fejl.
+
+## Afvigelser og fejl
+
+- Ved løft af de øvrige fingre fra bordet stoppes runden straks, markeres som en fejlmåling og tages om.
+- Ved tekniske fejl eller ydre forstyrrelser afbrydes runden og tages om efter 30 sekunders pause. Årsagen dokumenteres.
+- Ved manglende gennemførelse registreres årsagen.
+
+
+## Referencer
+
+- PMID: 24461963.
