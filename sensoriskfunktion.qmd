@@ -29,7 +29,7 @@ Der genereres en Matlab-fil med data for tærskelværdier for store og små sens
 
 ## Instruktioner
 
-Ikke relevant.
+Deltageren bedes tage sokker og sko af, så foden kan undersøges. Deltageren skal sidde stille og tilbagelænet på undersøgelsesbriksen under hele undersøgelsen.
 
 ## Procedure
 
@@ -37,20 +37,7 @@ Ikke relevant.
     1.  Deltageren lejres på briksen, siddende tilbagelænet eller liggende.
     2.  Sprit foden af hvor elektroderne skal sidde (se billede).
     3.  Tænd Digitimer DS5 på bagsiden.
-    4.  Tænd Pc'en ved at tænde skærmen på forsiden (nedre højre hjørne).
-        - Login-koden er ”XXX”.
-
-        - Åbn programmet "LabBench Runner (PTT)" på Skrivebordet.
-
-        - Vælg "DP-Next".
-
-        - Tryk "Next".
-
-        - Indtast ID
-
-        - Tryk "Next".
-
-        - Tryk "Start"
+    4.  Klargør PC'en til at køre programmet "LabBench Runner (PTT)".
     5.  Overskriften **"PATCH ELECTRODE"** fremkommer.
     6.  Følg Instruktionen på skærmen for at lave korrekte indstillinger
     7.  Tilslut patch-elektroder til deltagerens fod: (lille til sort, stor til rød).
