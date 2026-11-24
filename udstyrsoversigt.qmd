@@ -142,7 +142,7 @@
 - **Udstyr:**
   - 1x biothesiometer
   - 1x undersøgelsesbriks
-- **Lokation (Aarhus):**
+- **Lokation (Aalborg):**
 
 ## Nerveledning
 
@@ -153,7 +153,7 @@
   - 1x engangselektroder
   - 1x apparat til nerveledningsundersøgelse
   - 1x undersøgelsesbriks
-- **Lokation (Aarhus):**
+- **Lokation (Aalborg):**
 
 ## Sensorisk funktion
 

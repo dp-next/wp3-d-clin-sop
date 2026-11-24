@@ -1,0 +1,59 @@
+# Vibrationsperceptionstærskel i DP-Next-projektet {#sec-vpt}
+
+## Baggrund
+
+Ved biothesiometri bestemmes detektionsgrænsen for vibration (Vibration Perception Threshold (VPT)) med langsomt stigende styrke indtil patienten netop opfatter vibrationen.
+
+## Anvendelsesområde
+
+- Alle egnede deltagere i Aalborg får foretaget en VPT ved Visit 1.
+- Testen udføres af DP-Next personalet efter oplæring.
+- Estimeret tidsforbrug: 15 minutter.
+
+## Udstyr og forberedelse
+
+- Biothesiometer
+
+## Sikkerhed
+
+Ikke relevant.
+
+## Data
+
+Værdi for VPT i volt (V) for hver fod.
+
+## Instruktioner
+
+Ikke relevant.
+
+## Procedure
+
+1.  Forberedelse
+    1.  Vis patienten hvordan biothesiometret fungerer, og prøv det af på patientens hånd.
+    2.  Patienten skal ligge på ryggen uden sko og strømper i rolige omgivelser uden forstyrrelser. 
+2.  Udførelse
+    1. Læs højt: “Vi vil nu teste din evne til at opfatte vibration. Apparatet vil blive placeret forsigtigt på din hud på storetæerne, en ad gangen, og der skrues langsomt op. Fortæl mig, når du kan føle en vibration eller en snurren. Luk venligst øjnene nu”.
+    2. Placér sonden på knoglen proksimalt for neglen på oversiden af storetåen. 
+    Sonden skal berøre og have god kontakt, uden at der trykkes hårdt.
+    3. Skru langsomt op, og hold øje med at sonden er korrekt placeret på huden hele tiden. 
+    4. Når deltageren siger at vibrationen kan føles, skrues langsomt ned igen, og patienten anmodes om at sige til, når vibrationen ikke længere kan føles.
+    Ved tvivl eller uens resultater (op og ned) kan undersøgelsen gentages.
+    5. Gentag proceduren på den anden fod.
+3.  Afslutning
+    1.  Når du er færdig, gives deltageren besked på at øjnene må åbnes igen.
+    2.  Det noteres, hvilken værdi vibrationen der kunne mærkes, for begge fødder. (Ved 50 eller derover noteres blot 50).
+
+## Dokumentation og kvalitetskontrol
+
+Registrer straks VPT-værdierne i REDCap. 
+
+## Afvigelser og fejl
+
+Ved afbrudt undersøgelse noteres årsagen i REDCap. Hvis der er tvivl om korrekt udførelse, kan undersøgelsen gentages.
+
+## Referencer
+
+Hvis VPT < 25 V er testen normal = ingen neuropati.
+Hvis VPT 25-49 V er der neuropati.
+Hvis VPT ≥50 V er der svær neuropati.
+
