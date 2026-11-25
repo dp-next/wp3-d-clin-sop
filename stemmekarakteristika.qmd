@@ -12,8 +12,8 @@ I DP-Next indsamles korte, standardiserede stemmeoptagelser for at undersøge vo
 
 ## Udstyr og forberedelse
 
-- Støjsvagt rum, f.eks. en mutebox eller andet lukket lokale. <!-- tilpasses de enkelte sites -->
-- Mikrofon med optageudstyr (computer eller optager og software). <!-- afklar udstyr på de enkelte sites. -->
+- Støjsvagt rum, f.eks. et lukket og lydtæt lokale. <!-- tilpasses de enkelte sites -->
+- Mikrofon/headset med optageudstyr (computer eller optager og software). <!-- afklar udstyr på de enkelte sites. -->
 - Udskrevet tekst til oplæsning
 - Stopur
 - Bord og stol.
@@ -56,3 +56,31 @@ Registrér i REDCap, at de tre optagelser er gennemført under variablen \[varia
 ## Referencer
 
 SOP fra Steno Voice-projektet: https://github.com/steno-aarhus/steno-voice/blob/main/SOP/index.qmd
+
+## **Noter efter møde med Manu:** 
+
+Manu sørger for at finde de headset vi skal bruge: han går efter de bedst og de billigste. \
+Jeg har efterspurgt at vi skal bruge et til hver site (5 stk)
+
+Det skal beskluttes om vi vil lave en app, om hvordan dataindsmalingen skal hostes.
+
+Manu er interesseret i at der bliver lavet en form for follow-up: \
+- Det kunne være spændende at se hvordan stemmen ændre sig, fra en måling på "raske individer" (prædiabetikere) vs. en optagelse efter de har udviklet T2D.
+
+**Mail fra Manu:**
+
+> In my project, we use REDCap for the survey questionnaires, so we wanted to record voice in REDCap as well. That isn't possible at the moment. We therefore developed our own software, the Steno Voice Data Tool, which records voice directly through the browser and is hosted on a server at AU. After participants finish the questionnaire in REDCap, they are redirected to the tool to make their recordings.
+>
+> The tool then automatically transfers the recordings to REDCap, where they are linked to the participant's survey responses. No data is stored on the server itself. From REDCap, the data can easily be transferred to GenomeDK via the API.
+>
+> I agree that GenomeDK and the Seedcase data package should be the final home for the recordings, and the current setup already ends there. We route the recordings through REDCap mainly so they are linked to each participant's survey responses from the start.
+>
+> To start voice data collection in February, we need:
+>
+> 1.  Equipment: headsets for each site (I'll find a suitable model within a fair budget).
+>
+> 2.  A REDCap survey on acute voice-related states, such as emotion, stress level and tiredness. I'm happy to help set this up.
+>
+> 3.  A server to host the Steno Voice Data Tool.
+>
+> So my main question is: do we have server capacity within DP-Next to host the software? If not, I can ask whether we can host another project on our collaborator's server at AU.
