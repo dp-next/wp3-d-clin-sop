@@ -1,0 +1,101 @@
+# Håndgrebsstyrke i DP-Next-projektet {#sec-handgrip}
+
+## Baggrund
+
+Håndgrebsstyrke (handgrip strength) er et mål for maksimal
+isometrisk muskelstyrke i hånd og underarm og anvendes som
+indikator for generel muskelstyrke og fysisk funktion.
+
+## Anvendelsesområde
+
+- Undersøgelsen udføres af DP-Next-personale oplært i testen.
+- Undersøgelsen udføres på begge hænder.
+- Estimeret tidsforbrug: 3-5 minutter.
+
+## Udstyr og forberedelse
+
+- Håndgrebsdynamometer.
+- Stol uden armlæn.
+
+
+<!-- Angiv fabrikant, model og eventuelt indstilling af grebsbredde. -->
+
+Kontrollér, at dynamometeret fungerer korrekt og er nulstillet
+inden undersøgelsen.
+
+## Sikkerhed
+
+- Undlad undersøgelsen ved skader eller funktionsbegrænsninger,
+  der forhindrer en pålidelig måling.
+- Afbryd testen ved væsentlige smerter eller på deltagerens
+  anmodning.
+- Dokumentér skader eller bevægebegrænsninger, der påvirker
+  udførelsen.
+
+## Data
+
+Håndgrebsstyrken registreres i kg for hver af de tre målinger
+på hver hånd. Den højeste gyldige måling anvendes som mål
+for maksimal håndgrebsstyrke.
+
+## Instruktioner
+
+- Sid på stolen med begge fødder fladt på gulvet.
+- Hold overarmen langs kroppen og albuen bøjet 90 grader.
+- Hold håndleddet i neutral position.
+- Hold arm og krop i ro under hele målingen.
+- Klem så hårdt som muligt om dynamometeret, indtil
+  testeren giver stopsignal.
+
+## Procedure
+
+1. Afklar og registrér deltagerens dominante hånd.
+2. Forklar og demonstrér testen.
+3. Placér deltageren siddende med:
+    - Begge fødder fladt på gulvet.
+    - Overarmen langs kroppen.
+    - Albuen flekteret 90 grader.
+    - Håndleddet i neutral position.
+4. Placér dynamometeret i deltagerens venstre hånd, og
+   kontrollér eventuelt grebsbredden.
+5. Understøt dynamometeret let nedefra med én hånd uden
+   at påvirke grebsmekanismen. Deltagerens underarm,
+   hånd og dynamometer må ikke hvile på låret eller
+   andre overflader.
+6. Bed deltageren om at klemme så hårdt som muligt i
+   3–5 sekunder. Anvend kraftig verbal opmuntring,
+   f.eks. "Kom så, pres, pres, pres – og slip."
+7. Aflæs og registrér målingen.
+8. Lad deltageren hvile i 30–60 sekunder.
+9. Gentag målingen, indtil der er gennemført tre gyldige
+   målinger på venstre hånd.
+10. Gentag proceduren på højre hånd.
+11. Registrér alle seks målinger i REDCap.
+12. Rengør dynamometeret efter brug.
+
+## Dokumentation og kvalitetskontrol
+
+- Registrér dominant hånd og resultatet af alle seks
+  gyldige målinger.
+- Kontrollér, at dynamometeret er nulstillet før hver måling.
+- Kontrollér deltagerens krops-, arm- og håndledsstilling
+  under hver måling.
+- Anvend samme grebsindstilling, instruktioner og
+  understøttelse af dynamometeret ved alle målinger.
+- Dokumentér eventuelle afvigelser fra proceduren.
+
+## Afvigelser og fejl
+
+- Ved væsentlige afvigelser fra den beskrevne krops- eller
+  armstilling markeres målingen som ugyldig og gentages
+  efter 30–60 sekunders pause.
+- Ved tekniske fejl eller ydre forstyrrelser gentages
+  målingen efter 30–60 sekunders pause.
+- Ved manglende gennemførelse registreres årsagen.
+
+## Referencer
+
+- Roberts HC et al. A review of the measurement of grip
+  strength in clinical and epidemiological studies:
+  towards a standardised approach. Age Ageing. 2011;
+  40(4):423–429. PMID: 21624928.
