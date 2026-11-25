@@ -12,8 +12,8 @@ I DP-Next indsamles korte, standardiserede stemmeoptagelser for at undersøge vo
 
 ## Udstyr og forberedelse
 
-- Støjsvagt rum, f.eks. en mutebox. <!-- tilpasses de enkelte sites -->
-- Mikrofon med optageudstyr (computer eller optager og software). <!-- afklar udstyr på de enkelte sites. Steno Aarhus bruger RØDE NT1 med RØDE AI-1 i Mutebox -->
+- Støjsvagt rum, f.eks. en mutebox eller andet lukket lokale. <!-- tilpasses de enkelte sites -->
+- Mikrofon med optageudstyr (computer eller optager og software). <!-- afklar udstyr på de enkelte sites. -->
 - Udskrevet tekst til oplæsning
 - Stopur
 - Bord og stol.
