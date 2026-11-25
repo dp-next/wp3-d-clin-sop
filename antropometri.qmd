@@ -70,7 +70,7 @@ Deltageren informeres kort om, hvad der skal ske, inden hver måling:
         1.  Deltageren står oprejst og afslappet med vægten jævnt fordelt på begge fødder og armene hængende frit.
         2.  Stå ved siden af deltageren, og find nederste ribben og øverste del af hoftekammen.
         3.  Mål afstanden mellem de to punkter, og markér midtpunktet.
-        4.  Deltageren lægger målebåndet rundt om sig selv i højde med midtpunktet. Kontrollér, at båndet er vandret foran og bagpå og så parallelt med gulvet som muligt.
+        4.  Deltageren lægger en finger på målebåndet, mens forsøgsansvarlig går rundt om deltageren for at måle omkredsen. Kontrollér, at båndet er vandret foran og bagpå og så parallelt med gulvet som muligt.
         5.  Bed deltageren trække vejret roligt ind og ud og kigge lige frem.
         6.  Aflæs målingen efter udånding, nærmeste 0,1 cm. Målebåndet skal sidde tæt, men ikke så stramt, at det trykker huden ind.
         7.  Gentag trin 4-6. Afviger første og anden måling med mere end 1 cm, tages en tredje måling.
