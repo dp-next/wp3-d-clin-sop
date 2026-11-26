@@ -1,5 +1,1512 @@
 [
   {
+    "objectID": "skabelon.html",
+    "href": "skabelon.html",
+    "title": "2  Skabelon",
+    "section": "",
+    "text": "2.1 Baggrund\nRelevant baggrundsinformation, hvis det er nødvendigt.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Skabelon</span>"
+    ]
+  },
+  {
+    "objectID": "skabelon.html#anvendelsesområde",
+    "href": "skabelon.html#anvendelsesområde",
+    "title": "2  Skabelon",
+    "section": "2.2 Anvendelsesområde",
+    "text": "2.2 Anvendelsesområde\n\nHvem udfører undersøgelsen.\nHvilke deltagere der skal undersøges, og hvornår i projektet udføres undersøgelsen.\nEventuelle krav til faste, timing eller hvile.\nEventuelle krav til kvalifikationer/oplæring af personalet, der skal udføre undersøgelsen.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Skabelon</span>"
+    ]
+  },
+  {
+    "objectID": "skabelon.html#udstyr-og-forberedelse",
+    "href": "skabelon.html#udstyr-og-forberedelse",
+    "title": "2  Skabelon",
+    "section": "2.3 Udstyr og forberedelse",
+    "text": "2.3 Udstyr og forberedelse\n\nUdstyr og materialer der skal bruges til undersøgelsen.\nForberedelse af udstyr, lokale og deltagere forud for undersøgelsen.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Skabelon</span>"
+    ]
+  },
+  {
+    "objectID": "skabelon.html#sikkerhed",
+    "href": "skabelon.html#sikkerhed",
+    "title": "2  Skabelon",
+    "section": "2.4 Sikkerhed",
+    "text": "2.4 Sikkerhed\nRelevante sikkerhedsforanstaltninger, kontraindikationer, indikationer på, at undersøgelsen bør afbrydes.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Skabelon</span>"
+    ]
+  },
+  {
+    "objectID": "skabelon.html#data",
+    "href": "skabelon.html#data",
+    "title": "2  Skabelon",
+    "section": "2.5 Data",
+    "text": "2.5 Data\nBeskriv kort, hvilken type data undersøgelsen genererer, hvis det er relevant.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Skabelon</span>"
+    ]
+  },
+  {
+    "objectID": "skabelon.html#instruktioner",
+    "href": "skabelon.html#instruktioner",
+    "title": "2  Skabelon",
+    "section": "2.6 Instruktioner",
+    "text": "2.6 Instruktioner\nEventuelle standardiserede instruktioner til deltageren.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Skabelon</span>"
+    ]
+  },
+  {
+    "objectID": "skabelon.html#procedure",
+    "href": "skabelon.html#procedure",
+    "title": "2  Skabelon",
+    "section": "2.7 Procedure",
+    "text": "2.7 Procedure\nBeskriv undersøgelsen trin for trin, og supplér med billeder hvis det er relevant Opdel undersøgelsen i forskellige faser, hvis det er nødvendigt:\n\nForberedelse\n\nTrin 1\nTrin 2\n\nUdførelse\n\nTrin 1\nTrin 2\n\nAfslutning\n\nTrin 1\nTrin 2",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Skabelon</span>"
+    ]
+  },
+  {
+    "objectID": "skabelon.html#dokumentation-og-kvalitetskontrol",
+    "href": "skabelon.html#dokumentation-og-kvalitetskontrol",
+    "title": "2  Skabelon",
+    "section": "2.8 Dokumentation og kvalitetskontrol",
+    "text": "2.8 Dokumentation og kvalitetskontrol\nAngiv relevante kontroller og dokumentation under og efter undersøgelsen.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Skabelon</span>"
+    ]
+  },
+  {
+    "objectID": "skabelon.html#afvigelser-og-fejl",
+    "href": "skabelon.html#afvigelser-og-fejl",
+    "title": "2  Skabelon",
+    "section": "2.9 Afvigelser og fejl",
+    "text": "2.9 Afvigelser og fejl\nForventede resultater (hvordan ser et gyldigt resultat/gyldige målinger ud), handlinger, hvis der opstår fejl eller afvigelser, relevante kontaktpersoner.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Skabelon</span>"
+    ]
+  },
+  {
+    "objectID": "skabelon.html#referencer",
+    "href": "skabelon.html#referencer",
+    "title": "2  Skabelon",
+    "section": "2.10 Referencer",
+    "text": "2.10 Referencer\nRelaterede SOP’er, protokoller eller litteratur.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Skabelon</span>"
+    ]
+  },
+  {
+    "objectID": "udstyrsoversigt.html",
+    "href": "udstyrsoversigt.html",
+    "title": "3  Udstyrsoversigt",
+    "section": "",
+    "text": "3.1 Sociodemografi",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Udstyrsoversigt</span>"
+    ]
+  },
+  {
+    "objectID": "udstyrsoversigt.html#sociodemografi",
+    "href": "udstyrsoversigt.html#sociodemografi",
+    "title": "3  Udstyrsoversigt",
+    "section": "",
+    "text": "Dataindsamlingsmetode:\nUdstyr:\nLokation (Aarhus):",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Udstyrsoversigt</span>"
+    ]
+  },
+  {
+    "objectID": "udstyrsoversigt.html#sygehistorie-sygelighed",
+    "href": "udstyrsoversigt.html#sygehistorie-sygelighed",
+    "title": "3  Udstyrsoversigt",
+    "section": "3.2 Sygehistorie / sygelighed",
+    "text": "3.2 Sygehistorie / sygelighed\n\nDataindsamlingsmetode:\nUdstyr:\nLokation (Aarhus):",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Udstyrsoversigt</span>"
+    ]
+  },
+  {
+    "objectID": "udstyrsoversigt.html#antropometri",
+    "href": "udstyrsoversigt.html#antropometri",
+    "title": "3  Udstyrsoversigt",
+    "section": "3.3 Antropometri",
+    "text": "3.3 Antropometri\n\nDataindsamlingsmetode: Højde, vægt, talje- og hofteomkreds, hudfoldsmålinger\nUdstyr:\n\nHøjde: 1x vægmonteret stadiometer\nVægt: 1x kalibreret vægt\nTalje- og hofteomkreds: 1x uelastisk målebånd/taljebånd.\nHudfoldstykkelse: 1x kalibreret hudfoldsmåler\n\nLokation (Aarhus):",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Udstyrsoversigt</span>"
+    ]
+  },
+  {
+    "objectID": "udstyrsoversigt.html#kropssammensætning",
+    "href": "udstyrsoversigt.html#kropssammensætning",
+    "title": "3  Udstyrsoversigt",
+    "section": "3.4 Kropssammensætning",
+    "text": "3.4 Kropssammensætning\n\nDataindsamlingsmetode: Bioimpedans (BIA)\nUdstyr: 1x valideret BIA-apparat.\nLokation (Aarhus):",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Udstyrsoversigt</span>"
+    ]
+  },
+  {
+    "objectID": "udstyrsoversigt.html#blodtryk-og-puls",
+    "href": "udstyrsoversigt.html#blodtryk-og-puls",
+    "title": "3  Udstyrsoversigt",
+    "section": "3.5 Blodtryk og puls",
+    "text": "3.5 Blodtryk og puls\n\nDataindsamlingsmetode: Automatisk blodtryksmåling i siddende stilling + puls fra apparatet\nUdstyr: 1x automatisk blodtrykapparat med passende manchet.\nLokation (Aarhus):",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Udstyrsoversigt</span>"
+    ]
+  },
+  {
+    "objectID": "udstyrsoversigt.html#sædvanlig-søvn-og-fysisk-aktivitet",
+    "href": "udstyrsoversigt.html#sædvanlig-søvn-og-fysisk-aktivitet",
+    "title": "3  Udstyrsoversigt",
+    "section": "3.6 Sædvanlig søvn og fysisk aktivitet",
+    "text": "3.6 Sædvanlig søvn og fysisk aktivitet\n\nDataindsamlingsmetode: Håndledsbåret aktigrafi\nUdstyr: \nLokation (Aarhus):",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Udstyrsoversigt</span>"
+    ]
+  },
+  {
+    "objectID": "udstyrsoversigt.html#dxa-helkropsscanning",
+    "href": "udstyrsoversigt.html#dxa-helkropsscanning",
+    "title": "3  Udstyrsoversigt",
+    "section": "3.7 DXA-helkropsscanning",
+    "text": "3.7 DXA-helkropsscanning\n\nDataindsamlingsmetode: DXA: fedtmasse, fedtfri masse, knoglestyrke\nUdstyr: 1x DXA-scanner\nLokation (Aarhus):",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Udstyrsoversigt</span>"
+    ]
+  },
+  {
+    "objectID": "udstyrsoversigt.html#leverstatus-steatose-og-fibrose",
+    "href": "udstyrsoversigt.html#leverstatus-steatose-og-fibrose",
+    "title": "3  Udstyrsoversigt",
+    "section": "3.8 Leverstatus; steatose og fibrose",
+    "text": "3.8 Leverstatus; steatose og fibrose\n\nDataindsamlingsmetode: Transient elastografi (fx FibroScan)\nUdstyr: 1x FibroScan-apparat\nLokation (Aarhus):",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Udstyrsoversigt</span>"
+    ]
+  },
+  {
+    "objectID": "udstyrsoversigt.html#funktionsevne-og-motorisk-funktion",
+    "href": "udstyrsoversigt.html#funktionsevne-og-motorisk-funktion",
+    "title": "3  Udstyrsoversigt",
+    "section": "3.9 Funktionsevne og motorisk funktion",
+    "text": "3.9 Funktionsevne og motorisk funktion\n\nDataindsamlingsmetode: 30-sekunders rejse-sætte-sig-test, håndgrebsstyrke, ét-bens balancetest, finger tapping-test\nUdstyr:\n\n30-sekunders rejse-sætte-sig-test:\n\n1x stol uden armlæn\n1x stopur\n\nHåndtrykskraft\n\n1x håndholdt dynamometer\n1x stol\n\nÉt-bens balancetest\n\n1x stopur\n\nFinger tapping-test\n\nstopur\nstol\nbord\n\n\nLokation (Aarhus):",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Udstyrsoversigt</span>"
+    ]
+  },
+  {
+    "objectID": "udstyrsoversigt.html#dynamiske-glukosemålinger",
+    "href": "udstyrsoversigt.html#dynamiske-glukosemålinger",
+    "title": "3  Udstyrsoversigt",
+    "section": "3.10 Dynamiske glukosemålinger",
+    "text": "3.10 Dynamiske glukosemålinger\n\nDataindsamlingsmetode: 4-punkts oral glukosetolerancetest (OGTT) med blodprøver ved 0, 30, 60 og 120 minutter.\nUdstyr:\n\n1x 75 gram vandfri glukose opløst i vand\n4x grå blodprøveglas ()\n\nLokation (Aarhus):",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Udstyrsoversigt</span>"
+    ]
+  },
+  {
+    "objectID": "udstyrsoversigt.html#subjektivt-vurderet-søvnkvalitet",
+    "href": "udstyrsoversigt.html#subjektivt-vurderet-søvnkvalitet",
+    "title": "3  Udstyrsoversigt",
+    "section": "3.11 Subjektivt vurderet søvnkvalitet",
+    "text": "3.11 Subjektivt vurderet søvnkvalitet\n\nDataindsamlingsmetode: PSQI-spørgeskema\nUdstyr: 1x udskrevet version af Pittsburgh Sleep Quality Index (PSQI)-spørgeskemaet\nLokation (Aarhus):",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Udstyrsoversigt</span>"
+    ]
+  },
+  {
+    "objectID": "udstyrsoversigt.html#mundhelbredsrelateret-livskvalitet",
+    "href": "udstyrsoversigt.html#mundhelbredsrelateret-livskvalitet",
+    "title": "3  Udstyrsoversigt",
+    "section": "3.12 Mundhelbredsrelateret livskvalitet",
+    "text": "3.12 Mundhelbredsrelateret livskvalitet\n\nDataindsamlingsmetode: OHIP-14-spørgeskema\nUdstyr: 1x udskrevet version af Oral Health Impact Profile–14 (OHIP-14)-spørgeskemaet\nLokation (Aarhus):",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Udstyrsoversigt</span>"
+    ]
+  },
+  {
+    "objectID": "udstyrsoversigt.html#autonome-symptomer",
+    "href": "udstyrsoversigt.html#autonome-symptomer",
+    "title": "3  Udstyrsoversigt",
+    "section": "3.13 Autonome symptomer",
+    "text": "3.13 Autonome symptomer\n\nDataindsamlingsmetode: COMPASS-31-spørgeskema\nUdstyr: 1x udskrevet version af COMPASS-31-spørgeskemaet\nLokation (Aarhus):",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Udstyrsoversigt</span>"
+    ]
+  },
+  {
+    "objectID": "udstyrsoversigt.html#kronotype",
+    "href": "udstyrsoversigt.html#kronotype",
+    "title": "3  Udstyrsoversigt",
+    "section": "3.14 Kronotype",
+    "text": "3.14 Kronotype\n\nDataindsamlingsmetode: MEQ-spørgeskema\nUdstyr: 1x udskrevet version af Morningness–Eveningness Questionnaire (MEQ)-spørgeskemaet\nLokation (Aarhus):",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Udstyrsoversigt</span>"
+    ]
+  },
+  {
+    "objectID": "udstyrsoversigt.html#spiseadfærd",
+    "href": "udstyrsoversigt.html#spiseadfærd",
+    "title": "3  Udstyrsoversigt",
+    "section": "3.15 Spiseadfærd",
+    "text": "3.15 Spiseadfærd\n\nDataindsamlingsmetode: AEBQ-spørgeskema\nUdstyr: 1x udskrevet version af Adult Eating Behaviour Questionnaire (AEBQ)-spørgeskemaet\nLokation (Aarhus):",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Udstyrsoversigt</span>"
+    ]
+  },
+  {
+    "objectID": "udstyrsoversigt.html#kontinuerlig-glukosemåling",
+    "href": "udstyrsoversigt.html#kontinuerlig-glukosemåling",
+    "title": "3  Udstyrsoversigt",
+    "section": "3.16 Kontinuerlig glukosemåling",
+    "text": "3.16 Kontinuerlig glukosemåling\n\nDataindsamlingsmetode: Blindet CGM-sensor (fx FreeStyle Libre)\nUdstyr:\n\n1x FreeStyle Libre 3-sensor\n1x FreeStyle Libre 3-læser\n1x barbermaskine til hårfjerning\n1x barrierespray til forebyggelse af hudirritation\n1x kinesiotape, så CGM’en ikke falder af\n\nLokation (Aarhus):",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Udstyrsoversigt</span>"
+    ]
+  },
+  {
+    "objectID": "udstyrsoversigt.html#stemmekarakteristika",
+    "href": "udstyrsoversigt.html#stemmekarakteristika",
+    "title": "3  Udstyrsoversigt",
+    "section": "3.17 Stemmekarakteristika",
+    "text": "3.17 Stemmekarakteristika\n\nDataindsamlingsmetode: Standardiseret stemmeoptagelse\nUdstyr: 1x mutebox (eller tilsvarende støjsvagt rum)\nMikrofonudstyr\nBord og Stol\nLokation (Aarhus):",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Udstyrsoversigt</span>"
+    ]
+  },
+  {
+    "objectID": "udstyrsoversigt.html#autonom-funktion",
+    "href": "udstyrsoversigt.html#autonom-funktion",
+    "title": "3  Udstyrsoversigt",
+    "section": "3.18 Autonom funktion",
+    "text": "3.18 Autonom funktion\n\nDataindsamlingsmetode: Vagus™ enkeltafledning EKG-vurdering\nUdstyr:\n\n1x håndholdt Vagus™-apparat\n1x undersøgelsesbriks\n1x engangsmundstykke\n1x automatisk blodtrykapparat med passende manchet.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Udstyrsoversigt</span>"
+    ]
+  },
+  {
+    "objectID": "udstyrsoversigt.html#vibrationsperceptionstærskel",
+    "href": "udstyrsoversigt.html#vibrationsperceptionstærskel",
+    "title": "3  Udstyrsoversigt",
+    "section": "3.19 Vibrationsperceptionstærskel",
+    "text": "3.19 Vibrationsperceptionstærskel\n\nDataindsamlingsmetode: Biothesiometri\nUdstyr:\n\n1x biothesiometer\n1x undersøgelsesbriks\n\nLokation (Aalborg):",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Udstyrsoversigt</span>"
+    ]
+  },
+  {
+    "objectID": "udstyrsoversigt.html#nerveledning",
+    "href": "udstyrsoversigt.html#nerveledning",
+    "title": "3  Udstyrsoversigt",
+    "section": "3.20 Nerveledning",
+    "text": "3.20 Nerveledning\n\nDataindsamlingsmetode: Nerveledningshastighed\nUdstyr:\n\n1x ethanolservietter\n1x elektrodegel\n1x engangselektroder\n1x apparat til nerveledningsundersøgelse\n1x undersøgelsesbriks\n\nLokation (Aalborg):",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Udstyrsoversigt</span>"
+    ]
+  },
+  {
+    "objectID": "udstyrsoversigt.html#sensorisk-funktion",
+    "href": "udstyrsoversigt.html#sensorisk-funktion",
+    "title": "3  Udstyrsoversigt",
+    "section": "3.21 Sensorisk funktion",
+    "text": "3.21 Sensorisk funktion\n\nDataindsamlingsmetode: Perception threshold tracking\nUdstyr:\nSpritswabs til rengøring af huden.\n1x Digitimer DS5 (eller tilsvarende) til måling af tærskelværdier.\n1x PC\n1x elektrodegel.\n1x pladeelektrode/patch elektrode.\n1x pin-elektrode.\n1x undersøgelsesbriks\nLokation (Aalborg):",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Udstyrsoversigt</span>"
+    ]
+  },
+  {
+    "objectID": "udstyrsoversigt.html#kost",
+    "href": "udstyrsoversigt.html#kost",
+    "title": "3  Udstyrsoversigt",
+    "section": "3.22 Kost",
+    "text": "3.22 Kost\n\nDataindsamlingsmetode: Selvrapporteret 3-dages kostdagbog\nUdstyr: \nLokation (Aarhus):",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Udstyrsoversigt</span>"
+    ]
+  },
+  {
+    "objectID": "udstyrsoversigt.html#blodprøver",
+    "href": "udstyrsoversigt.html#blodprøver",
+    "title": "3  Udstyrsoversigt",
+    "section": "3.23 Blodprøver",
+    "text": "3.23 Blodprøver\n\nDataindsamlingsmetode: Fastende- og OGTT-blodprøver\nUdstyr:  \nLokation (Aarhus):",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Udstyrsoversigt</span>"
+    ]
+  },
+  {
+    "objectID": "udstyrsoversigt.html#afføringsprøver",
+    "href": "udstyrsoversigt.html#afføringsprøver",
+    "title": "3  Udstyrsoversigt",
+    "section": "3.24 Afføringsprøver",
+    "text": "3.24 Afføringsprøver\n\nDataindsamlingsmetode: Standardiseret afføringsindsamling i hjemmet\nUdstyr:\n\n1x opsamlingspose\n2x opsamlingsrør med brun hætte og integreret ske\n2x transportbeholdere\n1x plastikpose\nEngangshandsker\nDesinfektionsservietter\n1x vandfast marker\n1x udskrevet brugervejledning (‘Brugervejledning – Afføringsprøve’ / EasySampler-vejledning: https://imagecache.nomeco.dk/mud/222527) \n\nLokation (Aarhus):",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Udstyrsoversigt</span>"
+    ]
+  },
+  {
+    "objectID": "udstyrsoversigt.html#spytprøve",
+    "href": "udstyrsoversigt.html#spytprøve",
+    "title": "3  Udstyrsoversigt",
+    "section": "3.25 Spytprøve",
+    "text": "3.25 Spytprøve\n\nDataindsamlingsmetode: Standardiseret spytindsamling\nUdstyr:\n\n1 gram tyggegummibase\n1x medicinbæger\n1x 4,5 ml cryorør\n2x 1,8 ml cryorør\nRNAlater-reagens (AM7021) findes i \nFlydende kvælstof (til snapfrysning) \n\nLokation (Aarhus):",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Udstyrsoversigt</span>"
+    ]
+  },
+  {
+    "objectID": "affoeringsproeve.html",
+    "href": "affoeringsproeve.html",
+    "title": "4  Afføringsprøve",
+    "section": "",
+    "text": "4.1 Baggrund",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Afføringsprøve</span>"
+    ]
+  },
+  {
+    "objectID": "affoeringsproeve.html#anvendelsesområde",
+    "href": "affoeringsproeve.html#anvendelsesområde",
+    "title": "4  Afføringsprøve",
+    "section": "4.2 Anvendelsesområde",
+    "text": "4.2 Anvendelsesområde\n\nAlle egnede deltagere får udleveret et prøvesæt og en detaljeret skriftlig vejledning i indsamling af afføringsprøven ved informationsmødet (Visit 0).\nDeltagerne bliver bedt om at medbringe prøven til Visit 1, hvor DP-Next personale modtager den.\nDen person, der håndterer prøven, er ansvarlig for, at den opbevares og registreres korrekt.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Afføringsprøve</span>"
+    ]
+  },
+  {
+    "objectID": "affoeringsproeve.html#udstyr-og-forberedelse",
+    "href": "affoeringsproeve.html#udstyr-og-forberedelse",
+    "title": "4  Afføringsprøve",
+    "section": "4.3 Udstyr og forberedelse",
+    "text": "4.3 Udstyr og forberedelse\nInden informationsmødet (Visit 0) klargøres følgende og pakkes i en lynlåspose, som lægges i køletasken sammen med de to køleelementer:\n\n1x opsamlingspose\n2x prøverør med brunt låg og indbygget ske\n2x transportbeholdere\n1x plastikpose\nEngangshandsker\nDesinfektionsservietter\n1x vandfast tusch\n1x udskrevet brugervejledning (‘Brugervejledning – Afføringsprøve’ / EasySampler-vejledning: https://imagecache.nomeco.dk/mud/222527) \n1x udskrevet oversigt (‘Deltagerinformation – Afføringsprøve’) med:\n\nDeltager-ID\nBesøgsnummer\nDato og tidspunkt for indsamling af afføringsprøven\n\n\n\nUdlever prøvesættet til deltageren.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Afføringsprøve</span>"
+    ]
+  },
+  {
+    "objectID": "affoeringsproeve.html#sikkerhed",
+    "href": "affoeringsproeve.html#sikkerhed",
+    "title": "4  Afføringsprøve",
+    "section": "4.4 Sikkerhed",
+    "text": "4.4 Sikkerhed",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Afføringsprøve</span>"
+    ]
+  },
+  {
+    "objectID": "affoeringsproeve.html#instruktioner",
+    "href": "affoeringsproeve.html#instruktioner",
+    "title": "4  Afføringsprøve",
+    "section": "4.5 Instruktioner",
+    "text": "4.5 Instruktioner\nDeltageren får en detaljeret skriftlig vejledning i indsamling af afføringsprøven sammen med EasySampler-sættet ved informations- og samtykkemødet (Visit 0).",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Afføringsprøve</span>"
+    ]
+  },
+  {
+    "objectID": "affoeringsproeve.html#procedure-for-modtagelse-af-afføringsprøver",
+    "href": "affoeringsproeve.html#procedure-for-modtagelse-af-afføringsprøver",
+    "title": "4  Afføringsprøve",
+    "section": "4.6 Procedure for modtagelse af afføringsprøver",
+    "text": "4.6 Procedure for modtagelse af afføringsprøver\n\nModtag køletasken med prøverne og spørg deltageren: “Har du anvendt antibiotika eller probiotika inden for de seneste 3 måneder?” Registrér svaret i REDCap.\nTag handsker på.\nÅbn lynlåsposen og tag de to transportbeholdere op.\nÅbn transportbeholderne og tag prøverne ud.\nSkriv deltager-ID, besøgsnummer samt dato og tidspunkt for prøven på 2 stk. -80 °C-etiketter, og sæt dem på prøverørene.\nPlacering af prøver i fryser\n\n\nSkriv deltager-ID på den næste ledige plads i boksen. \nBortskaf posen, som prøverne blev afleveret i.\nLæg transportbeholderne til vask i rum? \nTag handskerne af og udfør håndhygiejne. \nRegistrér i REDCap under den pågældende besøgsdag, at afføringsprøven er afleveret. Notér også, hvis deltageren ikke har afleveret en prøve, og hvorfor, og aftal eventuelt en ny tid for aflevering.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Afføringsprøve</span>"
+    ]
+  },
+  {
+    "objectID": "affoeringsproeve.html#dokumentation-og-kvalitetskontrol",
+    "href": "affoeringsproeve.html#dokumentation-og-kvalitetskontrol",
+    "title": "4  Afføringsprøve",
+    "section": "4.7 Dokumentation og kvalitetskontrol",
+    "text": "4.7 Dokumentation og kvalitetskontrol",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Afføringsprøve</span>"
+    ]
+  },
+  {
+    "objectID": "affoeringsproeve.html#afvigelser-og-fejl",
+    "href": "affoeringsproeve.html#afvigelser-og-fejl",
+    "title": "4  Afføringsprøve",
+    "section": "4.8 Afvigelser og fejl",
+    "text": "4.8 Afvigelser og fejl\nAfvigelser i forbindelse med aflevering af prøven håndteres således:\n\nHvis væsken er fjernet fra røret: Tilsæt 5 ml 96 % ethanol til røret og registrér det i REDCap.\nHvis prøven ikke er afleveret i røret: Bortskaf den med det samme.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Afføringsprøve</span>"
+    ]
+  },
+  {
+    "objectID": "affoeringsproeve.html#referencer",
+    "href": "affoeringsproeve.html#referencer",
+    "title": "4  Afføringsprøve",
+    "section": "4.9 Referencer",
+    "text": "4.9 Referencer",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Afføringsprøve</span>"
+    ]
+  },
+  {
+    "objectID": "blodtryk-puls.html",
+    "href": "blodtryk-puls.html",
+    "title": "5  Puls- og blodtryksmåling",
+    "section": "",
+    "text": "5.1 Baggrund\nI DP-Next benyttes et automatisk oscillometrisk apparat til at måle deltagerens blodtryk og puls.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Puls- og blodtryksmåling</span>"
+    ]
+  },
+  {
+    "objectID": "blodtryk-puls.html#anvendelsesområde",
+    "href": "blodtryk-puls.html#anvendelsesområde",
+    "title": "5  Puls- og blodtryksmåling",
+    "section": "5.2 Anvendelsesområde",
+    "text": "5.2 Anvendelsesområde\n\nAlle deltagere får målt deres blodtryk og puls ved Visit 1. Undersøgelsen udføres af DP-Next personale oplært i at bruge udstyret.\nEstimeret tidsforbrug: 10 minutter.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Puls- og blodtryksmåling</span>"
+    ]
+  },
+  {
+    "objectID": "blodtryk-puls.html#udstyr-og-forberedelse",
+    "href": "blodtryk-puls.html#udstyr-og-forberedelse",
+    "title": "5  Puls- og blodtryksmåling",
+    "section": "5.3 Udstyr og forberedelse",
+    "text": "5.3 Udstyr og forberedelse\n\nFuldautomatisk oscillometrisk apparat med manchet i passende størrelse. \nEn stol med ryglæn, så deltageren har støtte i ryggen.\nEt bord eller armstøtte, der kan justeres til brysthøjde, hvorpå deltagerens arm kan hvile.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Puls- og blodtryksmåling</span>"
+    ]
+  },
+  {
+    "objectID": "blodtryk-puls.html#sikkerhed",
+    "href": "blodtryk-puls.html#sikkerhed",
+    "title": "5  Puls- og blodtryksmåling",
+    "section": "5.4 Sikkerhed",
+    "text": "5.4 Sikkerhed\n\nVed forhøjet gennemsnitligt blodtryk ved første måling (systolisk over 140 eller diastolisk over 90) foretages en kontrolmåling i hvile senere på undersøgelsesdagen. \nEr kontrolmålingen fortsat forhøjet, bør deltageren oplyses herom og anbefales at få kontrolleret sit blodtryk ved egen læge i de efterfølgende dage.\nEr blodtrykket ved en enkelt måling systolisk over 180 eller diastolisk over 120, bør deltageren blive tilset af en læge på undersøgelsesstedet.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Puls- og blodtryksmåling</span>"
+    ]
+  },
+  {
+    "objectID": "blodtryk-puls.html#data",
+    "href": "blodtryk-puls.html#data",
+    "title": "5  Puls- og blodtryksmåling",
+    "section": "5.5 Data",
+    "text": "5.5 Data\nDet fuldautomatiske oscillometriske apparat måler det systoliske og det diastoliske blodtryk, som vises f.eks. som 140/90. Apparatet viser desuden pulsen, som registreres for hver måling. Der foretages to målinger, og gennemsnittet af de to bruges.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Puls- og blodtryksmåling</span>"
+    ]
+  },
+  {
+    "objectID": "blodtryk-puls.html#instruktioner",
+    "href": "blodtryk-puls.html#instruktioner",
+    "title": "5  Puls- og blodtryksmåling",
+    "section": "5.6 Instruktioner",
+    "text": "5.6 Instruktioner\n\nDeltageren skal have hvilet siddende og i ro i mindst 5 minutter inden blodtrykket måles.\nDeltageren skal have en tom blære under undersøgelsen.\nForklar kort proceduren, og at der kan være let ubehag forbundet med, at manchetten pumpes op. Målingen foretages tre gange med mindst 1 minuts mellemrum.\nDer må ikke snakkes under målingen.\nMålingen foretages på højre arm (mednindre deltagere ønsker andet, med gyldig årsag)",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Puls- og blodtryksmåling</span>"
+    ]
+  },
+  {
+    "objectID": "blodtryk-puls.html#procedure",
+    "href": "blodtryk-puls.html#procedure",
+    "title": "5  Puls- og blodtryksmåling",
+    "section": "5.7 Procedure",
+    "text": "5.7 Procedure\n\nBed deltageren om at tage tøjet af den arm, som blodtrykket skal måles på.\nPlacér manchetten på armen, således at det gule område på manchetten er udad, og manchetten er 2-3 cm over albuebøjningen. Fastgør manchetten med velcrolukningen. \nBed deltageren om at sidde med ryggen støttet, fødderne fladt på gulvet og benene parallelle.\nPlacér armen horisontalt på midtlinjen af sternum og hjertet. Sørg for, at armen har støtte, og at deltageren kan holde til at have armen i den stilling, mens målingerne foretages.\nBed deltageren om at holde sig i ro og undlade at tale, mens målingerne foretages.\nTænd apparatet og start første måling.\nVent mindst 1 minut, og foretag en måling mere på samme arm.\nVent mindst 1 minut, og foretag en måling mere på samme arm.\nRegistrér de tre puls- og blodtryksmålinger og hvilken arm der er brugt i REDCap.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Puls- og blodtryksmåling</span>"
+    ]
+  },
+  {
+    "objectID": "blodtryk-puls.html#dokumentation-og-kvalitetskontrol",
+    "href": "blodtryk-puls.html#dokumentation-og-kvalitetskontrol",
+    "title": "5  Puls- og blodtryksmåling",
+    "section": "5.8 Dokumentation og kvalitetskontrol",
+    "text": "5.8 Dokumentation og kvalitetskontrol\n\nRegistrér puls, systolisk og diastolisk blodtryk for alle tre målinger i REDCap.\nRegistrér, hvilken arm der er brugt. Hvis der er brugt en anden arm end den valgte, registreres årsagen.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Puls- og blodtryksmåling</span>"
+    ]
+  },
+  {
+    "objectID": "blodtryk-puls.html#afvigelser-og-fejl",
+    "href": "blodtryk-puls.html#afvigelser-og-fejl",
+    "title": "5  Puls- og blodtryksmåling",
+    "section": "5.9 Afvigelser og fejl",
+    "text": "5.9 Afvigelser og fejl\n\nHvis deltageren ikke har hvilet, har talt eller har bevæget sig under målingen, gentages målingen efter hvile.\nHvis apparatet viser en fejlmeddelelse, gentages målingen.\nVed forhøjet blodtryk, se afsnittet Sikkerhed.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Puls- og blodtryksmåling</span>"
+    ]
+  },
+  {
+    "objectID": "blodtryk-puls.html#referencer",
+    "href": "blodtryk-puls.html#referencer",
+    "title": "5  Puls- og blodtryksmåling",
+    "section": "5.10 Referencer",
+    "text": "5.10 Referencer",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Puls- og blodtryksmåling</span>"
+    ]
+  },
+  {
+    "objectID": "spytproeve.html",
+    "href": "spytproeve.html",
+    "title": "6  Spytprøve",
+    "section": "",
+    "text": "6.1 Baggrund\n16S rRNA-sekventering bruges til at identificere og sammenligne bakterier baseret på dette gen.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Spytprøve</span>"
+    ]
+  },
+  {
+    "objectID": "spytproeve.html#anvendelsesområde",
+    "href": "spytproeve.html#anvendelsesområde",
+    "title": "6  Spytprøve",
+    "section": "6.2 Anvendelsesområde",
+    "text": "6.2 Anvendelsesområde\n\nAlle egnede deltagere afleverer en spytprøve ved Visit 1.\nDen person, der håndterer prøven, er ansvarlig for, at den opbevares og registreres korrekt.\nEstimeret tidsforbrug: 5 minutter.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Spytprøve</span>"
+    ]
+  },
+  {
+    "objectID": "spytproeve.html#udstyr-og-forberedelse",
+    "href": "spytproeve.html#udstyr-og-forberedelse",
+    "title": "6  Spytprøve",
+    "section": "6.3 Udstyr og forberedelse",
+    "text": "6.3 Udstyr og forberedelse\nForud for modtagelse af deltageren ved Visit 1, forberedes følgende udstyr til opsamling af spytprøve:\n\n1 gram gum-base tyggegummi\n\nKøkkenvægt til afvejning inden opsamling\n\nMedicinbæger\n1x 4,5 mL cryorør\n2x 1,8 mL cryorør\nRNAlater reagent (AM7021), placeret i \n2x -80 °C-label til cryo-rør markeret ’Spyt’\n1x -80 °C-label til cryo-rør markeret ’Spyt + RNAlater’\nFlydende nitrogen (til snap-frysning)",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Spytprøve</span>"
+    ]
+  },
+  {
+    "objectID": "spytproeve.html#sikkerhed",
+    "href": "spytproeve.html#sikkerhed",
+    "title": "6  Spytprøve",
+    "section": "6.4 Sikkerhed",
+    "text": "6.4 Sikkerhed",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Spytprøve</span>"
+    ]
+  },
+  {
+    "objectID": "spytproeve.html#data",
+    "href": "spytproeve.html#data",
+    "title": "6  Spytprøve",
+    "section": "6.5 Data",
+    "text": "6.5 Data",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Spytprøve</span>"
+    ]
+  },
+  {
+    "objectID": "spytproeve.html#instruktioner",
+    "href": "spytproeve.html#instruktioner",
+    "title": "6  Spytprøve",
+    "section": "6.6 Instruktioner",
+    "text": "6.6 Instruktioner\n\nDeltageren må ikke børste tænder før opsamlingen (heller ikke om morgenen, hvis prøven opsamles samme morgen)\n\nHvis deltageren har børstet tænder, tages prøven alligevel og kommentar om dette tilføjes.\n\nDeltageren må ikke bruge receptpligtig tandpasta med 5000 ppm fluorid, men kun almindelig tandpasta med maksimalt 1500 ppm.\nDeltageren må ikke spise, drikke eller børste tænder 2 timer inden opsamlingen.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Spytprøve</span>"
+    ]
+  },
+  {
+    "objectID": "spytproeve.html#procedure",
+    "href": "spytproeve.html#procedure",
+    "title": "6  Spytprøve",
+    "section": "6.7 Procedure",
+    "text": "6.7 Procedure\n\nKlargøring\n\nSkriv ID nr. på 3 labels\n\n1x label til RNAlater\n2x labels til hurtig frys\n\nSæt labels på cryorør\n\n1x label RNAlater på 4,5 mL cryorør\n2x labels hurtig frys på 1,8 mL cryorør\n\n\nOpsamling af spytprøve\n\n5-6 stykker gum-base lægges på en vægt og det tjekkes, at det vejer ca. 1 gram.\nForsøgsdeltageren tager gum-base i munden uden at berøre det med hænderne.\nDer tygges, indtil gum-base har samlet sig i et stykke tyggegummi.\nDer tygges ligeligt i begge sider af munden.\nSpytopsamlingen begynder efter ca. 1 minut, der spyttes kontinuerligt i medicinbægeret til 5 mL spyt er nået (se indikator på medicinbæger).\nGum-basen skal holdes i munden, hver gang der spyttes.\n\nBehandling af spytprøve\n\nSpyt afpipetteres med det samme efter opsamling\n\n1,0 mL spyt i 4,5 mL cryorør indeholdende 3,0 mL RNAlater. Røret vendes 10 gange og sættes ved +4 °C i min. 24 timer. Derefter stilles røret ved -80 °C.\n2x 1,0 mL spyt i 2 x 1,8 mL cryorør og snap-fryses i flydende kvælstof/nitrogen. Prøver overføres til -80 °C sammen med øvrige blodprøve, når forsøgsdagen er omme.\n\n\nPlacering af prøver i fryser\n\nSpytprøverne registreres i excel-arket “DP-Next Biobank” under fanerne “Spyt” eller “Spyt RNAlater” \nSkriv ID + CPR-nummer + tidspunkter for prøveopsamling + frysning på den næste ledige plads i kassen.\nSpytprøverne sættes i -80 fryseren (OBS: Vent 24 timer med rørene med spyt+RNAlater) i den plads og kasse, der er noteret i excel-arket for biobank. Fryseren er placeret …. \n\nRegistrering i REDCap:\n\nOral klorhexidinbehandling indenfor de sidste 6 uger\nOral behandling med svampehæmmende stoffer\nSystemisk antibiotikabehandling indenfor de 2 måneder\nRegelmæssig brug af diverse mundskyllemidler\nBrug af tandpasta med mere end 1500 ppm fluorid\nBrug af tandpasta med triclosan (kun et enkelt Colgate mærke tilbage i Danmark)\nBrug af urtetandpasta (nogle indeholder antibakterielle stoffer) \nTandbehandling indenfor de sidste 6 uger (tandrensning, fyldninger, osv.)\nRygning (varighed, mængde)",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Spytprøve</span>"
+    ]
+  },
+  {
+    "objectID": "spytproeve.html#dokumentation-og-kvalitetskontrol",
+    "href": "spytproeve.html#dokumentation-og-kvalitetskontrol",
+    "title": "6  Spytprøve",
+    "section": "6.8 Dokumentation og kvalitetskontrol",
+    "text": "6.8 Dokumentation og kvalitetskontrol",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Spytprøve</span>"
+    ]
+  },
+  {
+    "objectID": "spytproeve.html#afvigelser-og-fejl",
+    "href": "spytproeve.html#afvigelser-og-fejl",
+    "title": "6  Spytprøve",
+    "section": "6.9 Afvigelser og fejl",
+    "text": "6.9 Afvigelser og fejl",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Spytprøve</span>"
+    ]
+  },
+  {
+    "objectID": "spytproeve.html#referencer",
+    "href": "spytproeve.html#referencer",
+    "title": "6  Spytprøve",
+    "section": "6.10 Referencer",
+    "text": "6.10 Referencer",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Spytprøve</span>"
+    ]
+  },
+  {
+    "objectID": "cgm.html",
+    "href": "cgm.html",
+    "title": "7  CGM",
+    "section": "",
+    "text": "7.1 Baggrund\nEn kontinuerlig glukosemåler (CGM) bruges til at undersøge en persons blodglukoseniveauer over tid. Sensoren bliver typisk sat på bagsiden af overarmen og måler glukoseniveauer hvert 5. minut. CGM giver mere detaljerede glukosemålinger end målinger foretaget på ét tidspunkt (f.eks. fingerprik).",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>CGM</span>"
+    ]
+  },
+  {
+    "objectID": "cgm.html#anvendelsesområde",
+    "href": "cgm.html#anvendelsesområde",
+    "title": "7  CGM",
+    "section": "7.2 Anvendelsesområde",
+    "text": "7.2 Anvendelsesområde\n\nCGM-sensoren bliver påsat ved Visit 1 (deep phenotyping) af DP-Next-personalet efter check-in.\nDeltageren bærer CGM-sensoren på bagsiden af overarmen i 14 dage.\nEstimeret tidsforbrug: 5 minutter",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>CGM</span>"
+    ]
+  },
+  {
+    "objectID": "cgm.html#udstyr-og-forberedelse",
+    "href": "cgm.html#udstyr-og-forberedelse",
+    "title": "7  CGM",
+    "section": "7.3 Udstyr og forberedelse",
+    "text": "7.3 Udstyr og forberedelse\n\n1 ny FreeStyle Libre 3-sensor (engangsbrug).\n1 FreeStyle Libre 3-læser (OBS: Samme læser skal bruges ved påsætning og aflæsning af sensoren).\nKontrollér, at læseren er fuldt opladet før besøget.\nDesinfektionsservietter.\nBarrierespray for at undgå hudirritation fra sensoren.\nKinesiotape (brug eventuelt for at undgå, at sensoren falder af).",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>CGM</span>"
+    ]
+  },
+  {
+    "objectID": "cgm.html#sikkerhed",
+    "href": "cgm.html#sikkerhed",
+    "title": "7  CGM",
+    "section": "7.4 Sikkerhed",
+    "text": "7.4 Sikkerhed",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>CGM</span>"
+    ]
+  },
+  {
+    "objectID": "cgm.html#data",
+    "href": "cgm.html#data",
+    "title": "7  CGM",
+    "section": "7.5 Data",
+    "text": "7.5 Data\n\nData rapporteres som:\n\nTime in Range (3.9–10.0 mmol/L, angivet i %).\nTime below Range (&lt;3.9 mmol/L, angivet i %).\nTime above Range (&gt;10.0 mmol/L, angivet i %).\nCoefficient of Variation (et mål for glukoseudsving).\n\nBlinding: Deltagerne har ikke adgang til målingerne.\nAnalyser: Alle data fra de 14 dage, deltageren har båret sensoren, inkluderes i analysen.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>CGM</span>"
+    ]
+  },
+  {
+    "objectID": "cgm.html#instruktioner",
+    "href": "cgm.html#instruktioner",
+    "title": "7  CGM",
+    "section": "7.6 Instruktioner",
+    "text": "7.6 Instruktioner\n\nInformér deltageren om, at sensoren skal tages af efter 14 dage, hvis den ikke er faldet af af sig selv inden da.\nDeltageren skal lægge sensoren i den udleverede pose med zip-lås.\n\nHvis sensoren falder af før der er gået 14 dage,",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>CGM</span>"
+    ]
+  },
+  {
+    "objectID": "cgm.html#procedure",
+    "href": "cgm.html#procedure",
+    "title": "7  CGM",
+    "section": "7.7 Procedure",
+    "text": "7.7 Procedure\n\n\n7.7.1 Påsætning\n\nTag en ny sensor.\nAfsprit området, hvor sensoren skal sidde, med en desinfektionsserviet.\n\nSensoren sættes typisk bagpå overarmen. Spørg evt., hvilken side deltageren sover på.\nOBS! Barbér påsætningsstedet, hvis deltageren har meget hår.\nBrug evt. barrierespray (sprayes på før påsætning, for at undgå hudirritation) og kinesiotape for at undgå, at sensoren falder af.\n\nVent til området er helt tørt, før sensoren påsættes.\nÅbn pakken med sensoren, og skru låget af applikatoren. Sæt applikatoren ned over sensoren, så de to streger står overfor hinanden. Se vejledningen i sensorens æske.\nTryk applikatoren, der nu indeholder sensoren, mod det afsprittede område, og tryk den helt i bund.\nFjern applikatoren, og sørg for, at tapen sidder fast i kanten af sensoren.\nTænd en FreeStyle Libre 3-læser ved at trykke på den grønne knap.\n\nNotér i REDCap, hvilken læser du bruger (markeret med 1, 2 eller 3).\nNotér sensorens ID i REDCap. \n\nTryk “Start new sensor”, og hold læseren hen over sensoren. \nVent 2–3 minutter som angivet på skærmen. \nHold læseren hen over sensoren igen for at tjekke status. Når læseren viser følgende billede, er sensoren startet korrekt. \n\n\n\n7.7.2 Afmontering og aflæsning\n\nNotér deltager-ID/REDCap-ID på sensoren.\nTænd læseren, og vælg “Get sensor data”. Hold læseren hen over sensoren, til den bipper, og tryk “Next”. (OBS: Samme læser skal bruges ved påsætning og aflæsning af sensoren).\nSlut læseren til en Windows-computer med det medfølgende kabel.\n\nProgrammet “LibreView Device Drivers” skal være installeret på computeren. \n\nGå til https://www.libreview.com, og log ind med DP-Nexts konto: \n\nOBS! Vælg Storbritannien og Dansk, hvis det er første gang, du besøger LibreView.\n\nTryk “Upload enhed”. \nTryk “Opret rapport linket til patient”.\n\nTryk “Opret deltager”.\n\nOprettelse af deltager. Følgende felter udfyldes:\n\nFornavn: ID efterfulgt af understregning, fx “1_”.\nEfternavn: cgm\nFødselsdato: \nPraksis: DP-Next \nE-mailadresse: lad feltet stå tomt.\n\nTryk på deltageren, og vælg “Profil” i menuen til venstre.\n\nTryk “Download glukosedata” nederst midt på siden. \nGem glukosedata som CSV-fil her: \nFilnavn: \n\nTryk “Glukosehistorik” i menuen til venstre.\n\nTryk “Vis rapport” og derefter “Udskriv/gem PDF”. \nGem AGP-rapporten som PDF her: \nFilnavn: \n\nUpload begge filer (CSV og AGP-PDF) til REDCap, og gem sensoren \nGå til sidste side af AGP-rapporten, og udregn den gennemsnitlige glukose fra de seneste 4 fulde døgn. Skriv den ind i REDCap.\n\nSådan gør du: Læg de seneste 4 tal under “Gennemsnitlig glukose” sammen, og divider med 4.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>CGM</span>"
+    ]
+  },
+  {
+    "objectID": "cgm.html#dokumentation-og-kvalitetskontrol",
+    "href": "cgm.html#dokumentation-og-kvalitetskontrol",
+    "title": "7  CGM",
+    "section": "7.8 Dokumentation og kvalitetskontrol",
+    "text": "7.8 Dokumentation og kvalitetskontrol\n\nKontrollér, at sensor-ID og læser-nummer er registreret korrekt.\nKontrollér, at både CSV- og PDF-filen har det rigtige filnavn, før de uploades.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>CGM</span>"
+    ]
+  },
+  {
+    "objectID": "cgm.html#afvigelser-og-fejl",
+    "href": "cgm.html#afvigelser-og-fejl",
+    "title": "7  CGM",
+    "section": "7.9 Afvigelser og fejl",
+    "text": "7.9 Afvigelser og fejl\nForventede resultater: Valide målinger vises som kontinuerlige glukosemålinger med 5 minutters interval.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>CGM</span>"
+    ]
+  },
+  {
+    "objectID": "cgm.html#referencer",
+    "href": "cgm.html#referencer",
+    "title": "7  CGM",
+    "section": "7.10 Referencer",
+    "text": "7.10 Referencer\n\nAbbotts video: https://www.youtube.com/watch?v=pVsXzLsOUdY",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>CGM</span>"
+    ]
+  },
+  {
+    "objectID": "blodproever.html",
+    "href": "blodproever.html",
+    "title": "8  Blodprøver",
+    "section": "",
+    "text": "8.1 Baggrund\nI DP-Next tages der fasteblodprøver for B-Trombocytter, P-Alanintransaminase (ALAT) og P-Aspartattransaminase (ASAT). Blodprøver foretaget i forbindelse med oral glukosetolerancetest (OGTT) er beskrevet i den respektive SOP.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Blodprøver</span>"
+    ]
+  },
+  {
+    "objectID": "blodproever.html#anvendelsesområde",
+    "href": "blodproever.html#anvendelsesområde",
+    "title": "8  Blodprøver",
+    "section": "8.2 Anvendelsesområde",
+    "text": "8.2 Anvendelsesområde\n\nBlodprøver foretages af bioanalytiker eller andet personale med tilsvarende kvalifikationer.\nAlle egnede deltagere får foretaget fasteblodprøver forud for OGTT.\nEstimeret tidsforbrug: 15 minutter.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Blodprøver</span>"
+    ]
+  },
+  {
+    "objectID": "blodproever.html#udstyr-og-forberedelse",
+    "href": "blodproever.html#udstyr-og-forberedelse",
+    "title": "8  Blodprøver",
+    "section": "8.3 Udstyr og forberedelse",
+    "text": "8.3 Udstyr og forberedelse\n\nUdstyr til blodprøvetagning. \nBlodprøverør til P-ASAT, P-ALAT og B-Trombocytter.\nEtiketter med deltagerens ID-nummer og nødvendige prøveoplysninger.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Blodprøver</span>"
+    ]
+  },
+  {
+    "objectID": "blodproever.html#sikkerhed",
+    "href": "blodproever.html#sikkerhed",
+    "title": "8  Blodprøver",
+    "section": "8.4 Sikkerhed",
+    "text": "8.4 Sikkerhed\nBlodprøvetagning udføres under overholdelse af gældende hygiejne- og biosikkerhedsprocedurer.\n\nHåndhygiejne udføres før og efter proceduren samt efter behov.\nHandsker anvendes ved blodprøvetagning.\nKanyler og andet skarpt udstyr håndteres forsvarligt og bortskaffes umiddelbart efter brug i en godkendt beholder til skarpt affald.\nDeltageren observeres for ubehag, svimmelhed eller tegn på vasovagal reaktion under og umiddelbart efter prøvetagningen.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Blodprøver</span>"
+    ]
+  },
+  {
+    "objectID": "blodproever.html#data",
+    "href": "blodproever.html#data",
+    "title": "8  Blodprøver",
+    "section": "8.5 Data",
+    "text": "8.5 Data\nUndersøgelsen genererer laboratorieresultater fra tre blodprøver:\n\nP-ASAT: Aspartattransaminase, rapporteret i U/L.\nP-ALAT: Alanintransaminase, rapporteret i U/L.\nB-Trombocytter: Antal trombocytter i blodet, rapporteret i × 10⁹/L.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Blodprøver</span>"
+    ]
+  },
+  {
+    "objectID": "blodproever.html#instruktioner",
+    "href": "blodproever.html#instruktioner",
+    "title": "8  Blodprøver",
+    "section": "8.6 Instruktioner",
+    "text": "8.6 Instruktioner\n\nDeltageren skal fastes i mindst 8 timer før blodprøvetagningen.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Blodprøver</span>"
+    ]
+  },
+  {
+    "objectID": "blodproever.html#procedure",
+    "href": "blodproever.html#procedure",
+    "title": "8  Blodprøver",
+    "section": "8.7 Procedure",
+    "text": "8.7 Procedure\n\nForberedelse\n\nBekræft, at deltageren har fastet i mindst 8 timer. Registrér eventuelle afvigelser.\nKlargør blodprøvetagningsudstyr, relevante prøverør og etiketter.\n\nKontrollér, at prøverør svarer til de bestilte analyser:\n\nP-ASAT, NPU19654: lithium-heparin-plasma, grøn prop, rørtype 4.\nP-ALAT, NPU19651: lithium-heparin-plasma, grøn prop, rørtype 4.\nB-Trombocytter, NPU03568: K-EDTA-fuldblod, lilla prop, rørtype 3.\n\n\n\nUdførelse\n\nBlodprøverne tages af klinisk bioanalytikerpersonale eller andet kvalificeret personale i henhold til afdelingens gældende procedurer.\nDer udtages prøver til følgende analyser:\n\nB-Trombocytter\nP-Alanintransaminase (ALAT)\nP-Aspartattransaminase (ASAT)\n\nPrøverne håndteres og transporteres i henhold til laboratoriets gældende procedurer.\nHvis prøvemateriale skal opbevares til biobank, sker dette i overensstemmelse med projektets biobankprocedure og deltagerens samtykke.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Blodprøver</span>"
+    ]
+  },
+  {
+    "objectID": "blodproever.html#dokumentation-og-kvalitetskontrol",
+    "href": "blodproever.html#dokumentation-og-kvalitetskontrol",
+    "title": "8  Blodprøver",
+    "section": "8.8 Dokumentation og kvalitetskontrol",
+    "text": "8.8 Dokumentation og kvalitetskontrol\nFølgende dokumenteres efter projektets og laboratoriets gældende procedurer:\n\nDeltager ID.\nBekræftelse af fastestatus og eventuelle afvigelser fra fastekravet.\nPrøvetagningsdato og -tidspunkt.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Blodprøver</span>"
+    ]
+  },
+  {
+    "objectID": "blodproever.html#afvigelser-og-fejl",
+    "href": "blodproever.html#afvigelser-og-fejl",
+    "title": "8  Blodprøver",
+    "section": "8.9 Afvigelser og fejl",
+    "text": "8.9 Afvigelser og fejl",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Blodprøver</span>"
+    ]
+  },
+  {
+    "objectID": "blodproever.html#referencer",
+    "href": "blodproever.html#referencer",
+    "title": "8  Blodprøver",
+    "section": "8.10 Referencer",
+    "text": "8.10 Referencer\n\nAUH, Analysefortegnelsen: P-Aspartattransaminase (ASAT), NPU19654. https://analysefortegnelsen.rm.dk/AUH/analyse/NPU19654\nAUH, Analysefortegnelsen: P-Alanintransaminase (ALAT), NPU19651. https://analysefortegnelsen.rm.dk/AUH/analyse/NPU19651\nAUH, Analysefortegnelsen: B-Trombocytter, NPU03568. https://analysefortegnelsen.rm.dk/AUH/analyse/NPU03568\nSOP for oral glukosetolerancetest (OGTT).",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Blodprøver</span>"
+    ]
+  },
+  {
+    "objectID": "blodproever.html#skema-til-bioanalytikker-vedhæftet-i-word-format-også",
+    "href": "blodproever.html#skema-til-bioanalytikker-vedhæftet-i-word-format-også",
+    "title": "8  Blodprøver",
+    "section": "8.11 Skema til bioanalytikker (vedhæftet i word-format også)",
+    "text": "8.11 Skema til bioanalytikker (vedhæftet i word-format også)\n\nSkema er som inspiration fra et andet projekt, og udarbejdes med det hold bioanalytikkere, som kommer til at arbejde på DP-Next projektet.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Blodprøver</span>"
+    ]
+  },
+  {
+    "objectID": "kropskomposition.html",
+    "href": "kropskomposition.html",
+    "title": "9  Baggrund",
+    "section": "",
+    "text": "9.1 Anvendelsesområde\nKropssammensætning måles ved bioelektrisk impedansanalyse (BIA).",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Baggrund</span>"
+    ]
+  },
+  {
+    "objectID": "kropskomposition.html#anvendelsesområde",
+    "href": "kropskomposition.html#anvendelsesområde",
+    "title": "9  Baggrund",
+    "section": "",
+    "text": "Alle egnede deltagere får udført BIA ved Visit 1.\nUndersøgelsen udføres af DP-Next personale oplært i at bruge udstyret.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Baggrund</span>"
+    ]
+  },
+  {
+    "objectID": "kropskomposition.html#udstyr-og-forberedelse",
+    "href": "kropskomposition.html#udstyr-og-forberedelse",
+    "title": "9  Baggrund",
+    "section": "9.2 Udstyr og forberedelse",
+    "text": "9.2 Udstyr og forberedelse\n\nKalibreret BIA-enhed på fast, plant underlag. Kontrollér, at luftboblen i vaterpasset står midt i den sorte ring. \nKontrollér, at SD-kort er isat (SD-ikonet vises på displayet).\nTørt håndklæde og desinfektionsmiddel til platformen.\nEnhedens indstillinger (Setting-tasten): sæt ur til korrekt dato og klokkeslæt og sæt ID til manuel indtastning.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Baggrund</span>"
+    ]
+  },
+  {
+    "objectID": "kropskomposition.html#sikkerhed",
+    "href": "kropskomposition.html#sikkerhed",
+    "title": "9  Baggrund",
+    "section": "9.3 Sikkerhed",
+    "text": "9.3 Sikkerhed\n\nMå ikke udføres på deltagere med pacemaker eller andre mekaniske implantater.\nUndgå at bruge ved kendt metalallergi og afbryd ved hudreaktion.\nMobiltelefoner og lignende skal holdes væk fra enheden.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Baggrund</span>"
+    ]
+  },
+  {
+    "objectID": "kropskomposition.html#data",
+    "href": "kropskomposition.html#data",
+    "title": "9  Baggrund",
+    "section": "9.4 Data",
+    "text": "9.4 Data\nFedtmasse, fedtfri masse og fasevinkel.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Baggrund</span>"
+    ]
+  },
+  {
+    "objectID": "kropskomposition.html#instruktioner",
+    "href": "kropskomposition.html#instruktioner",
+    "title": "9  Baggrund",
+    "section": "9.5 Instruktioner",
+    "text": "9.5 Instruktioner\n\nDeltageren skal faste i minimum 12 timer inden undersøgelsen. \nDeltageren skal være let påklædt og stå på enheden med bare fødder.\nDeltageren må ikke dyrke anstrengende motion 12 timer inden undersøgelsen.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Baggrund</span>"
+    ]
+  },
+  {
+    "objectID": "kropskomposition.html#procedure",
+    "href": "kropskomposition.html#procedure",
+    "title": "9  Baggrund",
+    "section": "9.6 Procedure",
+    "text": "9.6 Procedure\nForberedelse\n\nKontrollér, at deltageren er fastende og ikke har dyrket anstrengende motion forud for undersøgelsen.\nSpørg ind til pacemaker, implantater og metalallergi.\nKontrollér, at deltageren er let påklædt og har bare fødder.\nTænd enheden, og kontrollér, at den står i “Body Composition”. Skift med tilstandsknappen.\nKontrollér, at “PT” blinker. Indtast 0,5 kg for tøjvægt og tryk Enter.\n\nUdførelse\n\nDeltageren stiger op, når displayet viser “Step on”. Kropsvægten måles.\nIndtast deltager-ID (kun tal) og bekræft med Enter. Vælg køn, indtast alder og højde (cm), og bekræft hver med Enter. Højden aflæses fra stadiometermålingen.\nNår “grip on” vises, tager deltageren fat i håndtagene. Kontrollér, at arme og lår ikke rører hinanden eller kroppen.\nDeltageren står stille, til resultatet vises. Blinker “O”, er resultatet kun vejledende, og målingen gentages (se Afvigelser og fejl).\nDeltageren stiger af.\n\nAfslutning\n\nKontrollér, at resultatet er gemt (SD-ikonet). Sluk ikke enheden eller fjern SD-kortet, mens data gemmes.\nRengør platformen med desinfektionsmiddel efter hver deltager.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Baggrund</span>"
+    ]
+  },
+  {
+    "objectID": "kropskomposition.html#dokumentation-og-kvalitetskontrol",
+    "href": "kropskomposition.html#dokumentation-og-kvalitetskontrol",
+    "title": "9  Baggrund",
+    "section": "9.7 Dokumentation og kvalitetskontrol",
+    "text": "9.7 Dokumentation og kvalitetskontrol\n\nRegistrér dato, deltager-ID, fastestatus, afvigelser og gentagne målinger under variablen for kropskomposition i REDCap.\nData hentes fra SD-kortets datafil (én fil pr. dag, navngivet ÅÅÅÅMMDD). \nKontrollér dagligt, at enheden står plant, og at dato og tid er korrekte. Kontrollér regelmæssigt, at SD-kortet ikke er fuldt.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Baggrund</span>"
+    ]
+  },
+  {
+    "objectID": "kropskomposition.html#afvigelser-og-fejl",
+    "href": "kropskomposition.html#afvigelser-og-fejl",
+    "title": "9  Baggrund",
+    "section": "9.8 Afvigelser og fejl",
+    "text": "9.8 Afvigelser og fejl\n\nEn gyldig måling er en måling, hvor “O” ikke blinker.\n“O” blinker: Måleposituren er forkert (arme eller lår rører hinanden eller kroppen, bøjede knæ, fødder forkert placeret), og resultatet er kun vejledende. Ret positionen, og gentag målingen.\n“——”: Kontrollér, at deltageren står barfodet og holder fast om håndtagene med fingre og håndflader, og at de indtastede oplysninger er rigtige. Er fodsålerne tørre, fugtes de med en fugtig klud (OBS: platformen må ikke blive våd). Hjælper det ikke, så sluk enheden, fjern alt fra platformen, tænd igen, og gentag målingen.\nVægten stabiliseres ikke: Kontrollér, at underlaget ikke vibrerer og at platformen ikke er skæv.\n“Error 12”: SD-kortet er fuldt.\nDeltageren har ikke fastet eller har dyrket anstrengende motion før undersøgelsen: Noteres som afvigelse.\nVed vedvarende fejl kontaktes",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Baggrund</span>"
+    ]
+  },
+  {
+    "objectID": "kropskomposition.html#referencer",
+    "href": "kropskomposition.html#referencer",
+    "title": "9  Baggrund",
+    "section": "9.9 Referencer",
+    "text": "9.9 Referencer\n\nTanita MC-780MA-N Instruction Manual (2018).",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Baggrund</span>"
+    ]
+  },
+  {
+    "objectID": "ogtt.html",
+    "href": "ogtt.html",
+    "title": "10  OGTT",
+    "section": "",
+    "text": "10.1 Baggrund\nOGTT anvendes til at undersøge deltagerens glukosemetabolisme og insulinsekretion ved oral glukosebelastning. I DP-Next-projektet tages der blodprøver ved 0, 30, 60 og 120 minutter.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>OGTT</span>"
+    ]
+  },
+  {
+    "objectID": "ogtt.html#anvendelsesområde",
+    "href": "ogtt.html#anvendelsesområde",
+    "title": "10  OGTT",
+    "section": "10.2 Anvendelsesområde",
+    "text": "10.2 Anvendelsesområde\n\nAlle egnede deltagere får foretaget en OGTT ved Visit 1.\nTesten udføres af DP-Next personalet efter oplæring.\nDeltagere skal faste i minimum 12 timer forud for undersøgelsen.\nEstimeret tidsforbrug: 125 minutter.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>OGTT</span>"
+    ]
+  },
+  {
+    "objectID": "ogtt.html#udstyr-og-forberedelse",
+    "href": "ogtt.html#udstyr-og-forberedelse",
+    "title": "10  OGTT",
+    "section": "10.3 Udstyr og forberedelse",
+    "text": "10.3 Udstyr og forberedelse\n\n75 g vandfri glukose opløst i 250 ml vand.\nStopur.\nUdstyr til blodprøvetagning. \n\nBlodprøverør til glukose, insulin og C-peptid. \n\nOpkastposer.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>OGTT</span>"
+    ]
+  },
+  {
+    "objectID": "ogtt.html#sikkerhed",
+    "href": "ogtt.html#sikkerhed",
+    "title": "10  OGTT",
+    "section": "10.4 Sikkerhed",
+    "text": "10.4 Sikkerhed\nObservér deltageren under hele proceduren. Blodprøvetagning kan medføre blå mærker, ømhed, let blødning og svimmelhed. Indtagelse af glukoseopløsningen kan medføre kvalme, maveubehag, svimmelhed eller opkastning. Hvis deltageren føler sig svimmel eller utilpas, lægges deltageren ned og personale tilkaldes.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>OGTT</span>"
+    ]
+  },
+  {
+    "objectID": "ogtt.html#data",
+    "href": "ogtt.html#data",
+    "title": "10  OGTT",
+    "section": "10.5 Data",
+    "text": "10.5 Data\nAnalyse af blodprøverne viser koncentrationer af blodglukose, insulin og C-peptid til de fire tidspunkter (0, 30, 60 og 120 minutter).",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>OGTT</span>"
+    ]
+  },
+  {
+    "objectID": "ogtt.html#instruktioner",
+    "href": "ogtt.html#instruktioner",
+    "title": "10  OGTT",
+    "section": "10.6 Instruktioner",
+    "text": "10.6 Instruktioner\n\nDeltageren skal faste i minimum 12 timer forud for undersøgelsen. Faste inkluderer også tyggegummi, pastiller eller lignende, men ikke vand og livsnødvendig medicin.\nDeltagerne må ikke udføre fysisk aktivitet under testen og skal holde sig i ro mellem undersøgelserne.\nDeltageren må ikke indtage mad under testen. Heller ikke tyggegummi, pastiller eller lignende.\nDeltageren må ikke ryge eller bruge andre nikotinholdige produkter under testen.\nDeltageren må gerne gå på toilettet og drikke vand under testen.\nKontrollér, at deltageren har fastet i minimum 12 timer forud for undersøgelsen.\nKontrollér, at deltageren ikke har feber, da det kan påvirke undersøgelsens resultater.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>OGTT</span>"
+    ]
+  },
+  {
+    "objectID": "ogtt.html#procedure",
+    "href": "ogtt.html#procedure",
+    "title": "10  OGTT",
+    "section": "10.7 Procedure",
+    "text": "10.7 Procedure\n\nForberedelse\n\nKlargør opløsning med 75 g vandfri glukose i 250 mL vand.\nKlargør udstyr til blodprøvetagning.\nHav stopur klar.\nHav opkastposer klar.\n\nUdførelse af OGTT\n\n\nKlinisk personale tager den fastende blodprøve ved 0 minutter.\nDeltageren drikker glukoseopløsningen. Deltageren skal indtage glukosemiksturen inden for fem minutter og tiden starter, når deltageren har drukket det hele.\n\nTilbyd deltageren vand umiddelbart efter.\n\nDeltageren får foretaget ’Brief standardised voice recording’ (se SOP for voice recording).\nDeltageren måles, vejes, får målt hofte- og taljeomkreds og hudfoldstykkelse (se SOP for antropometri).\nKlinisk personale tager blodprøve ved 30 minutter.\nDeltageren udfylder et eller flere spørgeskemaer, hvis ikke de allerede har udfyldt dem før Visit 1:\n\nPittsburgh Sleep Quality Index (PSQI)\nOral Health Impact Profile–14 (OHIP-14)\nCOMPASS-31\nMorningness–Eveningness Questionnaire (MEQ)\nAdult Eating Behaviour Questionnaire (AEBQ)\n\nKlinisk personale tager blodprøve ved 60 minutter.\nDeltageren får foretaget DEXA-helkropsscanning og VFA-scanning.\nKlinisk personale tager blodprøve ved 120 minutter.\n\nEfter undersøgelsen tilbydes deltageren noget at spise.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>OGTT</span>"
+    ]
+  },
+  {
+    "objectID": "ogtt.html#dokumentation-og-kvalitetskontrol",
+    "href": "ogtt.html#dokumentation-og-kvalitetskontrol",
+    "title": "10  OGTT",
+    "section": "10.8 Dokumentation og kvalitetskontrol",
+    "text": "10.8 Dokumentation og kvalitetskontrol\n\nRegistrér tidspunktet, hvor stopuret blev startet, og det faktiske tidspunkt for alle fire blodprøver i REDCap.\nMærk alle rør med deltager-ID og tidspunkt (0, 30, 60, 120 minutter).\nOpbevaring og håndtering af blodprøverne: se SOP for blodprøver.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>OGTT</span>"
+    ]
+  },
+  {
+    "objectID": "ogtt.html#afvigelser-og-fejl",
+    "href": "ogtt.html#afvigelser-og-fejl",
+    "title": "10  OGTT",
+    "section": "10.9 Afvigelser og fejl",
+    "text": "10.9 Afvigelser og fejl\n\nHvis deltageren kaster op, afbrydes testen og der tilbydes en anden undersøgelsesdag.\nVed afbrudt test registreres årsag og tidspunkt i REDCap.\nHvis en blodprøve ikke kan tages til tiden, tages prøven hurtigst muligt og det faktiske tidspunkt noteres.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>OGTT</span>"
+    ]
+  },
+  {
+    "objectID": "ogtt.html#referencer",
+    "href": "ogtt.html#referencer",
+    "title": "10  OGTT",
+    "section": "10.10 Referencer",
+    "text": "10.10 Referencer\nRelaterede SOP’er, protokoller eller litteratur",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>OGTT</span>"
+    ]
+  },
+  {
+    "objectID": "stemmekarakteristika.html",
+    "href": "stemmekarakteristika.html",
+    "title": "11  Stemmekarakteristika",
+    "section": "",
+    "text": "11.1 Baggrund\nI DP-Next indsamles korte, standardiserede stemmeoptagelser for at undersøge vokale biomarkører.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Stemmekarakteristika</span>"
+    ]
+  },
+  {
+    "objectID": "stemmekarakteristika.html#anvendelsesområde",
+    "href": "stemmekarakteristika.html#anvendelsesområde",
+    "title": "11  Stemmekarakteristika",
+    "section": "11.2 Anvendelsesområde",
+    "text": "11.2 Anvendelsesområde\n\nUndersøgelsen udføres af DP-Next personale oplært i at bruge udstyret.\nAlle egnede deltagere får udført undersøgelse af stemmekarakteristika ved Visit 1 som parallelundersøgelse under oral glukosetolerancetest.\nEstimeret tidsforbrug: 5 minutter.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Stemmekarakteristika</span>"
+    ]
+  },
+  {
+    "objectID": "stemmekarakteristika.html#udstyr-og-forberedelse",
+    "href": "stemmekarakteristika.html#udstyr-og-forberedelse",
+    "title": "11  Stemmekarakteristika",
+    "section": "11.3 Udstyr og forberedelse",
+    "text": "11.3 Udstyr og forberedelse\n\nStøjsvagt rum, f.eks. et lukket og lydtæt lokale. \nMikrofon/headset med optageudstyr (computer eller optager og software). \nUdskrevet tekst til oplæsning\nStopur\nBord og stol.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Stemmekarakteristika</span>"
+    ]
+  },
+  {
+    "objectID": "stemmekarakteristika.html#sikkerhed",
+    "href": "stemmekarakteristika.html#sikkerhed",
+    "title": "11  Stemmekarakteristika",
+    "section": "11.4 Sikkerhed",
+    "text": "11.4 Sikkerhed\nDer er ingen særlige sikkerhedsforanstaltninger forbundet med undersøgelsen.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Stemmekarakteristika</span>"
+    ]
+  },
+  {
+    "objectID": "stemmekarakteristika.html#data",
+    "href": "stemmekarakteristika.html#data",
+    "title": "11  Stemmekarakteristika",
+    "section": "11.5 Data",
+    "text": "11.5 Data\nUndersøgelsen genererer lydoptagelser af de tre stemmeopgaver.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Stemmekarakteristika</span>"
+    ]
+  },
+  {
+    "objectID": "stemmekarakteristika.html#instruktioner",
+    "href": "stemmekarakteristika.html#instruktioner",
+    "title": "11  Stemmekarakteristika",
+    "section": "11.6 Instruktioner",
+    "text": "11.6 Instruktioner\n\nDeltageren skal sidde i et støjsvagt rum.\nDeltageren skal sidde oprejst i en stol med mikrofonen placeret tæt på munden.\nFortæl deltageren om proceduren og de tre stemmeopgaver:\n\nI ét åndedrag sige lyden ‘aaaaaa’ så længe som muligt i et normalt lydniveau.\nGentag ‘Pa Ta Ka’ så hurtigt som muligt i 10 sekunder.\nLæse følgende tekst højt i et normalt lydniveau:\n\n‘Jeg deltager i et forskningsprojekt, og denne lydoptagelse er en del af projektet’",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Stemmekarakteristika</span>"
+    ]
+  },
+  {
+    "objectID": "stemmekarakteristika.html#procedure",
+    "href": "stemmekarakteristika.html#procedure",
+    "title": "11  Stemmekarakteristika",
+    "section": "11.7 Procedure",
+    "text": "11.7 Procedure\n\nKontrollér, at deltageren sidder oprejst og med mikrofonen tæt på munden.\nFor hver af de tre stemmeopgaver (se Instruktioner): Start optagelsen, bed deltageren om at udføre opgaven, og stop optagelsen. Tag tid på ‘Pa Ta Ka’ (10 sekunder). Lyt optagelsen igennem, og gentag opgaven, hvis lydkvaliteten vurderes utilstrækkelig. \nGem de tre optagelser i [sti/til/mappe] med filnavn efter formatet ‘voice-[deltager-ID]-[opgave-nr]-[ÅÅÅÅMMDD]’, feks. voice-01234-1-20261014 for opgave 1.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Stemmekarakteristika</span>"
+    ]
+  },
+  {
+    "objectID": "stemmekarakteristika.html#dokumentation-og-kvalitetskontrol",
+    "href": "stemmekarakteristika.html#dokumentation-og-kvalitetskontrol",
+    "title": "11  Stemmekarakteristika",
+    "section": "11.8 Dokumentation og kvalitetskontrol",
+    "text": "11.8 Dokumentation og kvalitetskontrol\nRegistrér i REDCap, at de tre optagelser er gennemført under variablen [variabelnavn]. Notér eventuelle afvigelser.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Stemmekarakteristika</span>"
+    ]
+  },
+  {
+    "objectID": "stemmekarakteristika.html#afvigelser-og-fejl",
+    "href": "stemmekarakteristika.html#afvigelser-og-fejl",
+    "title": "11  Stemmekarakteristika",
+    "section": "11.9 Afvigelser og fejl",
+    "text": "11.9 Afvigelser og fejl\n\nKan deltageren ikke gennemføre en opgave, noteres det i REDCap, og undersøgelsen fortsættes.\nVed tekniske fejl gentages opgaven. Hvis fejlen vedvarer, afbrydes undersøgelsen, og deltageren kan fortsætte til den næste undersøgelse.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Stemmekarakteristika</span>"
+    ]
+  },
+  {
+    "objectID": "stemmekarakteristika.html#referencer",
+    "href": "stemmekarakteristika.html#referencer",
+    "title": "11  Stemmekarakteristika",
+    "section": "11.10 Referencer",
+    "text": "11.10 Referencer\nSOP fra Steno Voice-projektet: https://github.com/steno-aarhus/steno-voice/blob/main/SOP/index.qmd",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Stemmekarakteristika</span>"
+    ]
+  },
+  {
+    "objectID": "stemmekarakteristika.html#noter-efter-møde-med-manu",
+    "href": "stemmekarakteristika.html#noter-efter-møde-med-manu",
+    "title": "11  Stemmekarakteristika",
+    "section": "11.11 Noter efter møde med Manu:",
+    "text": "11.11 Noter efter møde med Manu:\nManu sørger for at finde de headset vi skal bruge: han går efter de bedst og de billigste.\nJeg har efterspurgt at vi skal bruge et til hver site (5 stk)\nDet skal beskluttes om vi vil lave en app, om hvordan dataindsmalingen skal hostes.\nManu er interesseret i at der bliver lavet en form for follow-up:\n- Det kunne være spændende at se hvordan stemmen ændre sig, fra en måling på “raske individer” (prædiabetikere) vs. en optagelse efter de har udviklet T2D.\nMail fra Manu:\n\nIn my project, we use REDCap for the survey questionnaires, so we wanted to record voice in REDCap as well. That isn’t possible at the moment. We therefore developed our own software, the Steno Voice Data Tool, which records voice directly through the browser and is hosted on a server at AU. After participants finish the questionnaire in REDCap, they are redirected to the tool to make their recordings.\nThe tool then automatically transfers the recordings to REDCap, where they are linked to the participant’s survey responses. No data is stored on the server itself. From REDCap, the data can easily be transferred to GenomeDK via the API.\nI agree that GenomeDK and the Seedcase data package should be the final home for the recordings, and the current setup already ends there. We route the recordings through REDCap mainly so they are linked to each participant’s survey responses from the start.\nTo start voice data collection in February, we need:\n\nEquipment: headsets for each site (I’ll find a suitable model within a fair budget).\nA REDCap survey on acute voice-related states, such as emotion, stress level and tiredness. I’m happy to help set this up.\nA server to host the Steno Voice Data Tool.\n\nSo my main question is: do we have server capacity within DP-Next to host the software? If not, I can ask whether we can host another project on our collaborator’s server at AU.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Stemmekarakteristika</span>"
+    ]
+  },
+  {
+    "objectID": "fibroscanning.html",
+    "href": "fibroscanning.html",
+    "title": "12  Fibroscanning",
+    "section": "",
+    "text": "12.1 Baggrund\nTransient elastografi/fibroscanning anvendes til at vurdere leverens generelle tilstand, herunder fibrose/arvæv (leverstivhed) og steatosegrad (fedtlever).",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Fibroscanning</span>"
+    ]
+  },
+  {
+    "objectID": "fibroscanning.html#anvendelsesområde",
+    "href": "fibroscanning.html#anvendelsesområde",
+    "title": "12  Fibroscanning",
+    "section": "12.2 Anvendelsesområde",
+    "text": "12.2 Anvendelsesområde\n\nUndersøgelsen udføres af DP-Next personale der har gennemgået et relevant uddannelsesforløb i fibroscanning.\nAlle deltagere får foretaget fibroscanning ved Visit 1.\nDeltageren skal faste i 12 timer forud for undersøgelsen.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Fibroscanning</span>"
+    ]
+  },
+  {
+    "objectID": "fibroscanning.html#udstyr-og-forberedelse",
+    "href": "fibroscanning.html#udstyr-og-forberedelse",
+    "title": "12  Fibroscanning",
+    "section": "12.3 Udstyr og forberedelse",
+    "text": "12.3 Udstyr og forberedelse\n\n1x fibroscanner \n\nM og XL prober\nUltralydsgel\nHudmarkør til lokalisering af scanningspunkt\n\n1x undersøgelsesbriks\nVådservietter til rengøring af briks og probe\nPapir til aftørring af gel\nUSB-stik til overføring af data",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Fibroscanning</span>"
+    ]
+  },
+  {
+    "objectID": "fibroscanning.html#sikkerhed",
+    "href": "fibroscanning.html#sikkerhed",
+    "title": "12  Fibroscanning",
+    "section": "12.4 Sikkerhed",
+    "text": "12.4 Sikkerhed\n\nUndersøgelsen udføres ikke ved graviditet.\nVed ascites kan undersøgelsen være teknisk umulig at gennemføre.\nMekanisk kolestase, aktiv leverinflammation, herunder ALAT/ASAT &gt;3 gange øvre normalgrænse, og hepatisk kongestion kan medføre falsk forhøjet leverstivhed. Kendte forhold dokumenteres som forbehold ved fortolkning af resultatet.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Fibroscanning</span>"
+    ]
+  },
+  {
+    "objectID": "fibroscanning.html#data",
+    "href": "fibroscanning.html#data",
+    "title": "12  Fibroscanning",
+    "section": "12.5 Data",
+    "text": "12.5 Data\nUndersøgelsen genererer to parametre relateret til leverens sundhed:\n\nElasticitetskoefficient (udtrykt i Kilopascal), der er et udtryk for leverens stivhed. Apparatet kan måle 2-75 kPa. \nControlled attenuation parameter (CAP, udtrykt i decibel/meter), der er et udtryk for leverens steatosegrad (fedtlever). Ligger i området 100-400 decibel/meter. Højere steatosegrad indikerer højere ophobning af fedt i leveren.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Fibroscanning</span>"
+    ]
+  },
+  {
+    "objectID": "fibroscanning.html#instruktioner",
+    "href": "fibroscanning.html#instruktioner",
+    "title": "12  Fibroscanning",
+    "section": "12.6 Instruktioner",
+    "text": "12.6 Instruktioner\nForsøgsdeltageren skal faste i 12 timer forud for undersøgelsen. Fibroscanning anbefales udført efter mindst 3 timers faste. Ved kortere faste gennemføres undersøgelsen, og fastetiden registreres som en afvigelse. Der kan eventuelt aftales en ny scanning efter tilstrækkelig faste.\nScanningen udføres så vidt muligt før indtagelse af mad og glukoseopløsning ved OGTT. Deltageren instrueres i at undgå dyb inspiration. Målingerne foretages midt i inspiration.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Fibroscanning</span>"
+    ]
+  },
+  {
+    "objectID": "fibroscanning.html#procedure",
+    "href": "fibroscanning.html#procedure",
+    "title": "12  Fibroscanning",
+    "section": "12.7 Procedure",
+    "text": "12.7 Procedure\n\nForberedelse\n\nDeltageren placeres behageligt på ryggen på undersøgelsesbriksen.\n\nSørg for, at der nemt kan trækkes op i trøjen, så der er adgang til højre side samt maveregion.\nHvis deltageren har BH på, foldes noget papir om denne, for at undgå, at der kommer gel på.\nDeltageren skal herefter hvile mindst 5 minutter inden scanningen foretages.\n\n\nUdførelse \n\nOpstart\n\nTænd fibroscanneren på tænd/sluk-knappen.\nTryk på “New examination”\nFirst name udfyldes ikke\nSurname: DP-Next-ID-fibro, f.eks. DP-Next-0001-fibro\nTryk på pilen\nVed “Operator” skrives initialer; f.eks. JH for Jens Hansen\nVed “Exam type” vælges”M/XL”\nLad felterne “Indication”, “Weight”, “Height” stå tomme\nVed “Fasting” vælges “Yes”\nTryk på pilen\n\nLokalisering af målepunkt\n\nLokalisér nederste spids af brystbenet og følg kroppens horisontale plan til den krydser den midtaxillære linje (den lige linje fra armhulen ned til hoften).\nLokalisér interkostalrummet mellem 8. og 9. ribben\nMarkér målepunktet med hudmarkøren\n\nLejring af deltageren\n\nBed deltageren lægge højre arm op bag hovedet\nBed deltageren krydse højre ben over det venstre\nBed deltageren presse højre side af kroppen ud mod dig, for at opnå størst mulig åbning mellem ribben.\n\nPlacering af ultralydsproben\n\nPlacér proben på det lokaliserede målepunkt (se fig-probe)\n\nLeverområde identificeres ved hjælp af kvalitetsindikatorerne på scanneren (se fig-kvalitet).\n\n\nVenstre billede: Skal vise homogent væv i en vandret struktur uden blodkar eller knogler.\nHøjre billede: En grøn firkant rundt om denne figur indikerer god vævskvalitet til undersøgelsen.\nØverste symbol viser hvor hårdt der trykkes med proben. Skal gerne være grøn i alle lag.\n\nOBS: Skift probe hvis scanneren beder dig om det. Der er to prober til rådighed; M og XL. Der startes som udgangspunkt med M og skiftes kun til XL, hvis scanneren beder dig om det.\nNår proben er placeret, laves en prøvemåling ved at trykke på knappen på proben. Hvis prøvemålingen er gyldig med realistiske værdier, holdes proben stille på målepunktet resten af undersøgelsen.\n\nHvis prøvemålingen ikke er gyldig, rykkes lidt på proben og prøvemåling gentages, indtil den er gyldig.\n\nNår proben er placeret korrekt med en valid prøvemåling, trykkes på pilen for at fortsætte til selve undersøgelsen.\n\nUndersøgelsen 1. Udfør mindst 10 gyldige målinger ved samme målepunkt. 2. Kontrollér, at IQR/median er &lt;30 %, og at CAP har nået 100 %. 3. Hvis kvalitetskravet ikke opfyldes, kontrolleres probevalg, placering og måleteknik, og en ny måleserie forsøges. 4. Hvis kvalitetskravet fortsat ikke opfyldes, gemmes resultaterne med angivelse af antal gyldige målinger og IQR/median (%). Undersøgelsen markeres som havende utilstrækkelig målekvalitet. 5. Alle måleserier bevares, også når kvalitetskravet ikke er opfyldt, så de kan identificeres og håndteres ved analysen.\nAfslutning\n\nTryk på firkanten nederst i højre hjørne for at afslutte og gemme scanningen.\nLad deltageren selv fjerne gel med en papirserviet og bed dem rejse sig fra lejet.\nHold probehovedet nedad og rengør det med en vådserviet.\nRengør briksen med en vådserviet.\n\nOverførsel af data\n\nIndsæt USB i porten på bagsiden af scanneren.\nGå til forsiden og tryk på “Archive”\nTryk på søgefeltet nederst i højre hjørne.\nIndtast navnet på forsøgsdeltageren, som blev indtastet under opstart; DP-Next-ID-fibro, f.eks. DP-Next-0001-fibro\nVælg deltageren og tryk på “Export” nederst til venstre.\nVælg XLSX som format og tryk på “Export”\nVælg at alle deltagerens scanninger skal overføres.\nLæg filen på \nUpload filen i REDCap.\nSlet filen på USB-stikket, når overførslen er fuldført.\nSlet deltagerens målinger fra scanneren, når overførslen er fuldført.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Fibroscanning</span>"
+    ]
+  },
+  {
+    "objectID": "fibroscanning.html#dokumentation-og-kvalitetskontrol",
+    "href": "fibroscanning.html#dokumentation-og-kvalitetskontrol",
+    "title": "12  Fibroscanning",
+    "section": "12.8 Dokumentation og kvalitetskontrol",
+    "text": "12.8 Dokumentation og kvalitetskontrol\nFølgende dokumenteres i REDCap:\n\nMedian leverstivhed, liver stiffness measurement (LSM, kPa).\nIQR for leverstivhed (kPa) og IQR/median (%).\nCAP (dB/m) og CAP SD (dB/m), hvis tilgængelig på apparatet.\nOperatørens initialer, probetype (M/XL) og antal gyldige målinger.\nAfvigelser fra fastekravet og øvrige forhold med betydning for målingen.\nOm kvalitetskravet er opfyldt.\n\nResultater bevares også ved utilstrækkelig målekvalitet. Ved henvisning dokumenteres årsagen, modtagende afdeling og informationen til deltageren.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Fibroscanning</span>"
+    ]
+  },
+  {
+    "objectID": "fibroscanning.html#afvigelser-og-fejl",
+    "href": "fibroscanning.html#afvigelser-og-fejl",
+    "title": "12  Fibroscanning",
+    "section": "12.9 Afvigelser og fejl",
+    "text": "12.9 Afvigelser og fejl\n\nVed anbefaling om probeskift følges apparatets anvisning.\nVed færre end 10 gyldige målinger eller IQR/median ≥30 % gemmes resultaterne, og undersøgelsen markeres som havende utilstrækkelig målekvalitet.\nVed mindre end 3 timers faste gennemføres undersøgelsen, og fastetiden registreres som en afvigelse. En ny scanning kan eventuelt aftales.\nTeknisk fejl på scanneren: kontakt \n\n\n12.9.1 Klinisk relevante fund\n\nVed valid median leverstivhed &gt;12 kPa henvises deltageren til yderligere udredning ved relevant hepatologisk afdeling med henblik på mindst biokemisk leverudredning for andre mulige årsager til leverfibrose.\nVed valid median leverstivhed ≥10 kPa henvises deltageren til relevant hepatologisk afdeling med henblik på gentaget fibroscanning inden for 6 måneder. Ved værdier &gt;12 kPa indgår kontrolscanningen i den videre udredning.\nDeltageren informeres om resultatet og henvisningen.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Fibroscanning</span>"
+    ]
+  },
+  {
+    "objectID": "fibroscanning.html#referencer",
+    "href": "fibroscanning.html#referencer",
+    "title": "12  Fibroscanning",
+    "section": "12.10 Referencer",
+    "text": "12.10 Referencer\n\nLeverstivhedsmåling/FibroScan. Esbjerg og Grindsted Sygehus. Dokument-ID 638814, version 1.2, udgivet 11.02.2025. https://infonet.regionsyddanmark.dk/D4Doc/book/RSDVdokument.asp?DokID=638814\nHepatologisk rådgivning vedrørende LightBAR fra Charlotte Wilhelmina Wernberg efter drøftelse med Mette Enok Munk Lauridsen, jf. mailkorrespondance.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Fibroscanning</span>"
+    ]
+  },
+  {
+    "objectID": "dxa-scanning.html",
+    "href": "dxa-scanning.html",
+    "title": "13  DXA-scanning",
+    "section": "",
+    "text": "13.1 Baggrund\nDXA (dual-energy X-ray absorptiometry) er en røntgenbaseret metode til måling af kropssammensætning; fedtmasse, fedtfri masse og knoglemineraltæthed.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>DXA-scanning</span>"
+    ]
+  },
+  {
+    "objectID": "dxa-scanning.html#anvendelsesområde",
+    "href": "dxa-scanning.html#anvendelsesområde",
+    "title": "13  DXA-scanning",
+    "section": "13.2 Anvendelsesområde",
+    "text": "13.2 Anvendelsesområde\n\nUndersøgelsen udføres af projektpersonale, der er uddannet og autoriseret til at betjene DXA-scanneren.\nAlle deltagere får foretaget DXA-scanning ved Visit 1.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>DXA-scanning</span>"
+    ]
+  },
+  {
+    "objectID": "dxa-scanning.html#udstyr-og-forberedelse",
+    "href": "dxa-scanning.html#udstyr-og-forberedelse",
+    "title": "13  DXA-scanning",
+    "section": "13.3 Udstyr og forberedelse",
+    "text": "13.3 Udstyr og forberedelse\n\nDXA-scanner. \nVægt og højdemåler. \nDesinfektionsservietter til aftørring af leje.\nTest scannerens nødstop, og kontrollér at røntgen- og shutter-lamper er slukket, og at skærmen viser, at nødstoppet er aktiveret.\nKontrollér, at advarselsskiltet uden for scannerrummet fungerer og lyser, når scanning pågår.\nUdfør kalibrering/kvalitetskontrol før den første deltager scannes.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>DXA-scanning</span>"
+    ]
+  },
+  {
+    "objectID": "dxa-scanning.html#sikkerhed",
+    "href": "dxa-scanning.html#sikkerhed",
+    "title": "13  DXA-scanning",
+    "section": "13.4 Sikkerhed",
+    "text": "13.4 Sikkerhed\n\nDXA anvender ioniserende stråling i lav dosis. Personalet må ikke opholde sig i scannerrummet under scanningen.\nMetal: Smykker, piercinger og tøj med metal kan påvirke scanningen og skal fjernes.\n\nAfbrydelse: Scanningen afbrydes, hvis deltageren er utilpas eller ikke kan ligge stille, eller ved fejl på udstyret. Brug nødstop ved akut behov. Efter scanningen hjælpes deltageren forsigtigt op.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>DXA-scanning</span>"
+    ]
+  },
+  {
+    "objectID": "dxa-scanning.html#data",
+    "href": "dxa-scanning.html#data",
+    "title": "13  DXA-scanning",
+    "section": "13.5 Data",
+    "text": "13.5 Data\nUndersøgelsen genererer scanfiler og kropssammensætningsmål: total og regional fedtmasse, fedtfri masse samt knoglemineraltæthed (BMD) og -indhold (BMC). Scannermodel, softwareversion og QC-status logges for hver scanning.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>DXA-scanning</span>"
+    ]
+  },
+  {
+    "objectID": "dxa-scanning.html#instruktioner",
+    "href": "dxa-scanning.html#instruktioner",
+    "title": "13  DXA-scanning",
+    "section": "13.6 Instruktioner",
+    "text": "13.6 Instruktioner\nDeltageren instrueres i at:\n\nTømme blæren inden scanningen.\nFjerne smykker, tøj med metal og sko.\nLigge stille på ryggen med armene ned langs siden under hele scanningen.\nSige til, hvis vedkommende bliver utilpas.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>DXA-scanning</span>"
+    ]
+  },
+  {
+    "objectID": "dxa-scanning.html#procedure",
+    "href": "dxa-scanning.html#procedure",
+    "title": "13  DXA-scanning",
+    "section": "13.7 Procedure",
+    "text": "13.7 Procedure\n\nForberedelse\n\nGennemfør tjek af udstyr som beskrevet under Udstyr og forberedelse.\nKontrollér deltagerens fødselsdato og deltager-ID.\nBed deltageren tømme blæren og fjerne smykker, metaltøj og sko. Udlevér om nødvendigt en kittel.\nMål og registrér højde og vægt i REDCap. \nBed deltageren lægge sig på scannerbordet i rygleje efter producentens positioneringsanvisning og lejets markeringer: midt på bordet med hovedet inden for scanområdet, kroppen ret, arme langs siden uden at røre kroppen og ben samlet.\n\nUdførelse\n\nVælg måletypen “Total Body”, og kontrollér deltagerens position på bordet. Juster om nødvendigt.\nStart scanningen efter producentens anvisninger. Gå ikke ind i scannerrummet, før scanningen er afsluttet.\nEn helkropsscanning varer ca. 15 minutter, men tiden kan variere mellem scannere.\n\nAfslutning\n\nHjælp deltageren forsigtigt ned fra scannerbordet.\nKontrollér, at scanningen er gennemført og kan analyseres.\nIndtast scanresultaterne i REDCap.\n\ntotale og regionale målinger af\n\nFedtmasse\nFedtfri masse\nKnoglemineraltæthed\nKnoglemineralindhold\n\n\nIndtast scaninformation i REDCap\n\nScannermodel\nSoftwareversion\nStatus for kvalitetskontrol\n\n\nRengør scannerbordet.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>DXA-scanning</span>"
+    ]
+  },
+  {
+    "objectID": "dxa-scanning.html#dokumentation-og-kvalitetskontrol",
+    "href": "dxa-scanning.html#dokumentation-og-kvalitetskontrol",
+    "title": "13  DXA-scanning",
+    "section": "13.8 Dokumentation og kvalitetskontrol",
+    "text": "13.8 Dokumentation og kvalitetskontrol\n\nKalibrering/kvalitetskontrol af scanneren dokumenteres efter lokal procedure.\nScannermodel og softwareversion dokumenteres.\nScanresultater og eventuelle bemærkninger registreres i REDCap.\nScanningen kontrolleres for korrekt positionering og artefakter (fx metal) før afslutning.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>DXA-scanning</span>"
+    ]
+  },
+  {
+    "objectID": "dxa-scanning.html#afvigelser-og-fejl",
+    "href": "dxa-scanning.html#afvigelser-og-fejl",
+    "title": "13  DXA-scanning",
+    "section": "13.9 Afvigelser og fejl",
+    "text": "13.9 Afvigelser og fejl\n\nForventet resultat: Gennemført helkropsscanning med korrekt positionering og uden artefakter.\nAfvigelser: Metal ikke fjernet, deltageren flyttede sig, scanningen blev afbrudt eller udstyret fejlede. Dokumentér afvigelsen i REDCap, og gentag kun scanningen, hvis det er foreneligt med strålebeskyttelse og protokol.",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>DXA-scanning</span>"
+    ]
+  },
+  {
+    "objectID": "dxa-scanning.html#referencer",
+    "href": "dxa-scanning.html#referencer",
+    "title": "13  DXA-scanning",
+    "section": "13.10 Referencer",
+    "text": "13.10 Referencer\n\nLightCOM: Standard Operating Procedure for Patient Care – DEXA Scanner, v1, 09.04.2024 (udgangspunkt for denne SOP).",
+    "crumbs": [
+      "Sektioner",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>DXA-scanning</span>"
+    ]
+  },
+  {
     "objectID": "LICENSE.html",
     "href": "LICENSE.html",
     "title": "Creative Commons Attribution 4.0 International",
