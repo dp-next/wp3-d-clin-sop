@@ -1,4 +1,4 @@
-# Finger tapping-test i DP-Next-projektet {#sec-finger-tapping}
+# Finger tapping-test {#sec-finger-tapping}
 
 ## Baggrund
 

@@ -23,4 +23,9 @@ _site
 _book
 public
 site
+
+# Cache folders
+*_cache/
+
+# RStudio
 .Rproj.user

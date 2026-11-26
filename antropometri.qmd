@@ -1,4 +1,4 @@
-# Antropometri i DP-Next-projektet {#sec-antropometri}
+# Antropometri {#sec-antropometri}
 
 ## Baggrund
 

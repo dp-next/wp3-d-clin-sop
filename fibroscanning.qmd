@@ -1,4 +1,4 @@
-# Fibroscanning i DP-Next-projektet {#sec-fibroscanning}
+# Fibroscanning {#sec-fibroscanning}
 
 ## Baggrund
 

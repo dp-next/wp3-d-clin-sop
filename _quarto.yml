@@ -1,18 +1,14 @@
 project:
-  # TODO: Change to correct project type if using extensions
   type: book
 
 book:
-  # TODO: Set the title of the website
   title: "Standard Operating Procedures for DP-Next"
   site-url: "https://dp-next.github.io/wp3-d-clin-sop/"
   repo-url: "https://github.com/dp-next/wp3-d-clin-sop"
   author:
-    - name: "Luke Johnston"
+    - name: "TODO: Fill in your name"
       affiliation: "TODO: Fill in your affiliation"
       orcid: "TODO: Fill in your ORCID"
-  # TODO: Set favicon if relevant.
-  # favicon: ""
   repo-branch: main
   repo-actions: [issue, edit, source]
   search:
@@ -20,20 +16,20 @@ book:
     type: textbox
   chapters:
     - index.qmd
-  - part: "Sektioner"
-    chapters:
-       - skabelon.qmd
-       - udstyrsoversigt.qmd
-       - affoeringsproeve.qmd
-       - blodtryk-puls.qmd
-       - spytproeve.qmd
-       - cgm.qmd
-       - blodproever.qmd
-       - kropskomposition.qmd
-       - ogtt.qmd
-       - stemmekarakteristika.qmd
-       - fibroscanning.qmd
-       - dxa-scanning.qmd
+    - part: "Sektioner"
+      chapters:
+        - skabelon.qmd
+        - udstyrsoversigt.qmd
+        - affoeringsproeve.qmd
+        - blodtryk-puls.qmd
+        - spytproeve.qmd
+        - cgm.qmd
+        - blodproever.qmd
+        - kropskomposition.qmd
+        - ogtt.qmd
+        - stemmekarakteristika.qmd
+        - fibroscanning.qmd
+        - dxa-scanning.qmd
   # appendices:
   #  - path/to/file.qmd
   tools:
@@ -46,9 +42,7 @@ book:
         href: "LICENSE.md"
 
 format:
-  # TODO: Use Quarto extension if available
-  html:
+  dp-next-theme-html:
     theme:
-      # TODO: Choose a different theme if desired
-      - litera
+      - brand
       - custom-styles.scss

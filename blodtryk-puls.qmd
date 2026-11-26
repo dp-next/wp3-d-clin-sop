@@ -1,4 +1,4 @@
-# Puls- og blodtryksmåling i DP-Next-projektet {#sec-blood-pressure-pulse}
+# Puls- og blodtryksmåling {#sec-blood-pressure-pulse}
 
 ## Baggrund
 

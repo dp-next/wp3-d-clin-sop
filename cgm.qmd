@@ -1,4 +1,4 @@
-# CGM i DP-Next-projektet {#sec-cgm}
+# CGM {#sec-cgm}
 
 ## Baggrund
 

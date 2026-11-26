@@ -1,4 +1,4 @@
-# Afføringsprøve i DP-Next-projektet {#sec-affoeringsproeve}
+# Afføringsprøve {#sec-affoeringsproeve}
 
 ## Baggrund
 
