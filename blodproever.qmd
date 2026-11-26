@@ -1,4 +1,4 @@
-# Blodprøver i DP-Next-projektet {#sec-blodprøver}
+# Blodprøver {#sec-blodprøver}
 
 ## Baggrund
 

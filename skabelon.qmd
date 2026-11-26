@@ -1,4 +1,4 @@
-# Skabelon i DP-Next-projektet {#sec-skabelon}
+# Skabelon {#sec-skabelon}
 
 ## Baggrund
 

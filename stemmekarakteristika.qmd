@@ -1,4 +1,4 @@
-# Stemmekarakteristika i DP-Next-projektet {#sec-stemmekarakteristika}
+# Stemmekarakteristika {#sec-stemmekarakteristika}
 
 ## Baggrund
 

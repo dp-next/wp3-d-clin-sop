@@ -1,4 +1,4 @@
-# DXA-scanning i DP-Next-projektet {#sec-dxa-scanning}
+# DXA-scanning {#sec-dxa-scanning}
 
 ## Baggrund
 

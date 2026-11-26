@@ -1,4 +1,4 @@
-# Spytprøve i DP-Next-projektet {#sec-spytproeve}
+# Spytprøve {#sec-spytproeve}
 
 ## Baggrund
 

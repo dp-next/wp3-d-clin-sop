@@ -1,4 +1,4 @@
-# Sensorisk funktion i DP-Next-projektet {#sec-sensoriskfunktion}
+# Sensorisk funktion {#sec-sensoriskfunktion}
 
 ## Baggrund
 

@@ -1,4 +1,4 @@
-# OGTT i DP-Next-projektet {#sec-ogtt}
+# OGTT {#sec-ogtt}
 
 ## Baggrund
 
