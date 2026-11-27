@@ -1,4 +1,4 @@
-# Etbens-balancetest i DP-Next-projektet {#sec-one-leg-balance}
+# Etbens-balancetest {#sec-one-leg-balance}
 
 ## Baggrund
 
