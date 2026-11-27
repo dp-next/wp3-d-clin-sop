@@ -149,9 +149,9 @@
 - **Dataindsamlingsmetode:** Nerveledningshastighed
 - **Udstyr:**
   - 1x ethanolservietter
-  - 1x elektrodegel
-  - 1x engangselektroder
-  - 1x apparat til nerveledningsundersøgelse
+  - 1x elektrodegel/"Sigma gel"
+  - 1x engangselektroder/biosensor
+  - 1x apparat til nerveledningsundersøgelse/DPNCheck
   - 1x undersøgelsesbriks
 - **Lokation (Aalborg):**
 
